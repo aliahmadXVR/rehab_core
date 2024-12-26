@@ -1,0 +1,6 @@
+<launch>
+
+<rosparam file="$(find rehab_leds)/params/leds.yaml" command="load"/>
+   <node name="rehab_leds" pkg="rehab_leds" type="leds_control_new_circuit.py" output = "screen"/>
+
+</launch>

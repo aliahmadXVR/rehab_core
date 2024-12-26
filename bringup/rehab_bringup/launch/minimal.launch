@@ -1,0 +1,115 @@
+<launch> 
+<!-- serial node settings -->
+    <node name="serial_node"        pkg="rosserial_python"      type="serial_node.py" output= "log">
+    <param name="port"              type="string"               value="/dev/ttyUSB1"/>
+    <param name="~baud" value="115200" />
+    </node>
+
+    <param name="start_navigation"         type="bool"                 value="false"/>
+
+<!-- upload urdf to parameter service -->
+    <arg name="urdf_file" default="$(find xacro)/xacro $(find rehab_robot)/urdf/rehab_robot.urdf.xacro" />
+    <param name="robot_description" command="$(arg urdf_file)" />
+
+<!-- Rehab hardware interface -->
+    <node name="rehab_base" pkg="rehab_base" type="rehab_base"  output="screen"/>
+
+<!-- This node is relevent to web interface (freedom robotics) to restrict backward movement of the robot -->
+    <!-- <node name="rehab_virtual_teleop" pkg="rehab_teleop" type="rehab_virtual_teleop"  output="screen"/> -->
+
+<!-- Rehab controller configuration -->
+    <rosparam command="load" 
+              file="$(find rehab_control)/config/rehab.yaml"/>
+
+<!-- Bringing up rplidar -->
+   <include file="$(find rplidar_ros)/launch/rplidar.launch"/>
+
+<!-- Spawn rehab diff-drive controller -->
+    <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+        output="screen" args="joint_state_controller
+                                            mobile_base_controller" />
+
+<!-- joint state and robot state publisher -->
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"/>
+    <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher"> 
+     <rosparam param="source_list">[/joint_states , /measured_joint_states]</rosparam>
+    </node>
+
+<!-- Teleop -->
+    <!-- <include file="$(find rehab_teleop)/launch/joy_teleop.launch"/> -->
+
+<!-- Add camera launch file here -->
+<include file="$(find realsense2_camera)/launch/rs_rgbd.launch"/>
+
+<!-- Add AR tag tracking here -->
+<include file="$(find rehab_bringup)/launch/arouco_ros.launch"/>
+
+<!-- Add docking here -->
+  <node pkg="rehab_docking" name="undock_dock" type="dock.py" output="screen"/>
+
+
+<node pkg="rehab_slam" name = "mapping_node" type = "mapping.py" output = "screen"/>
+<node pkg="rehab_navigation" name = "autonav_node" type = "auto_nav.py" output = "screen"/>
+
+
+<!-- Add bumper/cliff point cloud publisher here -->
+
+<!-- Add camera point cloud filtering node here -->
+
+<!-- Add bumper/cliff moving backward node here -->
+
+<!-- Head & Neck Bringup -->
+<!-- <include file="$(find rehab_head_neck_intg)/launch/pan_tilt.launch"/> -->
+
+<!-- Add pointcloud downsampling node here -->
+
+<!-- static tf between real amera frame and camera frame in urdf -->
+    <node pkg="tf" type="static_transform_publisher" name="azure_to_camera_base" args=" 0 0 0 0 0 0 azure_link camera_base  20" /> 
+    <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.206 0 0.083 0 0 0 base_link camera_link  20" /> 
+    
+  <!-- <include file="$(find timed_roslaunch)/launch/timed_roslaunch.launch">
+    <arg name="time" value="5" />
+    <arg name="pkg" value="rehab_navigation" />
+    <arg name="file" value="rehab_navigation_startup.launch" />
+    <arg name="value" value="initial_pose_x:=0 initial_pose_y:=0.5" />
+  </include> -->
+<!--   
+  <include file="$(find timed_roslaunch)/launch/timed_roslaunch.launch">
+    <arg name="time" value="20" />
+    <arg name="pkg" value="rehab_demos" />
+    <arg name="file" value="rotate_after_startup.launch" />
+  </include>
+   -->
+  <!-- <include file="$(find timed_roslaunch)/launch/timed_roslaunch.launch">
+    <arg name="time" value="20" />
+    <arg name="pkg" value="rehab_demos" />
+    <arg name="file" value="random_movement.launch" />
+  </include> -->
+
+ <!-- Launch Location Saver Node -->
+  <node name="rehab_loc_saver" pkg="rehab_logging" type="loc_save.py" output = "screen"/>
+
+  <!-- Launch Behavior Tree -->
+  <!-- <include file="$(find behavior_control)/launch/demo4_deploy.launch"/> -->
+
+  <!-- Launch Time Schedule & time based navgiation launch file -->
+  <rosparam file="$(find timely_nav)/params/time_config.yaml" command="load"/>
+  <node name="timely_nav_node" pkg="timely_nav" type="tn.py" output = "screen"/>
+
+  <!-- Launch Data sLogging -->
+  <node name="rehab_logging_node" pkg="rehab_logging" type="rehab_logging.py" output = "screen"/>
+
+
+  <!-- ESP-32 ros serial -->
+  <!-- <node pkg="rosserial_python" type="serial_node.py" name="serial_node_esp32" output="screen">
+    <param name="port" value="tcp"/>
+    <param name="baud" value="11411"/>
+  </node> -->
+
+  <!-- Launch led Node -->
+<rosparam file="$(find rehab_leds)/params/leds.yaml" command="load"/>
+   <node name="rehab_leds" pkg="rehab_leds" type="leds_control.py" output = "screen"/>
+
+</launch>
+
+

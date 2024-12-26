@@ -1,0 +1,10 @@
+<launch>
+
+<!-- Launch your Python script-->
+<!-- <rosparam file="$(find rehab_behavior)/params/location.yaml" command="load"/>
+<node name="rehab_behavior_node" pkg="rehab_behavior" type="behavior_node.py" output = "screen"/> -->
+
+<rosparam file="$(find rehab_behavior)/params/location.yaml" command="load"/>
+<node name="rehab_behavior_node" pkg="rehab_behavior" type="updated_behavior_node.py" output = "screen"/>
+
+</launch>

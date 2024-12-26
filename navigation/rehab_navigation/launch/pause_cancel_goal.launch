@@ -1,0 +1,4 @@
+<launch>
+  <!-- To launch pause & cancel goal node -->
+  <node name="pause_cancel_goal" pkg="rehab_navigation" type="pause_cancel_goal.py" output="screen" />
+</launch>

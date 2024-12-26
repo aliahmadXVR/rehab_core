@@ -1,0 +1,32 @@
+#pan limit -140 to 140
+#tilt limit 0 to    50
+
+neck_cmd: 0
+
+#center
+pan_center: [0]
+tilt_center: [0]
+
+#look above
+pan_above: [0]
+tilt_above: [35]
+
+#right
+pan_right: [50]
+tilt_right: [0]
+
+#left
+pan_left: [-50]
+tilt_left: [0]
+
+#Nod up down
+pan_nod: [0,0,0,0]
+tilt_nod: [30,2,30,2]
+
+#No left right
+pan_no: [30,-30,30,0]
+tilt_no: [0,0,0,0]
+
+#both pan and tilt
+pan_both: [60,0,-60,0]
+tilt_both: [30,2,30,2]

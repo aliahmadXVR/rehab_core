@@ -1,0 +1,2 @@
+int32 sensor_id
+bool sensor_state

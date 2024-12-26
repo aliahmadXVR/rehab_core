@@ -1,0 +1,5 @@
+<launch>
+    <!-- Launch your Python script -->
+    <env name="DISPLAY" value=":0" />
+    <node name="demo_trigger_node" pkg="trigger" type="demo_control.py" output="screen" />
+</launch>

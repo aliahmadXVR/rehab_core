@@ -1,0 +1,14 @@
+<launch>
+  <node pkg="nodelet" type="nodelet" name="pcl_manager" args="manager" output="screen" />
+
+  <!-- Launch your point cloud filtering node -->
+  <node pkg="rehab_pointcloud_processing" name="filteration_node" args="load pcl/StatisticalOutlierRemoval pcl_manager" type="filteration_node" output="screen">
+    <!-- Set any node-specific parameters here if needed -->
+    <!-- <remap from="/filtered_depth" to="/camera/depth_registered/points" /> -->
+  </node>
+
+  <!-- Remap the input and output topics if needed -->
+  <!-- <remap from="/depth_points" to="/your_input_topic" />
+  <remap from="/filtered_points" to="/your_output_topic" /> -->
+
+</launch>

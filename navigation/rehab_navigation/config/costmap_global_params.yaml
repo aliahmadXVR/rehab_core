@@ -1,0 +1,14 @@
+# http://wiki.ros.org/costmap_2d/flat
+global_costmap:
+  global_frame: map
+  robot_base_frame: base_link
+  update_frequency: 5
+  publish_frequency: 5
+  transform_tolerance: 0.5
+  static_map: true
+  plugins: 
+  - {name: static_layer,    type: "costmap_2d::StaticLayer"}
+  - {name: obstacle_layer,  type: "costmap_2d::ObstacleLayer"}
+  - {name: rgbd_obstacle_layer, type: "spatio_temporal_voxel_layer/SpatioTemporalVoxelLayer"}
+  - {name: inflation_layer, type: "costmap_2d::InflationLayer"}
+  # - {name: range_sensor_layer, type: "range_sensor_layer::RangeSensorLayer"}

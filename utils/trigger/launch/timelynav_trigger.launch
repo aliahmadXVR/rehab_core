@@ -1,0 +1,4 @@
+<launch>
+    <!-- Launch your Python script -->
+    <node name="timelynav_trigger_node" pkg="trigger" type="timelynav_trigger.py" output="screen" />
+</launch>

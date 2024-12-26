@@ -1,0 +1,76 @@
+<launch> 
+<!-- serial node settings -->
+    <node name="serial_node_wheels"        pkg="rosserial_python"      type="serial_node.py" output= "screen">
+    <param name="port"              type="string"               value="/dev/ttyRos"/>
+    <param name="~baud" value="115200" />
+    </node>
+
+   <!-- ESP-32 ros serial -->
+  <node pkg="rosserial_python" type="serial_node.py" name="serial_node_esp32" output="screen">
+    <param name="port" value="tcp"/>
+    <param name="baud" value="11411"/>
+  </node>
+
+<!-- upload urdf to parameter service -->
+    <arg name="urdf_file" default="$(find xacro)/xacro $(find rehab_robot)/urdf/rehab_robot.urdf.xacro" />
+    <param name="robot_description" command="$(arg urdf_file)" />
+
+<!-- Rehab hardware interface -->
+    <node name="rehab_base" pkg="rehab_base" type="rehab_base"  output="screen"/>
+
+<!-- This node is relevent to web interface (freedom robotics) to restrict backward movement of the robot -->
+    <!-- <node name="rehab_virtual_teleop" pkg="rehab_teleop" type="rehab_virtual_teleop"  output="screen"/> -->
+
+<!-- Rehab controller configuration -->
+    <rosparam command="load" 
+              file="$(find rehab_control)/config/rehab.yaml"/>
+
+<!-- Bringing up rplidar -->
+   <include file="$(find rplidar_ros)/launch/rplidar.launch"/>
+
+<!-- Launch the Filteration node  -->
+   <include file="$(find rehab_pointcloud_processing)/launch/filteration.launch"/>
+
+<!-- Spawn rehab diff-drive controller -->
+    <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+        output="screen" args="joint_state_controller
+                                            mobile_base_controller" />
+
+<!-- joint state and robot state publisher -->
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"/>
+    <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher"> 
+     <rosparam param="source_list">[/joint_states , /measured_joint_states]</rosparam>
+    </node>
+
+<!-- Add camera launch file here -->
+
+<!-- Add bumper/cliff point cloud publisher here -->
+
+<!-- Add camera point cloud filtering node here -->
+
+<!-- Add bumper/cliff moving backward node here -->
+
+<!-- Add pointcloud downsampling node here -->
+
+
+<!-- static tf between real amera frame and camera frame in urdf -->
+    <node pkg="tf" type="static_transform_publisher" name="azure_to_camera_base" args=" 0 0 0 0 0 0 azure_link camera_base  20" /> 
+
+
+    <!-- <node pkg="tf" type="static_transform_publisher" name="base_link_to_base" args=" 0 0 0.07 0 0 0 base_link base  20" /> -->
+
+    <!-- <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.21129 0 0.12672 0 -0.0523599 0 base_link camera_link  20" />  -->
+     <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.21129 0 0.12672 0 -0.0349066 0 base_link camera_link  20" /> 
+
+    <!-- <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.192 -0.023 0.190 0 -0.0349066 0 base_link camera_link  20" />  -->
+
+<!-- LEDs -->
+<include file="$(find rehab_leds)/launch/rehab_leds.launch"/>
+<!-- Add head/neck here -->
+    <include file="$(find rehab_head_neck_intg)/launch/pan_tilt.launch"/>
+
+    <!-- Launch the Trigger node.--> 
+    <env name="DISPLAY" value=":0" />
+    <node name="trigger_node" pkg="trigger" type="trigger.py" output="screen" />
+
+</launch>

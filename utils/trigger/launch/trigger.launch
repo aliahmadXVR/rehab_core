@@ -1,0 +1,5 @@
+<launch>
+     <!-- Launch the Trigger node.--> 
+    <env name="DISPLAY" value=":0" />
+    <node name="trigger_node" pkg="trigger" type="trigger.py" output="screen" />
+</launch>

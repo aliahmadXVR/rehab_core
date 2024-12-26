@@ -1,0 +1,25 @@
+<launch>
+
+   <!-- Launch the location saving node -->
+   <node name="loc_save_node" pkg="rehab_logging" type="loc_save.py" output = "screen"/>
+
+   <!-- Launch the time saving node -->
+   <node name="time_save_node" pkg="rehab_logging" type="time_save.py" output = "screen"/>
+
+   <!-- Launch the battery monitoring node -->
+   <node name="battery_monitoring_node" pkg="rehab_logging" type="battery_monitoring.py" output = "screen"/>
+
+   <!-- Launch the Navigation Status Node-->
+   <node name="navigation_status_node" pkg="rehab_logging" type="navigation_status.py" output = "screen"/>
+
+   <!-- Node For Publishing remaining Memory for recording -->
+  <node pkg="rehab_logging" name="recording_mem_status" type="rec_memory_status.py" output="screen"/>
+
+   <!-- Launch rehab logging node -->
+   <!-- <node name="rehab_logging_node" pkg="rehab_logging" type="rehab_logging.py" output = "screen"/> -->
+
+   <!-- Launch the robot_location_show node to show location on map image published on rostopic-->
+   <!-- <node name="robot_location_show_node" pkg="rehab_logging" type="robot_location_show.py" output = "screen"/> -->
+
+
+</launch>

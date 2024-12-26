@@ -1,0 +1,3 @@
+<launch> 
+    <node name="map_navigation_startup"        pkg="rehab_demos"      type="map_navigation_startup"></node>
+</launch>

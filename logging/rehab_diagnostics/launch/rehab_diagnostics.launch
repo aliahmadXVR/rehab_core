@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="rehab_diagnostics" type="rehab_diagnostics_node.py" name="Rehab_Diagnostic_Node" output="screen"/>
+</launch>

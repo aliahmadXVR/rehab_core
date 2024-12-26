@@ -1,0 +1,2533 @@
+2023-11-13 15:45:03.428447,Navigation successful
+2023-11-13 15:57:14.664174,followme
+2023-11-13 15:57:35.557925,turnaround
+2023-11-14 11:27:53,Temperature:30.243, Humidity:41.858, Pressure:98618.547,,
+2023-11-14 11:28:08,Temperature:30.258, Humidity:41.802, Pressure:98614.734,,
+2023-11-14 11:35:58.057362,hello
+2023-11-14 11:36:59.256157,Navigation failed
+2023-11-14 11:37:23.457288,Navigation successful
+2023-11-14 11:40:36.993070,Navigation successful
+2023-11-14 11:50:15.858174,hello
+2023-11-14 11:51:06.307459,Navigation failed
+2023-11-14 11:51:24.304005,Navigation successful
+2023-11-14 11:52:00.517153,goto
+2023-11-14 11:53:09,Temperature:30.491, Humidity:40.328, Pressure:98481.695,,
+2023-11-14 11:54:00.656509,goto
+2023-11-14 11:54:13.479570,goto
+2023-11-14 11:54:35.428939,goto
+2023-11-14 12:01:40.300858,hello
+2023-11-14 12:03:00.779053,goto
+2023-11-14 12:03:26.759112,Navigation failed
+2023-11-14 12:04:24.421444,Navigation successful
+2023-11-14 12:05:00.906481,goto
+2023-11-14 12:06:22,Temperature:31.952, Humidity:39.055, Pressure:99760.656,,
+2023-11-14 12:08:00.103550,goto
+2023-11-14 12:10:00.260966,goto
+2023-11-14 12:10:44.233639,goto
+2023-11-14 12:12:00.402829,goto
+2023-11-14 12:12:12,Temperature:32.264, Humidity:38.68, Pressure:99828.508,,
+2023-11-14 12:16:30.252704,Navigation failed
+2023-11-14 12:16:41.449659,Navigation successful
+2023-11-14 12:17:12,Temperature:32.164, Humidity:38.421, Pressure:99653.102,,
+2023-11-14 12:17:12.496708,Navigation failed
+2023-11-14 12:17:22.299945,Navigation successful
+2023-11-14 12:17:40.680013,Navigation failed
+2023-11-14 12:17:49.880333,Navigation successful
+2023-11-14 12:19:00.987361,goto
+2023-11-14 12:19:39.392196,Navigation failed
+2023-11-14 12:19:39.597080,Navigation successful
+2023-11-14 12:21:40.352492,Navigation failed
+2023-11-14 12:21:41.554995,Navigation successful
+2023-11-14 12:21:44.349229,Navigation failed
+2023-11-14 12:21:45.547731,Navigation successful
+2023-11-14 12:22:12,Temperature:32.64, Humidity:38.016, Pressure:100145.531,,
+2023-11-14 12:25:01.088985,hello
+2023-11-14 12:26:57.207833,Navigation failed
+2023-11-14 12:27:35.211900,Navigation successful
+2023-11-14 12:29:42,Temperature:32.654, Humidity:37.237, Pressure:99493.828,,
+2023-11-14 12:31:34.658329,goto
+2023-11-14 12:34:14.924846,Navigation failed
+2023-11-14 12:34:15.126566,Navigation successful
+2023-11-14 12:34:19.048154,Navigation failed
+2023-11-14 12:34:32.044934,Navigation successful
+2023-11-14 12:41:39.386277,hello
+2023-11-14 12:43:42.630883,Navigation failed
+2023-11-14 12:44:54.748665,goto
+2023-11-14 12:45:26.611569,Navigation successful
+2023-11-14 12:45:32,Temperature:32.701, Humidity:36.647, Pressure:99464.945,,
+2023-11-14 12:45:49.872783,Navigation failed
+2023-11-14 12:45:59.671584,Navigation successful
+2023-11-14 12:46:09.969641,Navigation failed
+2023-11-14 12:46:21.170562,Navigation successful
+2023-11-14 12:50:58.788866,goto
+2023-11-14 12:51:22,Temperature:32.231, Humidity:36.547, Pressure:99222.688,,
+2023-11-14 16:59:50,Temperature:29.913, Humidity:35.866, Pressure:97756.039,,
+2023-11-24 15:32:28,Temperature:29.618, Humidity:32.306, Pressure:96971.852,,
+2023-11-24 15:37:28,Temperature:29.398, Humidity:32.381, Pressure:96788.656,,
+2023-11-24 15:42:28,Temperature:29.225, Humidity:32.515, Pressure:96799.477,,
+2023-11-24 17:38:57.007775,turnaround
+2023-11-24 17:38:59.401896,followme
+2023-11-24 17:39:00.660714,goto
+2023-11-24 17:39:01.958325,goto
+2023-11-24 17:39:02.197678,goto
+2023-11-24 17:39:02.369977,goto
+2023-11-24 17:39:02.825560,goto
+2023-11-24 17:39:03.524437,goto
+2023-11-24 17:39:09.811598,fallhaz
+2023-11-24 17:39:14.621406,goto
+2023-11-24 17:39:19.512525,turnaround
+2023-11-24 17:39:20.972069,followme
+2023-11-24 17:39:58,Temperature:30.13, Humidity:34.781, Pressure:97526.477,,
+2023-11-24 17:40:49.889272,goto
+2023-11-24 17:40:51.782462,goto
+2023-11-24 17:40:52.093029,goto
+2023-11-24 17:45:48,Temperature:30.127, Humidity:34.817, Pressure:97363.07,,
+2023-11-24 17:51:38,Temperature:30.102, Humidity:34.808, Pressure:97345.445,,
+2023-11-24 18:00:53.532355,Navigation failed
+2023-11-24 18:02:36.185101,Navigation successful
+2023-11-24 18:08:06.249011,Navigation successful
+2023-11-24 18:09:53.949473,Navigation failed
+2023-11-24 18:10:37.749867,Navigation successful
+2023-11-24 18:11:31.680955,Navigation failed
+2023-11-24 18:12:03.274207,Navigation successful
+2023-11-24 18:12:28,Temperature:29.658, Humidity:35.32, Pressure:96976.477,,
+2023-11-24 18:18:18,Temperature:29.708, Humidity:35.484, Pressure:97115.562,,
+2023-11-24 18:24:08,Temperature:29.804, Humidity:35.379, Pressure:97456.094,,
+2023-11-24 18:29:58,Temperature:29.858, Humidity:35.123, Pressure:97278.375,,
+2023-11-24 18:34:58,Temperature:29.88, Humidity:35.02, Pressure:97319.375,,
+2023-11-24 18:40:48,Temperature:29.855, Humidity:34.956, Pressure:97235.758,,
+2023-11-24 18:45:48,Temperature:29.863, Humidity:34.938, Pressure:97202.812,,
+2023-11-24 18:51:38,Temperature:29.913, Humidity:34.841, Pressure:97248.57,,
+2023-11-24 18:56:38,Temperature:29.905, Humidity:34.801, Pressure:97257.203,,
+2023-11-24 19:01:38,Temperature:29.905, Humidity:34.821, Pressure:97227.344,,
+2023-11-24 19:07:28,Temperature:29.924, Humidity:34.821, Pressure:97290.602,,
+2023-11-24 19:12:28,Temperature:29.85, Humidity:34.908, Pressure:97093.695,,
+2023-11-24 19:17:28,Temperature:29.845, Humidity:34.975, Pressure:97105.75,,
+2023-11-24 19:22:28,Temperature:29.89, Humidity:35.001, Pressure:97224.391,,
+2023-11-24 19:27:28,Temperature:29.827, Humidity:35.045, Pressure:97142.82,,
+2023-11-27 11:20:33.697534,Navigation successful
+2023-11-27 11:20:57.369619,Navigation failed
+2023-11-27 11:21:24,Temperature:25.483, Humidity:49.162, Pressure:97712.352,,
+2023-11-27 11:21:56.352230,Navigation successful
+2023-11-27 11:24:26.538688,Navigation failed
+2023-11-27 11:29:05.691342,Navigation failed
+2023-11-27 11:30:12.491266,Navigation successful
+2023-11-27 11:31:54.352857,Navigation failed
+2023-11-27 11:32:24,Temperature:26.578, Humidity:47.247, Pressure:98120.219,,
+2023-11-27 11:37:40,Temperature:27.007, Humidity:46.456, Pressure:98146.641,,
+2023-11-27 11:42:40,Temperature:27.317, Humidity:45.718, Pressure:98279.898,,
+2023-11-27 11:46:12.735641,Navigation successful
+2023-11-27 11:47:40,Temperature:27.41, Humidity:45.237, Pressure:98229.008,,
+2023-11-27 11:52:54,Temperature:27.701, Humidity:44.638, Pressure:98330.906,,
+2023-11-27 11:57:54,Temperature:27.893, Humidity:44.187, Pressure:98311.914,,
+2023-11-27 12:02:55,Temperature:28.054, Humidity:43.728, Pressure:98360.797,,
+2023-11-27 12:08:10,Temperature:28.162, Humidity:43.324, Pressure:98321.195,,
+2023-11-27 12:22:04,Temperature:28.505, Humidity:42.318, Pressure:98230.156,,
+2023-11-27 12:24:49.614461,Navigation failed
+2023-11-27 12:25:19.214774,Navigation successful
+2023-11-27 12:27:04,Temperature:28.268, Humidity:42.345, Pressure:97814.898,,
+2023-11-27 12:35:00.427497,goto
+2023-11-27 12:35:17.303576,Navigation failed
+2023-11-28 11:10:31.861489,Navigation successful
+2023-11-28 11:13:38,Temperature:27.264, Humidity:47.542, Pressure:97993.195,,
+2023-11-28 11:14:18.921160,Navigation failed
+2023-11-28 11:15:53.321709,Navigation successful
+2023-11-28 11:17:12.083838,Navigation failed
+2023-11-28 11:17:21.884622,Navigation successful
+2023-11-28 11:18:11.386427,Navigation failed
+2023-11-28 11:18:35.587810,Navigation successful
+2023-11-28 11:19:01.226191,Navigation failed
+2023-11-28 11:19:13.425831,Navigation successful
+2023-11-28 11:19:28,Temperature:27.375, Humidity:47.14, Pressure:98205.141,,
+2023-11-29 11:52:10,Temperature:26.429, Humidity:47.457, Pressure:97746.562,,
+2023-11-29 12:11:20,Temperature:27.35, Humidity:45.734, Pressure:97983.672,,
+2023-11-29 12:16:20,Temperature:27.517, Humidity:45.341, Pressure:98059.844,,
+2023-11-29 12:21:20,Temperature:27.279, Humidity:45.205, Pressure:97659.625,,
+2023-11-29 12:26:20,Temperature:27.518, Humidity:44.996, Pressure:97955.625,,
+2023-11-29 12:30:00.610899,goto
+2023-11-29 12:31:20,Temperature:27.597, Humidity:44.831, Pressure:97952.133,,
+2023-11-29 12:32:00.720469,goto
+2023-11-29 12:35:00.889436,goto
+2023-11-29 12:36:20,Temperature:27.761, Humidity:44.63, Pressure:98150.945,,
+2023-11-29 12:38:00.063978,goto
+2023-11-29 12:41:20,Temperature:27.942, Humidity:44.568, Pressure:98035.031,,
+2023-11-29 12:42:00.290327,goto
+2023-11-29 12:46:20,Temperature:28.023, Humidity:44.229, Pressure:98109.719,,
+2023-11-29 12:48:54.848189,Navigation failed
+2023-11-29 13:14:40,Temperature:28.255, Humidity:43.08, Pressure:97824.469,,
+2023-11-29 13:15:36.042119,startmap
+2023-11-29 13:19:40,Temperature:28.069, Humidity:43.037, Pressure:97382.664,,
+2023-11-29 13:25:30,Temperature:27.757, Humidity:43.152, Pressure:96881.859,,
+2023-11-29 13:31:20,Temperature:27.844, Humidity:43.109, Pressure:97335.016,,
+2023-11-29 13:37:10,Temperature:28.08, Humidity:42.813, Pressure:97807.547,,
+2023-11-29 13:42:10,Temperature:28.23, Humidity:42.556, Pressure:97789.555,,
+2023-11-29 13:47:10,Temperature:28.316, Humidity:42.286, Pressure:97846.672,,
+2023-11-29 13:53:00,Temperature:28.427, Humidity:42.191, Pressure:97877.695,,
+2023-11-29 13:58:50,Temperature:28.432, Humidity:42.141, Pressure:97754.102,,
+2023-11-29 14:03:50,Temperature:28.462, Humidity:42.088, Pressure:97755.766,,
+2023-11-29 14:08:50,Temperature:28.51, Humidity:42.105, Pressure:97778.984,,
+2023-11-29 14:13:50,Temperature:28.563, Humidity:42.046, Pressure:97767.461,,
+2023-11-29 14:19:40,Temperature:28.568, Humidity:41.898, Pressure:97750.25,,
+2023-11-29 14:24:40,Temperature:28.618, Humidity:41.795, Pressure:97757.805,,
+2023-11-29 14:29:40,Temperature:28.618, Humidity:41.812, Pressure:97678.547,,
+2023-11-29 14:34:40,Temperature:28.558, Humidity:41.8, Pressure:97591.367,,
+2023-11-29 14:40:30,Temperature:28.51, Humidity:41.737, Pressure:97492.141,,
+2023-11-29 14:46:20,Temperature:28.472, Humidity:41.675, Pressure:97433.258,,
+2023-11-29 14:52:10,Temperature:28.463, Humidity:41.625, Pressure:97385.789,,
+2023-11-29 14:57:10,Temperature:28.47, Humidity:41.629, Pressure:97462.648,,
+2023-11-29 15:02:10,Temperature:28.566, Humidity:41.492, Pressure:97530.109,,
+2023-11-29 15:07:10,Temperature:28.563, Humidity:41.398, Pressure:97454.555,,
+2023-11-29 15:12:10,Temperature:28.589, Humidity:41.356, Pressure:97448.242,,
+2023-11-29 15:18:00,Temperature:28.627, Humidity:41.286, Pressure:97409.656,,
+2023-11-29 15:23:00,Temperature:28.666, Humidity:41.307, Pressure:97490.719,,
+2023-11-29 15:28:00,Temperature:28.689, Humidity:41.295, Pressure:97428.305,,
+2023-11-29 15:33:00,Temperature:28.689, Humidity:41.316, Pressure:97431.344,,
+2023-11-29 15:38:00,Temperature:28.634, Humidity:41.306, Pressure:97402.109,,
+2023-11-29 15:43:00,Temperature:28.757, Humidity:41.353, Pressure:97535.609,,
+2023-11-29 15:48:50,Temperature:28.846, Humidity:41.316, Pressure:97587.219,,
+2023-11-29 16:01:20,Temperature:28.825, Humidity:41.262, Pressure:97429.18,,
+2023-11-29 16:02:59.129964,Navigation successful
+2023-11-29 16:06:20,Temperature:28.612, Humidity:41.288, Pressure:97213.555,,
+2023-11-29 16:06:38.542707,Navigation failed
+2023-11-29 16:06:48.542858,Navigation successful
+2023-11-29 16:12:10,Temperature:28.689, Humidity:41.524, Pressure:97439.562,,
+2023-11-29 16:15:25.870538,startmap
+2023-11-29 16:18:00,Temperature:28.788, Humidity:41.481, Pressure:97421.172,,
+2023-11-29 16:23:00,Temperature:28.5, Humidity:41.55, Pressure:97165.883,,
+2023-11-29 16:28:00,Temperature:28.463, Humidity:41.87, Pressure:97329.758,,
+2023-11-29 16:33:50,Temperature:28.629, Humidity:41.991, Pressure:97502.898,,
+2023-11-29 16:39:40,Temperature:28.873, Humidity:41.862, Pressure:97617.742,,
+2023-11-29 16:44:40,Temperature:28.962, Humidity:41.764, Pressure:97590.078,,
+2023-11-29 16:50:30,Temperature:29.07, Humidity:41.588, Pressure:97603.328,,
+2023-11-29 17:20:20.059971,undock
+2023-11-29 17:20:29.534847,hello
+2023-11-29 17:21:17.361317,Navigation successful
+2023-11-29 17:21:42.792829,dock
+2023-11-29 17:22:21.634405,Navigation failed
+2023-11-29 17:24:40,Temperature:29.058, Humidity:41.226, Pressure:97451.422,,
+2023-11-29 17:26:59.276323,undock
+2023-11-29 17:27:01.568789,dock
+2023-11-29 17:27:05.630537,hello
+2023-11-29 17:27:41.172627,Navigation failed
+2023-11-29 17:31:31.488164,followme
+2023-11-29 17:31:32.931603,undock
+2023-11-29 17:31:37.280642,hello
+2023-11-29 17:32:15.561182,Navigation successful
+2023-11-29 17:32:30.556875,dock
+2023-11-29 17:32:31.043958,Navigation failed
+2023-11-29 17:32:49.244254,Navigation successful
+2023-11-29 17:33:53.161633,undock
+2023-11-29 17:36:20,Temperature:29.035, Humidity:41.126, Pressure:97350.086,,
+2023-11-29 17:39:00.297878,dock
+2023-11-29 17:42:10,Temperature:29.058, Humidity:41.21, Pressure:97227.781,,
+2023-11-29 17:47:10,Temperature:29.061, Humidity:41.261, Pressure:97241.578,,
+2023-11-29 17:47:44.565380,undock
+2023-11-29 17:53:00,Temperature:28.767, Humidity:41.496, Pressure:96970.695,,
+2023-11-29 17:58:00,Temperature:28.724, Humidity:41.672, Pressure:97024.039,,
+2023-11-29 17:59:24.011403,Navigation failed
+2023-11-29 17:59:30.010091,Navigation successful
+2023-11-29 18:03:50,Temperature:29.012, Humidity:41.784, Pressure:97621.008,,
+2023-11-29 18:09:40,Temperature:28.823, Humidity:41.924, Pressure:97355.742,,
+2023-11-29 18:14:40,Temperature:28.765, Humidity:42.107, Pressure:96854.797,,
+2023-11-29 18:20:30,Temperature:28.491, Humidity:42.384, Pressure:96857.508,,
+2023-11-29 18:26:20,Temperature:28.813, Humidity:42.338, Pressure:97449.836,,
+2023-11-29 18:31:20,Temperature:28.77, Humidity:42.396, Pressure:97439.055,,
+2023-11-29 18:36:20,Temperature:29.037, Humidity:42.245, Pressure:97689.539,,
+2023-11-29 18:41:20,Temperature:29.143, Humidity:42.085, Pressure:97511.047,,
+2023-11-29 18:42:33.611431,Navigation failed
+2023-11-29 18:44:43.151627,Navigation successful
+2023-11-29 18:47:10,Temperature:28.46, Humidity:42.443, Pressure:96967.805,,
+2023-11-29 18:52:10,Temperature:28.387, Humidity:42.718, Pressure:96402.742,,
+2023-11-29 18:56:13.838505,dock
+2023-11-29 18:57:10,Temperature:28.202, Humidity:42.937, Pressure:97011.039,,
+2023-11-30 14:44:28.839263,Navigation successful
+2023-11-30 14:45:33,Temperature:27.322, Humidity:48.911, Pressure:98112.32,,
+2023-11-30 14:45:34.293193,dock
+2023-11-30 14:45:41.342762,Navigation failed
+2023-11-30 14:45:58.564948,dock
+2023-11-30 14:46:12.191338,Navigation successful
+2023-11-30 14:48:08.857169,undock
+2023-11-30 14:48:10.314379,dock
+2023-11-30 14:50:33,Temperature:27.35, Humidity:48.756, Pressure:97905.266,,
+2023-11-30 14:55:33,Temperature:27.372, Humidity:48.469, Pressure:97965.586,,
+2023-11-30 15:00:33,Temperature:27.539, Humidity:48.232, Pressure:98113.57,,
+2023-11-30 15:05:33,Temperature:27.514, Humidity:48.037, Pressure:97993.125,,
+2023-11-30 15:06:26.301706,undock
+2023-11-30 15:06:36.468143,dock
+2023-11-30 15:08:00.159106,goto
+2023-11-30 15:08:00.522435,Navigation failed
+2023-11-30 15:08:04.136520,goto
+2023-11-30 15:08:04.805078,goto
+2023-11-30 15:10:33,Temperature:27.579, Humidity:47.925, Pressure:98061.609,,
+2023-11-30 15:15:33,Temperature:27.678, Humidity:47.686, Pressure:98117.211,,
+2023-11-30 15:20:33,Temperature:27.673, Humidity:47.463, Pressure:98018.156,,
+2023-11-30 15:25:33,Temperature:27.698, Humidity:47.227, Pressure:98016.695,,
+2023-11-30 15:30:33,Temperature:27.801, Humidity:47.074, Pressure:98098.414,,
+2023-11-30 15:35:33,Temperature:27.874, Humidity:46.984, Pressure:98123.219,,
+2023-11-30 15:36:33.321744,hello
+2023-11-30 15:37:50.240554,hello
+2023-11-30 15:37:51.264936,hello
+2023-11-30 15:37:52.562570,goto
+2023-11-30 15:37:55.652026,goto
+2023-11-30 15:38:03.301161,hello
+2023-11-30 15:40:33,Temperature:27.913, Humidity:46.776, Pressure:98080.086,,
+2023-11-30 15:46:46.962806,undock
+2023-11-30 15:46:58.258625,hello
+2023-11-30 15:48:21.262639,hello
+2023-11-30 15:49:43,Temperature:27.989, Humidity:46.681, Pressure:98029.297,,
+2023-11-30 15:51:02.192510,Navigation successful
+2023-11-30 15:53:52.575569,Navigation failed
+2023-11-30 15:54:16.191535,Navigation successful
+2023-11-30 15:54:43,Temperature:27.782, Humidity:46.695, Pressure:97661.008,,
+2023-11-30 15:56:19.018445,Navigation failed
+2023-11-30 15:57:00.651430,Navigation successful
+2023-11-30 15:59:44,Temperature:27.85, Humidity:46.497, Pressure:98043.719,,
+2023-11-30 16:00:37.817813,Navigation failed
+2023-11-30 16:01:30.070342,Navigation successful
+2023-11-30 16:05:33,Temperature:28.157, Humidity:46.402, Pressure:97965.156,,
+2023-11-30 16:11:23,Temperature:27.943, Humidity:46.451, Pressure:97897.875,,
+2023-11-30 16:16:23,Temperature:27.88, Humidity:46.444, Pressure:97857.242,,
+2023-11-30 16:22:13,Temperature:28.26, Humidity:46.192, Pressure:98324.391,,
+2023-11-30 16:28:03,Temperature:28.323, Humidity:45.92, Pressure:98168.047,,
+2023-11-30 16:33:03,Temperature:28.132, Humidity:45.919, Pressure:98053.688,,
+2023-11-30 16:36:10.591350,Navigation failed
+2023-11-30 16:36:47.191840,Navigation successful
+2023-11-30 16:38:53,Temperature:28.051, Humidity:45.991, Pressure:97889.961,,
+2023-11-30 16:43:53,Temperature:28.094, Humidity:45.889, Pressure:97857.961,,
+2023-11-30 16:46:27.009972,Navigation failed
+2023-11-30 16:47:12.210735,Navigation successful
+2023-11-30 16:49:43,Temperature:28.15, Humidity:46.044, Pressure:98154.664,,
+2023-11-30 16:55:08.059159,Navigation failed
+2023-11-30 16:55:33,Temperature:28.462, Humidity:45.707, Pressure:98186.117,,
+2023-11-30 16:56:14.377233,Navigation successful
+2023-11-30 17:01:23,Temperature:28.152, Humidity:45.582, Pressure:97917.602,,
+2023-11-30 17:02:26.089881,Navigation failed
+2023-11-30 17:03:17.490564,Navigation successful
+2023-11-30 17:06:23,Temperature:27.955, Humidity:45.867, Pressure:97247.891,,
+2023-11-30 17:07:04.454685,dock
+2023-11-30 17:07:10.412778,Navigation failed
+2023-11-30 17:09:16.442627,dock
+2023-11-30 17:09:26.850778,Navigation successful
+2023-11-30 17:11:23,Temperature:28.112, Humidity:45.651, Pressure:97822.984,,
+2023-11-30 17:16:23,Temperature:28.13, Humidity:45.519, Pressure:97801.734,,
+2023-11-30 17:21:23,Temperature:28.19, Humidity:45.342, Pressure:97849.805,,
+2023-11-30 17:27:13,Temperature:28.27, Humidity:45.143, Pressure:97890.609,,
+2023-11-30 17:31:08.110195,undock
+2023-11-30 17:31:21.745125,dock
+2023-11-30 17:32:18.617726,undock
+2023-11-30 17:32:31.014039,dock
+2023-11-30 17:32:40.888429,dock
+2023-11-30 17:33:03,Temperature:28.326, Humidity:44.887, Pressure:97985.883,,
+2023-11-30 17:38:53,Temperature:28.319, Humidity:44.805, Pressure:97847.258,,
+2023-11-30 17:43:53,Temperature:28.298, Humidity:44.745, Pressure:97822.438,,
+2023-11-30 17:49:43,Temperature:28.372, Humidity:44.618, Pressure:97890.75,,
+2023-11-30 17:53:56.373319,dock
+2023-11-30 17:53:56.475407,undock
+2023-11-30 17:53:57.820899,dock
+2023-11-30 17:53:58.818677,undock
+2023-11-30 17:54:58.640631,undock
+2023-11-30 17:55:08.008341,undock
+2023-11-30 17:55:33,Temperature:28.364, Humidity:44.569, Pressure:97836.359,,
+2023-11-30 17:55:37.709379,undock
+2023-11-30 18:02:56.047457,Navigation successful
+2023-11-30 18:03:55.583808,Navigation failed
+2023-11-30 18:04:09.384432,Navigation successful
+2023-11-30 18:05:31.492529,Navigation failed
+2023-11-30 18:05:33,Temperature:28.475, Humidity:43.987, Pressure:97910.57,,
+2023-11-30 18:06:39.092972,Navigation successful
+2023-11-30 18:07:44.219026,Navigation failed
+2023-11-30 18:09:02.222979,Navigation successful
+2023-11-30 18:11:23,Temperature:28.253, Humidity:44.193, Pressure:97801.406,,
+2023-11-30 18:13:49.588897,Navigation failed
+2023-11-30 18:17:13,Temperature:28.245, Humidity:44.273, Pressure:97800.539,,
+2023-11-30 18:23:03,Temperature:28.372, Humidity:44.025, Pressure:97897.883,,
+2023-11-30 18:25:51.395345,Navigation successful
+2023-11-30 18:26:35.521593,Navigation failed
+2023-11-30 18:27:03.522053,Navigation successful
+2023-11-30 18:28:03,Temperature:28.142, Humidity:44.087, Pressure:97529.211,,
+2023-11-30 18:33:53,Temperature:28.018, Humidity:44.166, Pressure:97420.781,,
+2023-11-30 18:39:43,Temperature:27.94, Humidity:44.165, Pressure:97408.117,,
+2023-11-30 18:44:43,Temperature:27.938, Humidity:44.164, Pressure:97429.109,,
+2023-11-30 18:50:33,Temperature:28.036, Humidity:44.158, Pressure:97851.148,,
+2023-11-30 18:55:33,Temperature:28.255, Humidity:43.907, Pressure:97796.273,,
+2023-11-30 19:01:23,Temperature:27.991, Humidity:43.838, Pressure:97671.203,,
+2023-11-30 19:05:54.452851,Navigation failed
+2023-11-30 19:06:23,Temperature:28.231, Humidity:43.872, Pressure:97601.148,,
+2023-11-30 19:06:25.660221,Navigation successful
+2023-11-30 19:09:33.481923,Navigation failed
+2023-11-30 19:09:35.884226,Navigation successful
+2023-11-30 19:12:13,Temperature:28.427, Humidity:43.788, Pressure:98034.945,,
+2023-11-30 19:14:26.189095,Navigation failed
+2023-11-30 19:15:20.988943,Navigation successful
+2023-11-30 19:17:13,Temperature:28.104, Humidity:43.789, Pressure:97338.711,,
+2023-11-30 19:22:13,Temperature:28.344, Humidity:43.714, Pressure:97928.055,,
+2023-11-30 19:22:40.518726,Navigation failed
+2023-11-30 19:28:03,Temperature:28.344, Humidity:43.682, Pressure:97665.016,,
+2023-11-30 19:28:44.144141,Navigation successful
+2023-11-30 19:30:22.262984,Navigation failed
+2023-11-30 19:32:35.711096,Navigation successful
+2023-11-30 19:33:03,Temperature:28.132, Humidity:43.699, Pressure:97766.281,,
+2023-11-30 19:36:22.590268,Navigation failed
+2023-11-30 19:37:04.191786,Navigation successful
+2023-11-30 19:37:33.293420,Navigation failed
+2023-11-30 19:38:03,Temperature:27.988, Humidity:43.815, Pressure:96806.977,,
+2023-11-30 19:39:05.044779,Navigation successful
+2023-11-30 19:40:01.396639,dock
+2023-12-01 16:34:08.575607,undock
+2023-12-01 16:34:14.108555,undock
+2023-12-01 16:40:27.664645,Navigation successful
+2023-12-01 16:40:40.983999,Navigation failed
+2023-12-01 16:41:03.984230,Navigation successful
+2023-12-01 16:42:15,Temperature:28.695, Humidity:37.526, Pressure:98818.023,,
+2023-12-01 16:48:05,Temperature:28.886, Humidity:37.532, Pressure:99081.688,,
+2023-12-01 16:53:05,Temperature:28.811, Humidity:37.643, Pressure:99353.641,,
+2023-12-01 16:56:27.416550,Navigation failed
+2023-12-01 16:57:18.216933,Navigation successful
+2023-12-01 16:58:55,Temperature:28.8, Humidity:37.714, Pressure:99265.008,,
+2023-12-01 17:03:55,Temperature:28.942, Humidity:37.737, Pressure:98889.156,,
+2023-12-01 17:09:45,Temperature:28.972, Humidity:37.875, Pressure:99516.656,,
+2023-12-01 17:14:45,Temperature:29.139, Humidity:37.8, Pressure:99627.477,,
+2023-12-01 17:16:29.245145,Navigation failed
+2023-12-01 17:17:39.646277,Navigation successful
+2023-12-01 17:19:45,Temperature:28.876, Humidity:37.968, Pressure:99414.914,,
+2023-12-01 17:24:45,Temperature:29.281, Humidity:37.837, Pressure:99828.812,,
+2023-12-01 17:30:35,Temperature:29.151, Humidity:37.67, Pressure:99091.461,,
+2023-12-01 17:36:25,Temperature:28.894, Humidity:37.894, Pressure:98576.953,,
+2023-12-01 17:37:45.233904,Navigation failed
+2023-12-01 17:37:58.433905,Navigation successful
+2023-12-01 17:39:18.236505,Navigation failed
+2023-12-01 17:39:28.836723,Navigation successful
+2023-12-01 17:42:15,Temperature:29.047, Humidity:38.135, Pressure:99404.234,,
+2023-12-01 17:42:45.574962,Navigation failed
+2023-12-01 17:42:56.375089,Navigation successful
+2023-12-01 17:44:46.988563,Navigation failed
+2023-12-01 17:45:31.789608,Navigation successful
+2023-12-01 17:47:15,Temperature:29.043, Humidity:38.187, Pressure:99405.562,,
+2023-12-01 17:50:26.756117,Navigation failed
+2023-12-01 17:50:35.356799,Navigation successful
+2023-12-01 17:53:05,Temperature:29.063, Humidity:38.234, Pressure:99309.656,,
+2023-12-01 17:55:55.044252,turnaround
+2023-12-01 17:56:22.164392,hello
+2023-12-01 17:56:37.837010,dock
+2023-12-01 17:56:42.081686,startreg
+2023-12-01 17:56:42.159735,hello
+2023-12-01 18:01:03.101724,Navigation successful
+2023-12-01 18:04:22.608245,hello
+2023-12-01 18:04:29.059093,dock
+2023-12-01 18:05:51.957885,Navigation successful
+2023-12-01 18:09:45,Temperature:29.307, Humidity:37.84, Pressure:98984.547,,
+2023-12-01 18:15:35,Temperature:29.106, Humidity:37.985, Pressure:98601.539,,
+2023-12-01 18:15:38.069612,undock
+2023-12-01 18:15:53.121336,dock
+2023-12-01 18:21:25,Temperature:29.022, Humidity:38.116, Pressure:98593.992,,
+2023-12-01 18:26:25,Temperature:28.939, Humidity:38.182, Pressure:98530.344,,
+2023-12-01 18:31:25,Temperature:28.911, Humidity:38.249, Pressure:98576.414,,
+2023-12-01 18:36:25,Temperature:28.889, Humidity:38.268, Pressure:98590.086,,
+2023-12-01 18:41:25,Temperature:28.883, Humidity:38.311, Pressure:98600.508,,
+2023-12-01 18:46:25,Temperature:28.893, Humidity:38.337, Pressure:98766.5,,
+2023-12-01 18:51:25,Temperature:28.954, Humidity:38.331, Pressure:98874.938,,
+2023-12-01 18:56:25,Temperature:28.959, Humidity:38.298, Pressure:98835.555,,
+2023-12-01 19:01:25,Temperature:28.957, Humidity:38.295, Pressure:98759.391,,
+2023-12-01 19:06:25,Temperature:29.004, Humidity:38.286, Pressure:98890.438,,
+2023-12-01 19:11:25,Temperature:28.997, Humidity:38.321, Pressure:98788.094,,
+2023-12-01 19:16:25,Temperature:29.002, Humidity:38.244, Pressure:98785.672,,
+2023-12-01 19:21:25,Temperature:29.004, Humidity:38.282, Pressure:98725.867,,
+2023-12-01 19:27:15,Temperature:28.994, Humidity:38.275, Pressure:98733.164,,
+2023-12-01 19:32:15,Temperature:28.989, Humidity:38.266, Pressure:98628.359,,
+2023-12-01 19:37:15,Temperature:28.987, Humidity:38.256, Pressure:98581.305,,
+2023-12-01 19:43:05,Temperature:29.03, Humidity:38.22, Pressure:98740.492,,
+2023-12-01 19:48:05,Temperature:29.007, Humidity:38.167, Pressure:98693.414,,
+2023-12-01 19:53:05,Temperature:29.09, Humidity:38.142, Pressure:98921.672,,
+2023-12-01 19:58:55,Temperature:29.1, Humidity:38.063, Pressure:98904.367,,
+2023-12-01 20:03:55,Temperature:29.136, Humidity:38.053, Pressure:98984.094,,
+2023-12-01 20:08:55,Temperature:29.171, Humidity:38.014, Pressure:99020.734,,
+2023-12-01 20:13:55,Temperature:29.163, Humidity:37.96, Pressure:98899.578,,
+2023-12-01 20:18:55,Temperature:29.181, Humidity:37.9, Pressure:98948.188,,
+2023-12-01 20:23:55,Temperature:29.189, Humidity:37.896, Pressure:98939.766,,
+                                                                                                                                                                         2023-12-04 14:21:59,Temperature:27.507, Humidity:39.341, Pressure:97004.266,,
+2023-12-04 14:22:03.436573,undock
+2023-12-04 14:22:24.428875,goto
+2023-12-04 14:26:05.764437,hello
+2023-12-04 14:29:39,Temperature:27.521, Humidity:39.391, Pressure:97190.586,,
+2023-12-04 14:34:39,Temperature:27.639, Humidity:39.313, Pressure:97327.859,,
+2023-12-04 14:35:31.970950,Navigation successful
+2023-12-04 14:36:12.609093,saveloc
+2023-12-04 14:36:45.370377,saveloc
+2023-12-04 14:37:32.646162,saveloc
+2023-12-04 14:38:12.692587,saveloc
+2023-12-04 14:38:20.773078,saveloc
+2023-12-04 14:38:27.198225,saveloc
+2023-12-04 14:38:35.959070,saveloc
+2023-12-04 14:38:36.872466,saveloc
+2023-12-04 14:38:45.782886,saveloc
+2023-12-04 14:38:55.903007,saveloc
+2023-12-04 14:39:26.759784,saveloc
+2023-12-04 14:39:34.562341,saveloc
+2023-12-04 14:39:37.160332,saveloc
+2023-12-04 14:39:39,Temperature:27.637, Humidity:39.327, Pressure:97265.078,,
+2023-12-04 14:40:13.932424,saveloc
+2023-12-04 14:41:18.563360,saveloc
+2023-12-04 14:41:44.585075,saveloc
+2023-12-04 14:42:14.688915,saveloc
+2023-12-04 14:43:23.205957,saveloc
+2023-12-04 14:43:52.512400,saveloc
+2023-12-04 14:44:11.761987,saveloc
+2023-12-04 14:44:39,Temperature:27.299, Humidity:39.446, Pressure:96868.539,,
+2023-12-04 14:44:42.687711,goto
+2023-12-04 14:45:22.161931,Navigation failed
+2023-12-04 14:45:52.511083,goto
+2023-12-04 14:48:07.988208,hello
+2023-12-04 14:50:39.827164,hello
+2023-12-04 14:51:55.715104,goto
+2023-12-04 14:52:28.047211,Navigation successful
+2023-12-04 14:53:56.799351,goto
+2023-12-04 14:54:37.389113,goto
+2023-12-04 14:54:37.442240,Navigation failed
+2023-12-04 14:54:57.095031,Navigation successful
+2023-12-04 14:55:15,Temperature:27.916, Humidity:39.022, Pressure:97227.359,,
+2023-12-04 15:01:44.922441,hello
+2023-12-04 15:01:45.055493,hello
+2023-12-04 15:02:55.796506,hello
+2023-12-04 15:03:46.447528,Navigation successful
+2023-12-04 15:05:00,Temperature:28.137, Humidity:38.593, Pressure:97412.461,,
+2023-12-04 15:05:14.845366,goto
+2023-12-04 15:10:00,Temperature:28.298, Humidity:38.508, Pressure:97614.734,,
+2023-12-04 15:15:00,Temperature:28.49, Humidity:38.312, Pressure:97758.422,,
+2023-12-04 15:20:00,Temperature:28.624, Humidity:38.045, Pressure:97718.445,,
+2023-12-04 15:21:55.499362,dock
+2023-12-04 15:40:30.100598,undock
+2023-12-04 15:40:34.662429,hello
+2023-12-04 15:41:20.935670,Navigation failed
+2023-12-04 15:41:28.736144,Navigation successful
+2023-12-04 15:41:35.846213,goto
+2023-12-04 15:45:29,Temperature:28.356, Humidity:38.004, Pressure:97473.234,,
+2023-12-04 15:51:19,Temperature:28.752, Humidity:37.631, Pressure:97693.18,,
+2023-12-04 15:57:09,Temperature:28.907, Humidity:37.331, Pressure:97699.43,,
+2023-12-04 16:02:09,Temperature:28.96, Humidity:37.148, Pressure:97613.789,,
+2023-12-04 16:23:26.094632,hello
+2023-12-04 16:23:51.144602,hello
+2023-12-04 16:24:32.333970,hello
+2023-12-04 16:25:16.014336,Navigation successful
+2023-12-04 16:25:57.859825,saveloc
+2023-12-04 16:26:19,Temperature:28.526, Humidity:37.271, Pressure:96816.367,,
+2023-12-04 16:26:47.452474,goto
+2023-12-04 16:28:50.403665,goto
+2023-12-04 16:28:50.596938,Navigation failed
+2023-12-04 16:29:11.469331,Navigation successful
+2023-12-04 16:29:17.031443,Navigation failed
+2023-12-04 16:29:23.032134,Navigation successful
+2023-12-04 16:29:39.790732,goto
+2023-12-04 16:29:39.829190,Navigation failed
+2023-12-04 16:33:17.884200,hello
+2023-12-04 16:34:26.020785,Navigation successful
+2023-12-04 16:34:58.071985,goto
+2023-12-04 16:37:59,Temperature:28.381, Humidity:37.82, Pressure:96982.117,,
+2023-12-04 16:42:59,Temperature:28.197, Humidity:38.021, Pressure:96668.492,,
+2023-12-04 16:47:59,Temperature:28.132, Humidity:38.283, Pressure:96660.406,,
+2023-12-04 16:52:59,Temperature:28.104, Humidity:38.412, Pressure:96681.68,,
+2023-12-04 16:57:59,Temperature:28.137, Humidity:38.639, Pressure:96829.562,,
+2023-12-04 16:58:30.577580,Navigation failed
+2023-12-04 16:58:48.258403,Navigation successful
+2023-12-04 16:59:24.572460,Navigation failed
+2023-12-04 17:01:49.772787,Navigation successful
+2023-12-04 18:56:27.459767,undock
+2023-12-04 18:57:31.544069,Navigation failed
+2023-12-04 18:58:33.944985,Navigation successful
+2023-12-04 18:59:04.041046,Navigation failed
+2023-12-04 18:59:27.043331,Navigation successful
+2023-12-04 19:00:29,Temperature:27.801, Humidity:39.767, Pressure:96069.719,,
+2023-12-04 19:06:19,Temperature:27.741, Humidity:40.077, Pressure:96281.328,,
+2023-12-04 19:12:09,Temperature:27.668, Humidity:40.33, Pressure:96281.508,,
+2023-12-04 19:17:10,Temperature:27.61, Humidity:40.4, Pressure:96202.141,,
+2023-12-04 19:26:07.482414,dock
+2023-12-04 19:29:12.939154,hello
+2023-12-04 19:30:01.357996,Navigation successful
+2023-12-04 19:30:42.041633,dock
+2023-12-04 19:31:50.792355,undock
+2023-12-04 19:31:51.253979,undock
+2023-12-04 19:31:58.907012,dock
+2023-12-04 19:32:40.222101,undock
+2023-12-04 19:32:46.858639,dock
+2023-12-04 19:32:59,Temperature:27.904, Humidity:40.263, Pressure:96648.281,,
+2023-12-05 11:53:06.665701,hello
+2023-12-05 11:54:30.675178,Navigation successful
+2023-12-05 11:54:42.977325,goto
+2023-12-05 11:57:04,Temperature:27.668, Humidity:42.863, Pressure:99785.469,,
+2023-12-05 12:01:50.295112,Navigation failed
+2023-12-05 12:01:50.495424,Navigation successful
+2023-12-05 12:02:04,Temperature:27.776, Humidity:42.67, Pressure:99954.336,,
+2023-12-05 12:07:50.137367,goto
+2023-12-05 12:07:54,Temperature:27.935, Humidity:42.39, Pressure:100179.586,,
+2023-12-05 12:11:24.929778,hello
+2023-12-05 12:12:03.651294,Navigation successful
+2023-12-05 12:12:13.554028,saveloc
+2023-12-05 12:12:59.016225,goto
+2023-12-05 12:14:29.781195,Navigation failed
+2023-12-05 12:14:40.580551,Navigation successful
+2023-12-05 12:33:24.764894,hello
+2023-12-05 12:35:25.611113,hello
+2023-12-05 12:36:09.245290,Navigation successful
+2023-12-05 12:36:37.099156,Navigation failed
+2023-12-05 12:36:57.022925,Navigation successful
+2023-12-05 12:37:13.800056,Navigation failed
+2023-12-05 12:37:32.536962,Navigation successful
+2023-12-05 12:38:00.275854,goto
+2023-12-05 12:38:42.043839,Navigation failed
+2023-12-05 12:38:58.850471,Navigation successful
+2023-12-05 12:39:16.110368,Navigation failed
+2023-12-05 12:39:24.908860,Navigation successful
+2023-12-05 12:42:00.292001,goto
+2023-12-05 12:42:35.121814,hello
+2023-12-05 12:43:09.291834,dock
+2023-12-05 12:43:28.271865,Navigation successful
+2023-12-05 16:11:13.088522,undock
+2023-12-05 16:11:52.026789,Navigation failed
+2023-12-05 16:12:03.627603,Navigation successful
+2023-12-05 16:13:36,Temperature:28.393, Humidity:37.545, Pressure:97988.047,,
+2023-12-05 16:13:51.214966,Navigation failed
+2023-12-05 16:17:18.082602,Navigation successful
+2023-12-05 16:19:09.023865,Navigation failed
+2023-12-05 16:19:26,Temperature:28.124, Humidity:37.96, Pressure:98664.641,,
+2023-12-05 16:19:36.625600,Navigation successful
+2023-12-05 16:20:52.496971,Navigation failed
+2023-12-05 16:21:06.899378,Navigation successful
+2023-12-05 16:25:16,Temperature:28.543, Humidity:38.109, Pressure:99473.18,,
+2023-12-05 16:39:47.122608,hello
+2023-12-05 16:41:18.935767,Navigation failed
+2023-12-05 16:41:52.336755,Navigation successful
+2023-12-05 16:42:07.036062,saveloc
+2023-12-05 16:42:14.524780,saveloc
+2023-12-05 16:43:01,Temperature:27.913, Humidity:38.564, Pressure:96334.656,,
+2023-12-05 16:43:32.952728,saveloc
+2023-12-05 16:43:52.109911,goto
+2023-12-05 16:44:24.216065,goto
+2023-12-05 16:44:24.389285,Navigation failed
+2023-12-05 16:44:49.716904,Navigation successful
+2023-12-05 16:45:05.968553,Navigation failed
+2023-12-05 16:45:28.768187,Navigation successful
+2023-12-05 16:47:31.039009,hello
+2023-12-05 16:48:24.607078,Navigation successful
+2023-12-05 16:48:24.701457,goto
+2023-12-05 16:48:35.298691,goto
+2023-12-05 16:48:35.363005,Navigation failed
+2023-12-05 16:49:14.210864,goto
+2023-12-05 16:49:56.806251,Navigation successful
+2023-12-05 16:51:36,Temperature:28.024, Humidity:38.839, Pressure:96710.414,,
+2023-12-05 16:56:36,Temperature:28.013, Humidity:38.97, Pressure:96579.195,,
+2023-12-05 16:59:39.563800,Navigation failed
+2023-12-05 17:05:48.409886,Navigation successful
+2023-12-05 17:30:18.021704,Navigation failed
+2023-12-05 17:30:45.422388,Navigation successful
+2023-12-05 17:40:31.381527,Navigation failed
+2023-12-05 17:40:35.121603,dock
+2023-12-05 17:40:50.581893,Navigation successful
+2023-12-05 18:31:29.977285,undock
+2023-12-05 18:51:36.940339,Navigation failed
+2023-12-05 18:52:41.942245,Navigation successful
+2023-12-05 18:55:27,Temperature:28.636, Humidity:37.731, Pressure:96692.289,,
+2023-12-05 18:56:21.303739,Navigation failed
+2023-12-05 18:56:47.507388,Navigation successful
+2023-12-05 19:00:27,Temperature:28.447, Humidity:37.966, Pressure:96583.406,,
+2023-12-05 19:04:00.798399,Navigation failed
+2023-12-05 19:06:17,Temperature:27.864, Humidity:38.454, Pressure:96239.023,,
+2023-12-05 19:06:20.552470,Navigation successful
+2023-12-05 19:08:02.635101,Navigation failed
+2023-12-05 19:08:39.835246,Navigation successful
+2023-12-05 19:12:07,Temperature:28.014, Humidity:38.853, Pressure:96663.172,,
+2023-12-05 19:17:07,Temperature:28.263, Humidity:38.85, Pressure:97055.477,,
+2023-12-05 19:22:07,Temperature:28.263, Humidity:38.838, Pressure:96432.406,,
+2023-12-05 19:27:57,Temperature:28.246, Humidity:38.887, Pressure:96657.734,,
+2023-12-05 19:27:58.922506,Navigation failed
+2023-12-05 19:27:59.723166,Navigation successful
+2023-12-05 19:33:47,Temperature:28.284, Humidity:38.979, Pressure:96640.727,,
+2023-12-05 19:34:37.071955,Navigation failed
+2023-12-05 19:34:49.072757,Navigation successful
+2023-12-05 19:38:47,Temperature:28.359, Humidity:38.922, Pressure:96906.961,,
+2023-12-05 19:40:52.975007,Navigation failed
+2023-12-05 19:41:02.573081,Navigation successful
+2023-12-05 19:41:53.335427,dock
+2023-12-11 14:51:47.231756,Navigation successful
+2023-12-11 14:52:57.345464,dock
+2023-12-11 14:54:26.537016,undock
+2023-12-11 14:54:46.358242,dock
+2023-12-11 14:54:47.058804,startmap
+2023-12-11 14:55:02.792793,Navigation failed
+2023-12-11 14:55:03.792709,Navigation successful
+2023-12-11 14:58:45.255261,Navigation failed
+2023-12-11 14:58:56.455116,Navigation successful
+2023-12-11 14:59:54.519991,dock
+2023-12-11 15:01:00.178045,undock
+2023-12-11 15:01:10.249193,dock
+2023-12-11 15:01:20.071064,Navigation failed
+2023-12-11 15:02:16.489478,undock
+2023-12-11 15:02:18,Temperature:24.348, Humidity:44.74, Pressure:96834.711,,
+2023-12-11 15:02:20.785767,dock
+2023-12-11 15:02:26.494499,undock
+2023-12-11 15:02:27.194214,undock
+2023-12-11 15:02:45.510761,dock
+2023-12-11 15:02:51.542238,goto
+2023-12-11 15:07:22.547883,hello
+2023-12-11 15:08:29.961844,dock
+2023-12-11 15:08:46.344080,Navigation successful
+2023-12-11 15:09:27.146991,undock
+2023-12-11 15:09:34.482751,dock
+2023-12-11 15:10:21.652595,undock
+2023-12-11 15:10:33.202618,goto
+2023-12-11 15:11:07.371531,dock
+2023-12-11 15:11:31,Temperature:25.007, Humidity:43.256, Pressure:97004.266,,
+2023-12-11 15:12:06.372489,undock
+2023-12-11 15:12:20.825991,goto
+2023-12-11 15:12:32.469007,goto
+2023-12-11 15:12:32.562130,Navigation failed
+2023-12-11 15:13:08.488749,Navigation successful
+2023-12-11 15:13:31.630318,dock
+2023-12-11 15:16:51,Temperature:25.276, Humidity:42.744, Pressure:96945.828,,
+2023-12-11 15:20:22.859183,undock
+2023-12-11 15:21:51,Temperature:25.387, Humidity:42.283, Pressure:96481.227,,
+2023-12-11 15:24:14.376195,dock
+2023-12-11 15:27:41,Temperature:25.551, Humidity:41.82, Pressure:96947.625,,
+2023-12-11 15:33:31,Temperature:25.599, Humidity:41.473, Pressure:96882.078,,
+2023-12-11 15:39:21,Temperature:25.675, Humidity:41.172, Pressure:96808.695,,
+2023-12-11 15:44:21,Temperature:25.74, Humidity:40.945, Pressure:96836.562,,
+2023-12-11 15:49:21,Temperature:25.788, Humidity:40.766, Pressure:96788.93,,
+2023-12-11 15:55:11,Temperature:25.838, Humidity:40.545, Pressure:96798.93,,
+2023-12-11 15:58:59.111075,undock
+2023-12-11 15:59:06.885004,dock
+2023-12-11 16:01:01,Temperature:26.056, Humidity:40.28, Pressure:97252.18,,
+2023-12-11 16:06:01,Temperature:26.109, Humidity:40.059, Pressure:96862.555,,
+2023-12-11 16:11:01,Temperature:26.045, Humidity:39.969, Pressure:96704.25,,
+2023-12-11 16:16:51,Temperature:26.092, Humidity:39.879, Pressure:96796.625,,
+2023-12-11 16:22:41,Temperature:26.159, Humidity:39.761, Pressure:96784.0,,
+2023-12-11 16:27:41,Temperature:26.154, Humidity:39.735, Pressure:96686.133,,
+                                   2023-12-13 11:55:40.600274,hello
+2023-12-13 11:56:35.273708,Navigation failed
+2023-12-13 11:56:46.873990,Navigation successful
+2023-12-13 11:57:14.491941,Navigation failed
+2023-12-13 11:57:16.892562,Navigation successful
+2023-12-13 11:57:20.402347,dock
+2023-12-13 11:58:25.139779,dock
+2023-12-13 11:58:31.165063,Navigation failed
+2023-12-13 11:59:09,Temperature:22.641, Humidity:47.292, Pressure:96759.508,,
+2023-12-13 11:59:16.377624,undock
+2023-12-13 11:59:16.851714,undock
+2023-12-13 11:59:39.507866,Navigation successful
+2023-12-13 12:00:20.039946,goto
+2023-12-13 12:00:24.107368,goto
+2023-12-13 12:00:51.299601,Navigation failed
+2023-12-13 12:01:02.899502,Navigation successful
+2023-12-13 12:01:26.809678,dock
+2023-12-13 12:02:41.928198,undock
+2023-12-13 12:02:51.229159,dock
+2023-12-13 12:04:09,Temperature:23.323, Humidity:46.377, Pressure:97009.539,,
+2023-12-13 12:09:09,Temperature:23.786, Humidity:45.439, Pressure:97033.141,,
+2023-12-13 12:14:09,Temperature:24.116, Humidity:44.624, Pressure:97037.297,,
+2023-12-13 12:19:38,Temperature:24.366, Humidity:43.911, Pressure:97061.125,,
+2023-12-13 12:25:28,Temperature:24.607, Humidity:43.319, Pressure:97079.477,,
+2023-12-13 12:30:00.769894,goto
+2023-12-13 12:30:28,Temperature:24.744, Humidity:42.795, Pressure:97083.359,,
+2023-12-13 12:32:00.881146,goto
+2023-12-13 12:33:40.187817,Navigation failed
+2023-12-13 12:33:48.432794,dock
+2023-12-13 12:33:49.116611,undock
+2023-12-13 12:33:52.910233,undock
+2023-12-13 12:34:02.340203,goto
+2023-12-13 12:34:59.432400,Navigation successful
+2023-12-13 12:35:00.069359,goto
+2023-12-13 12:35:14.739671,goto
+2023-12-13 12:35:19.038061,turnaround
+2023-12-13 12:35:20.508528,dock
+2023-12-13 12:35:28,Temperature:24.907, Humidity:42.394, Pressure:97255.461,,
+2023-12-13 12:35:29.489357,undock
+2023-12-13 12:35:33.747812,undock
+2023-12-13 12:38:00.578006,goto
+2023-12-13 12:38:01.338423,hello
+2023-12-13 12:39:08.139722,Navigation failed
+2023-12-13 12:39:20.339944,Navigation successful
+2023-12-13 12:40:43.705456,goto
+2023-12-13 12:41:09.564720,goto
+2023-12-13 12:41:27.265955,goto
+2023-12-13 12:42:00.825558,goto
+2023-12-13 12:42:01.683966,saveloc
+2023-12-13 12:42:08,Temperature:25.377, Humidity:41.7, Pressure:97523.016,,
+2023-12-13 12:42:19.332951,goto
+2023-12-13 12:42:35.514293,dock
+2023-12-13 12:47:08,Temperature:25.329, Humidity:41.332, Pressure:97178.414,,
+2023-12-13 12:52:58,Temperature:25.441, Humidity:41.071, Pressure:97264.367,,
+2023-12-13 12:56:03.783078,undock
+2023-12-13 12:56:12.781448,goto
+2023-12-13 12:57:58,Temperature:25.365, Humidity:40.965, Pressure:96529.461,,
+2023-12-13 12:58:11.669142,saveloc
+2023-12-13 13:00:30.824244,saveloc
+2023-12-13 13:00:36.475933,goto
+2023-12-13 13:02:19.839045,goto
+2023-12-13 13:03:20.678016,dock
+2023-12-13 13:03:48,Temperature:25.549, Humidity:40.538, Pressure:97149.383,,
+2023-12-13 13:04:42.390129,undock
+2023-12-13 13:04:51.385799,goto
+2023-12-13 13:05:27.354447,dock
+2023-12-13 13:09:38,Temperature:25.816, Humidity:40.279, Pressure:97368.117,,
+2023-12-13 13:15:28,Temperature:26.118, Humidity:39.821, Pressure:97534.695,,
+2023-12-13 13:21:18,Temperature:26.239, Humidity:39.457, Pressure:97416.102,,
+2023-12-13 13:27:08,Temperature:26.255, Humidity:39.102, Pressure:97508.164,,
+2023-12-13 13:32:58,Temperature:26.298, Humidity:38.851, Pressure:97365.984,,
+2023-12-13 13:35:39.223287,Navigation failed
+2023-12-13 13:38:48,Temperature:26.363, Humidity:38.565, Pressure:97319.742,,
+2023-12-13 13:44:38,Temperature:26.257, Humidity:38.473, Pressure:97061.094,,
+2023-12-13 13:49:38,Temperature:26.252, Humidity:38.418, Pressure:97004.617,,
+2023-12-13 13:55:28,Temperature:26.326, Humidity:38.274, Pressure:97150.406,,
+2023-12-13 14:00:28,Temperature:26.441, Humidity:38.148, Pressure:97175.172,,
+2023-12-13 14:05:28,Temperature:26.576, Humidity:38.005, Pressure:97475.555,,
+2023-12-13 14:10:28,Temperature:26.596, Humidity:37.736, Pressure:97122.891,,
+2023-12-13 14:15:28,Temperature:26.53, Humidity:37.596, Pressure:97045.523,,
+2023-12-13 14:20:28,Temperature:26.514, Humidity:37.466, Pressure:96927.992,,
+2023-12-13 14:25:28,Temperature:26.467, Humidity:37.392, Pressure:96901.141,,
+2023-12-13 14:30:28,Temperature:26.435, Humidity:37.243, Pressure:96740.984,,
+2023-12-13 14:35:28,Temperature:26.53, Humidity:36.943, Pressure:96978.273,,
+2023-12-13 14:40:28,Temperature:26.588, Humidity:36.84, Pressure:96931.664,,
+2023-12-13 14:45:28,Temperature:26.615, Humidity:36.733, Pressure:97001.023,,
+2023-12-13 14:51:18,Temperature:26.629, Humidity:36.7, Pressure:96930.43,,
+2023-12-13 14:56:18,Temperature:26.729, Humidity:36.718, Pressure:97128.398,,
+2023-12-13 14:57:24.107218,undock
+2023-12-13 14:58:04.732470,goto
+2023-12-13 14:59:17.053654,Navigation successful
+2023-12-13 14:59:24.163295,dock
+2023-12-13 14:59:24.200263,Navigation failed
+2023-12-13 14:59:33.202779,Navigation successful
+2023-12-13 15:00:28.308635,undock
+2023-12-13 15:00:37.005855,goto
+2023-12-13 15:00:41.119491,goto
+2023-12-13 15:00:44.673935,goto
+2023-12-13 15:00:45.286708,goto
+2023-12-13 15:00:45.663496,goto
+2023-12-13 15:00:46.020433,goto
+2023-12-13 15:00:46.288945,goto
+2023-12-13 15:00:46.926094,goto
+2023-12-13 15:00:49.621493,turnaround
+2023-12-13 15:01:18,Temperature:26.709, Humidity:36.718, Pressure:96596.477,,
+2023-12-13 15:08:15.387887,goto
+2023-12-13 15:08:39.393718,hello
+2023-12-13 15:09:30.840648,Navigation successful
+2023-12-13 15:09:50.386491,Navigation failed
+2023-12-13 15:10:04.105527,goto
+2023-12-13 15:10:20.724515,goto
+2023-12-13 15:10:36.280551,dock
+2023-12-13 15:10:39.115570,endmap
+2023-12-13 15:11:07.654041,undock
+2023-12-13 15:11:09.734434,dock
+2023-12-13 15:11:40.365200,Navigation successful
+2023-12-13 15:12:45.325533,undock
+2023-12-13 15:12:47,Temperature:27.194, Humidity:36.245, Pressure:97005.727,,
+2023-12-13 15:12:55.057266,dock
+2023-12-13 15:17:47,Temperature:26.825, Humidity:36.25, Pressure:96573.25,,
+2023-12-13 15:22:47,Temperature:26.721, Humidity:36.304, Pressure:96719.484,,
+2023-12-13 15:27:47,Temperature:26.789, Humidity:36.321, Pressure:96936.406,,
+2023-12-13 15:32:47,Temperature:26.77, Humidity:36.342, Pressure:96720.875,,
+2023-12-13 15:37:48,Temperature:26.777, Humidity:37.415, Pressure:96627.406,,
+2023-12-13 15:42:48,Temperature:26.628, Humidity:36.333, Pressure:96327.82,,
+2023-12-13 15:47:48,Temperature:26.583, Humidity:36.362, Pressure:96457.242,,
+2023-12-13 15:52:48,Temperature:26.693, Humidity:36.422, Pressure:96652.969,,
+2023-12-13 15:57:48,Temperature:26.837, Humidity:36.378, Pressure:96879.984,,
+2023-12-13 16:02:48,Temperature:26.845, Humidity:36.32, Pressure:96779.367,,
+2023-12-13 16:07:48,Temperature:26.85, Humidity:36.241, Pressure:96665.898,,
+2023-12-13 16:12:48,Temperature:26.928, Humidity:36.124, Pressure:96982.93,,
+2023-12-13 16:17:49,Temperature:27.009, Humidity:36.078, Pressure:96745.273,,
+2023-12-13 16:22:49,Temperature:26.838, Humidity:36.132, Pressure:96409.758,,
+2023-12-13 16:27:49,Temperature:26.729, Humidity:36.224, Pressure:96290.594,,
+2023-12-13 16:32:49,Temperature:26.719, Humidity:36.316, Pressure:96344.688,,
+2023-12-13 16:37:49,Temperature:26.73, Humidity:36.32, Pressure:96332.234,,
+2023-12-13 16:42:49,Temperature:26.762, Humidity:36.404, Pressure:96367.867,,
+2023-12-13 16:47:49,Temperature:26.783, Humidity:36.448, Pressure:96431.555,,
+2023-12-13 16:52:50,Temperature:26.774, Humidity:36.53, Pressure:96345.125,,
+2023-12-13 16:57:50,Temperature:26.782, Humidity:36.597, Pressure:96373.188,,
+2023-12-13 17:02:50,Temperature:26.708, Humidity:36.67, Pressure:96162.281,,
+2023-12-13 17:07:50,Temperature:26.636, Humidity:36.834, Pressure:96105.914,,
+2023-12-13 17:13:02,Temperature:26.666, Humidity:36.944, Pressure:96271.375,,
+2023-12-13 17:18:05,Temperature:26.853, Humidity:36.98, Pressure:96628.922,,
+2023-12-13 17:23:05,Temperature:26.8, Humidity:36.996, Pressure:96621.938,,
+2023-12-13 17:28:06,Temperature:27.608, Humidity:36.726, Pressure:99790.008,,
+2023-12-13 17:33:06,Temperature:27.713, Humidity:36.41, Pressure:99926.695,,
+2023-12-13 17:38:07,Temperature:27.748, Humidity:36.305, Pressure:99731.969,,
+2023-12-13 17:43:52,Temperature:27.715, Humidity:36.281, Pressure:99514.516,,
+2023-12-13 17:54:35.240589,hello
+2023-12-13 17:59:06,Temperature:26.656, Humidity:36.899, Pressure:95974.273,,
+2023-12-13 18:01:31.154503,Navigation failed
+2023-12-13 18:01:38.155417,Navigation successful
+2023-12-13 18:02:13.586081,Navigation failed
+2023-12-13 18:02:20.335285,Navigation successful
+2023-12-13 18:02:56.159094,goto
+2023-12-13 18:03:03.110415,Navigation failed
+2023-12-13 18:04:06,Temperature:26.76, Humidity:37.158, Pressure:96526.727,,
+2023-12-13 18:04:11.300124,goto
+2023-12-13 18:05:21.937357,Navigation successful
+2023-12-13 18:05:22.399869,goto
+2023-12-13 18:09:02.448352,goto
+2023-12-13 18:09:06,Temperature:26.848, Humidity:37.161, Pressure:96571.695,,
+2023-12-13 18:09:58.316696,goto
+2023-12-13 18:09:58.471245,Navigation failed
+2023-12-13 18:10:32.916228,Navigation successful
+2023-12-13 18:11:02.427709,goto
+2023-12-13 18:11:58.779946,dock
+2023-12-13 18:13:27.995927,Navigation failed
+2023-12-14 11:36:10.151459,undock
+2023-12-14 11:36:17.407098,goto
+2023-12-14 11:36:25.084226,hello
+2023-12-14 11:37:14.922223,Navigation successful
+2023-12-14 11:37:48.175193,goto
+2023-12-14 11:38:10.059149,goto
+2023-12-14 11:40:20.761969,hello
+2023-12-14 11:41:07.262419,goto
+2023-12-14 11:41:50.880944,Navigation successful
+2023-12-14 11:42:08.484341,Navigation failed
+2023-12-14 11:42:19.085413,Navigation successful
+2023-12-14 11:42:22.601573,goto
+2023-12-14 11:42:36.637311,goto
+2023-12-14 11:44:18.380324,goto
+2023-12-14 11:44:27.154476,hello
+                                                                                                                    2023-12-14 11:48:30.671886,hello
+2023-12-14 11:48:45.263756,goto
+2023-12-14 11:49:24.970604,goto
+2023-12-14 11:49:39.824696,Navigation successful
+2023-12-14 11:50:06.375865,dock
+2023-12-14 11:52:45,Temperature:24.704, Humidity:40.817, Pressure:97024.555,,
+2023-12-14 11:57:46,Temperature:24.978, Humidity:40.214, Pressure:97102.062,,
+2023-12-14 12:01:57.782415,undock
+2023-12-14 12:02:07.012300,undock
+2023-12-14 12:02:13.129009,undock
+2023-12-14 12:02:47,Temperature:26.137, Humidity:39.391, Pressure:100470.609,,
+2023-12-14 12:07:47,Temperature:26.696, Humidity:38.652, Pressure:100721.453,,
+2023-12-14 12:12:53,Temperature:27.002, Humidity:38.14, Pressure:100525.617,,
+2023-12-14 12:17:41.001154,Navigation failed
+2023-12-14 12:17:52.321753,Navigation successful
+2023-12-14 12:17:53,Temperature:27.154, Humidity:37.883, Pressure:100633.859,,
+2023-12-14 12:23:35,Temperature:27.284, Humidity:37.484, Pressure:100477.031,,
+2023-12-14 12:28:35,Temperature:27.511, Humidity:37.154, Pressure:100662.719,,
+2023-12-14 12:30:00.494468,goto
+2023-12-14 12:32:00.627360,goto
+2023-12-14 12:33:43,Temperature:27.746, Humidity:36.76, Pressure:100678.078,,
+2023-12-14 12:35:00.846958,goto
+2023-12-14 12:38:00.036923,goto
+2023-12-14 12:38:43,Temperature:28.006, Humidity:36.407, Pressure:100802.57,,
+2023-12-14 12:42:00.309260,goto
+2023-12-14 12:43:43,Temperature:28.135, Humidity:36.061, Pressure:100672.055,,
+2023-12-14 12:48:43,Temperature:28.167, Humidity:35.801, Pressure:100536.055,,
+2023-12-14 12:53:58.505349,Navigation failed
+2023-12-14 12:54:25,Temperature:27.887, Humidity:35.642, Pressure:99348.766,,
+2023-12-14 12:54:40.906894,Navigation successful
+2023-12-14 12:59:33,Temperature:27.92, Humidity:35.62, Pressure:99798.93,,
+2023-12-14 13:00:44.891703,goto
+2023-12-14 13:00:51.991254,goto
+2023-12-14 13:01:06.867446,dock
+2023-12-14 13:05:15,Temperature:27.884, Humidity:35.465, Pressure:99550.664,,
+2023-12-14 13:05:46.440971,undock
+2023-12-14 13:10:23,Temperature:28.099, Humidity:35.259, Pressure:100363.609,,
+2023-12-14 13:16:05,Temperature:28.283, Humidity:35.0, Pressure:100315.883,,
+2023-12-14 13:21:05,Temperature:28.236, Humidity:34.874, Pressure:100082.492,,
+2023-12-14 13:26:13,Temperature:28.263, Humidity:34.727, Pressure:99757.086,,
+2023-12-14 13:31:13,Temperature:28.362, Humidity:34.677, Pressure:100155.328,,
+2023-12-14 13:36:13,Temperature:28.488, Humidity:34.537, Pressure:100332.508,,
+2023-12-14 18:18:40.463939,undock
+2023-12-14 18:18:50.810516,hello
+2023-12-14 18:19:01.554283,Navigation failed
+2023-12-14 18:20:54.683071,Navigation successful
+2023-12-14 18:22:52,Temperature:27.103, Humidity:36.776, Pressure:96203.906,,
+2023-12-14 18:27:53,Temperature:27.234, Humidity:36.866, Pressure:96464.695,,
+2023-12-14 18:33:42,Temperature:27.294, Humidity:36.771, Pressure:96523.812,,
+2023-12-14 18:39:32,Temperature:27.302, Humidity:36.811, Pressure:96471.75,,
+2023-12-14 18:44:32,Temperature:27.32, Humidity:36.814, Pressure:96510.719,,
+2023-12-14 18:48:14.214301,Navigation failed
+2023-12-14 18:48:42.214132,Navigation successful
+2023-12-14 18:50:22,Temperature:27.135, Humidity:36.806, Pressure:96141.977,,
+2023-12-14 18:56:12,Temperature:27.251, Humidity:36.747, Pressure:96385.039,,
+2023-12-14 19:01:13,Temperature:26.767, Humidity:36.987, Pressure:95933.07,,
+2023-12-14 19:02:36.523780,Navigation failed
+2023-12-14 19:03:47.125423,Navigation successful
+2023-12-14 19:06:05.233280,undock
+2023-12-14 19:06:06.977163,undock
+2023-12-14 19:06:07.954706,dock
+2023-12-14 19:06:25.968265,undock
+2023-12-14 19:06:26.356203,undock
+2023-12-14 19:06:29.327328,undock
+2023-12-14 19:06:52.887161,undock
+2023-12-14 19:06:55.201823,undock
+2023-12-14 19:07:02,Temperature:26.611, Humidity:37.372, Pressure:95513.164,,
+2023-12-14 19:08:17.580557,Navigation failed
+2023-12-14 19:08:28.729744,Navigation successful
+2023-12-14 19:08:42.129963,Navigation failed
+2023-12-14 19:09:03.530320,Navigation successful
+2023-12-14 19:09:08.057543,Navigation failed
+2023-12-14 19:09:15.658449,Navigation successful
+2023-12-14 19:10:23.596202,goto
+2023-12-14 19:12:52,Temperature:26.822, Humidity:37.344, Pressure:96433.688,,
+2023-12-14 19:17:08.261512,Navigation failed
+2023-12-14 19:17:47.052644,goto
+2023-12-14 19:17:54,Temperature:26.788, Humidity:37.18, Pressure:96048.883,,
+2023-12-14 19:18:26.424633,Navigation successful
+2023-12-14 19:19:30.299104,goto
+2023-12-14 19:19:30.468710,Navigation failed
+2023-12-14 19:20:22.323627,Navigation successful
+2023-12-14 19:22:22.227467,Navigation failed
+2023-12-14 19:23:43,Temperature:26.731, Humidity:37.338, Pressure:95490.391,,
+2023-12-14 19:23:54.821736,goto
+2023-12-14 19:24:51.302887,goto
+2023-12-14 19:25:02.787165,goto
+2023-12-14 19:26:02.204917,Navigation successful
+2023-12-14 19:28:37.279698,goto
+2023-12-14 19:29:32,Temperature:26.808, Humidity:37.231, Pressure:96247.812,,
+2023-12-14 19:29:39.932663,goto
+2023-12-14 19:29:40.178274,Navigation failed
+2023-12-14 19:30:22.778488,Navigation successful
+2023-12-14 19:35:22,Temperature:26.906, Humidity:37.229, Pressure:95633.398,,
+2023-12-14 19:35:29.238173,goto
+2023-12-14 19:35:29.428113,Navigation failed
+2023-12-14 19:35:30.389009,goto
+2023-12-14 19:35:30.920301,goto
+2023-12-14 19:35:31.417240,goto
+2023-12-14 19:36:01.807333,Navigation successful
+2023-12-14 19:36:07.315303,Navigation failed
+2023-12-14 19:36:17.080866,goto
+2023-12-14 19:37:30.110385,Navigation successful
+2023-12-14 19:38:54.328250,dock
+2023-12-14 19:38:54.529170,Navigation failed
+2023-12-14 19:39:21.129098,Navigation successful
+2023-12-14 19:40:23,Temperature:26.893, Humidity:37.155, Pressure:96264.953,,
+2023-12-14 19:46:12,Temperature:27.006, Humidity:37.141, Pressure:96375.305,,
+2023-12-19 11:53:38,Temperature:24.789, Humidity:37.114, Pressure:97387.477,,
+2023-12-21 15:58:38.114876,undock
+2023-12-21 15:58:52.891815,hello
+2023-12-21 16:00:56.034635,Navigation successful
+2023-12-21 16:17:34.014888,hello
+2023-12-21 16:18:14.742213,dock
+2023-12-21 16:18:32.709810,Navigation successful
+2023-12-21 16:19:59.147062,undock
+2023-12-21 16:20:16.378911,dock
+2023-12-26 16:12:48.639399,hello
+2023-12-26 16:13:52.642945,Navigation successful
+2023-12-26 16:16:04,Temperature:24.95, Humidity:47.307, Pressure:97746.758,,
+2023-12-26 16:20:20.227576,dock
+2023-12-26 16:21:04,Temperature:24.998, Humidity:47.153, Pressure:97645.109,,
+2023-12-26 16:21:36.699507,undock
+2023-12-26 16:23:32.569216,dock
+2023-12-26 16:26:04,Temperature:24.807, Humidity:47.291, Pressure:97281.008,,
+2023-12-26 16:31:20,Temperature:25.296, Humidity:47.082, Pressure:98214.141,,
+2023-12-26 16:36:20,Temperature:25.528, Humidity:46.754, Pressure:98232.289,,
+2023-12-26 16:41:20,Temperature:25.66, Humidity:46.449, Pressure:98247.805,,
+2023-12-26 16:46:20,Temperature:25.793, Humidity:46.205, Pressure:98201.336,,
+2023-12-26 16:51:20,Temperature:25.901, Humidity:45.996, Pressure:98230.945,,
+2023-12-26 16:56:20,Temperature:25.874, Humidity:45.887, Pressure:97919.953,,
+2023-12-26 17:01:21,Temperature:25.874, Humidity:45.791, Pressure:97906.984,,
+2023-12-26 17:06:21,Temperature:25.879, Humidity:45.678, Pressure:97887.172,,
+2023-12-26 17:11:21,Temperature:25.914, Humidity:45.625, Pressure:97857.469,,
+2023-12-26 17:16:21,Temperature:25.742, Humidity:45.612, Pressure:97446.141,,
+2023-12-26 17:21:21,Temperature:25.639, Humidity:45.678, Pressure:97298.594,,
+2023-12-26 17:26:21,Temperature:25.73, Humidity:45.668, Pressure:97662.367,,
+2023-12-26 17:28:50.290970,startmap
+2024-01-02 12:27:28,Temperature:21.787, Humidity:46.144, Pressure:96569.406,,
+2024-01-02 12:30:00.153750,goto
+2024-01-02 12:32:00.268351,goto
+2024-01-02 12:38:00.880629,goto
+2024-01-02 12:42:00.111431,goto
+2024-01-02 12:42:28,Temperature:22.201, Humidity:44.809, Pressure:96442.328,,
+2024-01-02 12:48:44.781817,startmap
+2024-01-02 12:49:48.101169,endmap
+2024-01-02 12:51:42,Temperature:22.372, Humidity:44.284, Pressure:96389.078,,
+2024-01-02 12:56:42,Temperature:22.486, Humidity:43.991, Pressure:96592.789,,
+2024-01-02 13:01:44,Temperature:22.561, Humidity:43.824, Pressure:96576.734,,
+2024-01-02 13:06:44,Temperature:22.657, Humidity:43.573, Pressure:96653.586,,
+2024-01-02 13:11:45,Temperature:23.586, Humidity:43.056, Pressure:100959.266,,
+2024-01-02 13:16:45,Temperature:23.674, Humidity:42.588, Pressure:100634.344,,
+2024-01-02 13:21:45,Temperature:23.785, Humidity:42.279, Pressure:100606.297,,
+2024-01-09 17:14:33,Temperature:20.223, Humidity:47.217, Pressure:95967.648,,
+2024-01-09 17:19:33,Temperature:20.365, Humidity:46.723, Pressure:96091.406,,
+2024-01-09 17:24:33,Temperature:20.498, Humidity:46.242, Pressure:96113.039,,
+2024-01-09 17:29:33,Temperature:20.619, Humidity:45.966, Pressure:96142.891,,
+2024-01-09 17:35:23,Temperature:20.748, Humidity:45.501, Pressure:96181.719,,
+2024-01-09 17:41:13,Temperature:20.816, Humidity:45.162, Pressure:96015.203,,
+2024-01-09 17:47:03,Temperature:20.932, Humidity:44.843, Pressure:96218.625,,
+2024-01-09 17:52:03,Temperature:21.068, Humidity:44.473, Pressure:96227.781,,
+2024-01-09 17:57:03,Temperature:21.124, Humidity:44.237, Pressure:96211.586,,
+2024-01-09 18:02:03,Temperature:21.232, Humidity:43.927, Pressure:96307.18,,
+2024-01-09 18:04:34.471351,endmap
+2024-01-09 18:07:03,Temperature:21.5, Humidity:43.583, Pressure:96733.531,,
+2024-01-09 18:12:03,Temperature:21.475, Humidity:43.368, Pressure:96342.438,,
+2024-01-09 18:17:03,Temperature:21.452, Humidity:43.247, Pressure:96160.555,,
+2024-01-09 18:22:03,Temperature:21.464, Humidity:43.186, Pressure:96224.523,,
+2024-01-09 18:27:03,Temperature:21.434, Humidity:43.054, Pressure:96174.172,,
+2024-01-09 18:32:03,Temperature:21.479, Humidity:42.887, Pressure:96100.211,,
+2024-01-09 18:37:03,Temperature:21.459, Humidity:42.751, Pressure:95987.602,,
+2024-01-09 18:42:03,Temperature:21.525, Humidity:42.621, Pressure:96160.016,,
+2024-01-09 18:47:03,Temperature:21.495, Humidity:42.505, Pressure:96014.906,,
+                                                                              2024-01-10 12:02:56,Temperature:20.079, Humidity:46.418, Pressure:95851.289,,
+2024-01-10 12:07:56,Temperature:20.208, Humidity:46.045, Pressure:95954.852,,
+2024-01-10 12:12:57,Temperature:20.332, Humidity:45.581, Pressure:95944.211,,
+2024-01-10 12:17:57,Temperature:20.443, Humidity:45.26, Pressure:96004.656,,
+2024-01-10 12:22:57,Temperature:20.589, Humidity:44.881, Pressure:96111.984,,
+2024-01-10 12:27:57,Temperature:20.693, Humidity:44.51, Pressure:96150.5,,
+2024-01-10 12:32:57,Temperature:20.798, Humidity:44.21, Pressure:96114.828,,
+2024-01-10 12:37:57,Temperature:20.859, Humidity:43.874, Pressure:96056.922,,
+2024-01-10 12:42:57,Temperature:20.937, Humidity:43.615, Pressure:96005.703,,
+2024-01-10 12:47:57,Temperature:20.927, Humidity:43.35, Pressure:95912.766,,
+2024-01-10 12:52:58,Temperature:20.962, Humidity:43.174, Pressure:95877.812,,
+2024-01-10 12:57:58,Temperature:21.04, Humidity:42.923, Pressure:95924.266,,
+2024-01-10 13:02:58,Temperature:21.083, Humidity:42.81, Pressure:96012.734,,
+2024-01-10 13:07:59,Temperature:22.014, Humidity:42.21, Pressure:100596.367,,
+2024-01-10 13:12:59,Temperature:22.052, Humidity:41.86, Pressure:100414.102,,
+2024-01-10 13:17:59,Temperature:22.13, Humidity:41.526, Pressure:100418.398,,
+2024-01-10 13:19:56.858741,dock
+2024-01-10 13:22:35.842795,dock
+2024-01-10 13:26:43.948918,dock
+2024-01-10 13:26:59,Temperature:22.71, Humidity:40.834, Pressure:101132.57,,
+2024-01-10 13:31:59,Temperature:22.817, Humidity:40.468, Pressure:100880.867,,
+2024-01-10 13:37:30,Temperature:22.884, Humidity:40.139, Pressure:100699.844,,
+2024-01-10 13:43:20,Temperature:22.937, Humidity:39.909, Pressure:100510.086,,
+2024-01-10 13:45:47.963875,dock
+2024-01-10 13:46:26.004914,dock
+2024-01-10 13:46:46.794115,dock
+2024-01-10 13:47:18.728882,dock
+2024-01-10 13:47:47.142394,dock
+2024-01-10 13:48:20,Temperature:22.98, Humidity:39.655, Pressure:100803.977,,
+2024-01-10 13:48:32.879739,dock
+2024-01-10 13:48:54.963108,dock
+2024-01-10 13:49:43.885856,dock
+2024-01-10 13:50:33.752931,dock
+2024-01-10 13:52:02.298363,dock
+2024-01-10 13:52:42.918506,dock
+2024-01-10 13:53:20,Temperature:23.313, Humidity:39.426, Pressure:101204.445,,
+2024-01-10 13:58:20,Temperature:23.417, Humidity:39.13, Pressure:100956.312,,
+2024-01-10 14:03:20,Temperature:23.447, Humidity:38.855, Pressure:100626.141,,
+2024-01-10 14:03:57.519292,dock
+2024-01-10 14:07:03.599495,dock
+2024-01-10 14:07:16.655132,dock
+2024-01-10 14:07:44.947643,dock
+2024-01-10 14:08:01.126858,dock
+2024-01-10 14:08:20,Temperature:23.525, Humidity:38.691, Pressure:100774.203,,
+2024-01-10 14:09:19.432497,dock
+2024-01-10 16:25:53.813579,startmap
+2024-01-10 16:26:30.734783,saveloc
+2024-01-10 16:27:02.161694,saveloc
+2024-01-10 16:27:26.833782,saveloc
+2024-01-10 16:28:01.999936,saveloc
+2024-01-10 16:30:01,Temperature:23.041, Humidity:38.303, Pressure:99692.641,,
+2024-01-10 16:31:04.349274,endmap
+2024-01-10 16:41:53.250251,startmap
+2024-01-10 16:44:11,Temperature:22.88, Humidity:38.31, Pressure:96730.07,,
+2024-01-10 16:44:26.096452,saveloc
+2024-01-10 16:45:06.169529,saveloc
+2024-01-10 16:45:35.903726,saveloc
+2024-01-10 16:46:25.396890,saveloc
+2024-01-10 16:47:54.079669,endmap
+2024-01-10 16:49:11,Temperature:22.461, Humidity:38.38, Pressure:98390.414,,
+2024-01-10 16:49:43.318573,goto
+2024-01-10 16:50:54.195529,goto
+2024-01-10 16:51:34.119739,goto
+2024-01-10 16:51:44.448409,goto
+2024-01-10 16:51:48.070747,goto
+2024-01-10 16:51:50.547835,goto
+2024-01-10 16:54:11,Temperature:23.198, Humidity:38.368, Pressure:100003.75,,
+2024-01-10 16:59:11,Temperature:22.892, Humidity:38.36, Pressure:98449.0,,
+2024-01-10 17:04:11,Temperature:22.746, Humidity:38.513, Pressure:98178.383,,
+2024-01-10 17:05:32.557193,startmap
+2024-01-10 17:09:11,Temperature:22.731, Humidity:38.612, Pressure:98213.438,,
+2024-01-10 17:15:01,Temperature:22.678, Humidity:38.646, Pressure:98262.18,,
+2024-01-12 11:20:12.227963,endmap
+2024-01-12 11:23:13,Temperature:18.914, Humidity:49.467, Pressure:96767.516,,
+2024-01-12 11:28:14,Temperature:19.421, Humidity:48.541, Pressure:96542.062,,
+2024-01-12 11:30:00.104084,goto
+2024-01-12 11:32:00.216191,goto
+2024-01-12 11:38:00.566131,goto
+2024-01-12 11:40:57,Temperature:20.309, Humidity:46.507, Pressure:96484.414,,
+2024-01-12 11:42:00.796832,goto
+2024-01-12 11:44:00.679241,endmap
+2024-01-12 11:45:57,Temperature:20.473, Humidity:45.967, Pressure:96412.297,,
+2024-01-12 11:50:57,Temperature:20.612, Humidity:45.4, Pressure:96414.352,,
+2024-01-12 11:55:57,Temperature:20.73, Humidity:45.001, Pressure:96353.234,,
+2024-01-12 12:00:57,Temperature:20.831, Humidity:44.596, Pressure:96307.273,,
+2024-01-12 12:05:57,Temperature:20.897, Humidity:44.225, Pressure:96265.727,,
+2024-01-12 12:10:57,Temperature:20.957, Humidity:43.9, Pressure:96246.797,,
+2024-01-12 12:15:57,Temperature:21.071, Humidity:43.674, Pressure:96365.945,,
+2024-01-12 12:20:57,Temperature:21.108, Humidity:43.416, Pressure:96176.719,,
+2024-01-12 12:25:57,Temperature:21.192, Humidity:43.307, Pressure:96391.617,,
+2024-01-12 12:28:24.996224,endmap
+2024-01-12 12:30:57,Temperature:21.313, Humidity:42.99, Pressure:96281.945,,
+2024-01-17 13:15:49.548586,endmap
+2024-01-17 13:19:50,Temperature:20.909, Humidity:44.118, Pressure:94873.023,,
+2024-01-17 13:24:50,Temperature:20.929, Humidity:44.117, Pressure:95051.602,,
+2024-01-17 13:26:06.657055,goto
+2024-01-17 13:32:49,Temperature:20.965, Humidity:44.05, Pressure:95151.992,,
+2024-01-17 13:37:50,Temperature:21.04, Humidity:43.895, Pressure:95343.586,,
+2024-01-17 13:50:10,Temperature:21.054, Humidity:43.807, Pressure:95156.391,,
+2024-01-17 13:58:51,Temperature:21.038, Humidity:43.849, Pressure:95120.672,,
+2024-01-17 14:04:06,Temperature:21.142, Humidity:43.74, Pressure:95392.5,,
+2024-01-17 14:09:06,Temperature:21.149, Humidity:43.791, Pressure:95323.328,,
+2024-01-17 14:14:06,Temperature:21.132, Humidity:43.787, Pressure:95185.625,,
+2024-01-17 14:19:06,Temperature:21.167, Humidity:43.711, Pressure:95257.516,,
+2024-01-17 14:24:06,Temperature:21.21, Humidity:43.703, Pressure:95384.203,,
+2024-01-23 14:19:15.765185,endmap
+2024-01-23 14:22:44,Temperature:18.659, Humidity:51.557, Pressure:96940.531,,
+2024-01-23 14:29:15,Temperature:19.283, Humidity:50.776, Pressure:97310.625,,
+2024-01-23 17:04:53,Temperature:18.674, Humidity:52.861, Pressure:101984.5,,
+2024-01-25 15:52:44.786790,endmap
+2024-01-25 15:56:44,Temperature:20.07, Humidity:48.278, Pressure:96811.227,,
+2024-01-25 16:01:44,Temperature:20.306, Humidity:47.785, Pressure:96827.766,,
+2024-01-25 16:06:44,Temperature:20.561, Humidity:47.269, Pressure:96781.711,,
+2024-01-25 16:11:44,Temperature:20.692, Humidity:46.888, Pressure:96740.0,,
+2024-01-25 16:20:33.593332,endmap
+2024-01-25 16:21:44,Temperature:20.992, Humidity:46.144, Pressure:96702.516,,
+2024-01-25 16:26:45,Temperature:21.045, Humidity:45.891, Pressure:96752.609,,
+2024-01-30 15:33:44.345073,startmap
+2024-01-30 15:33:45.809402,endmap
+2024-01-30 15:57:41.783959,endmap
+2024-01-30 16:01:51,Temperature:25.138, Humidity:45.581, Pressure:96979.594,,
+2024-01-30 17:26:02,Temperature:25.852, Humidity:44.415, Pressure:96206.703,,
+2024-01-30 17:28:25.772469,saveloc
+2024-01-30 17:28:26.542478,endmap
+2024-01-30 17:31:02,Temperature:25.824, Humidity:44.843, Pressure:96536.539,,
+2024-01-30 17:36:02,Temperature:25.854, Humidity:45.036, Pressure:96568.719,,
+2024-01-30 17:44:04.930339,endmap
+2024-02-06 15:01:11.524591,startmap
+2024-02-06 15:01:12.423094,endmap
+2024-02-06 15:13:25.306677,demo4
+2024-02-06 15:13:26,Temperature:27.254, Humidity:36.811, Pressure:97201.859,,
+2024-02-06 15:14:29.791239,startmap
+2024-02-06 15:14:32.073141,endmap
+2024-02-06 15:18:09.564411,demo4
+2024-02-06 15:18:26,Temperature:27.37, Humidity:36.831, Pressure:97307.875,,
+2024-02-06 15:19:16.069603,demo4
+2024-02-06 15:19:25.155510,demo4
+2024-02-06 15:19:30.208068,demo4
+2024-02-06 15:20:09.836717,demo4
+2024-02-06 15:21:17.991327,demo4
+2024-02-06 15:22:00.100889,startmap
+2024-02-06 15:22:01.494175,endmap
+2024-02-06 15:22:07.117864,demo4
+2024-02-06 15:23:09.678746,demo4
+2024-02-06 15:23:26,Temperature:27.44, Humidity:36.732, Pressure:97435.875,,
+2024-02-06 15:24:20.186454,demo4
+2024-02-06 15:25:44.818226,startmap
+2024-02-06 15:25:46.135725,endmap
+2024-02-06 15:26:01.043332,demo4
+2024-02-06 15:30:31.881026,startmap
+2024-02-06 15:30:33.573829,endmap
+2024-02-06 15:30:47.145279,demo4
+2024-02-06 15:32:22.084254,demo4
+2024-02-06 15:33:42,Temperature:27.247, Humidity:36.625, Pressure:96892.867,,
+2024-02-06 15:38:42,Temperature:27.097, Humidity:36.751, Pressure:96832.68,,
+2024-02-06 15:43:42,Temperature:26.984, Humidity:36.781, Pressure:96580.164,,
+2024-02-06 15:49:21,Temperature:27.705, Humidity:36.458, Pressure:100325.617,,
+2024-02-06 15:55:11,Temperature:27.64, Humidity:36.222, Pressure:99820.719,,
+2024-02-06 16:00:11,Temperature:27.725, Humidity:36.136, Pressure:100095.75,,
+2024-02-06 16:05:11,Temperature:27.721, Humidity:36.091, Pressure:99870.688,,
+2024-02-06 16:10:11,Temperature:27.673, Humidity:35.969, Pressure:99592.398,,
+2024-02-06 16:16:01,Temperature:27.66, Humidity:35.855, Pressure:99441.586,,
+2024-02-06 16:21:51,Temperature:27.619, Humidity:35.843, Pressure:99318.375,,
+2024-02-06 16:27:41,Temperature:27.577, Humidity:35.824, Pressure:99156.781,,
+2024-02-06 16:33:31,Temperature:27.576, Humidity:35.743, Pressure:99189.586,,
+2024-02-06 16:39:21,Temperature:27.575, Humidity:35.642, Pressure:99222.883,,
+2024-02-06 16:44:21,Temperature:27.589, Humidity:35.563, Pressure:99158.82,,
+2024-02-06 16:49:21,Temperature:27.577, Humidity:35.546, Pressure:99087.773,,
+2024-02-06 16:54:21,Temperature:27.68, Humidity:35.447, Pressure:99531.047,,
+2024-02-06 17:00:11,Temperature:27.645, Humidity:35.316, Pressure:99115.617,,
+2024-02-06 17:05:11,Temperature:27.652, Humidity:35.432, Pressure:99091.695,,
+2024-02-06 17:11:01,Temperature:27.617, Humidity:35.488, Pressure:98919.766,,
+2024-02-06 17:16:01,Temperature:27.653, Humidity:35.454, Pressure:99148.227,,
+2024-02-06 17:21:01,Temperature:27.68, Humidity:35.331, Pressure:99093.898,,
+2024-02-06 17:26:01,Temperature:27.683, Humidity:35.379, Pressure:99004.961,,
+2024-02-06 17:31:01,Temperature:27.652, Humidity:35.299, Pressure:98986.305,,
+2024-02-06 17:36:01,Temperature:27.655, Humidity:35.226, Pressure:98782.711,,
+2024-02-06 17:41:01,Temperature:27.635, Humidity:35.323, Pressure:98795.852,,
+2024-02-06 17:46:01,Temperature:27.67, Humidity:35.416, Pressure:98968.297,,
+2024-02-06 17:51:01,Temperature:27.653, Humidity:35.505, Pressure:98764.836,,
+2024-02-06 17:56:51,Temperature:27.559, Humidity:35.716, Pressure:98638.625,,
+2024-02-06 18:01:51,Temperature:27.506, Humidity:35.838, Pressure:98574.422,,
+2024-02-06 18:07:41,Temperature:27.496, Humidity:36.002, Pressure:98689.031,,
+2024-02-06 18:12:41,Temperature:27.466, Humidity:36.079, Pressure:98679.656,,
+2024-02-06 18:17:41,Temperature:27.466, Humidity:36.197, Pressure:98579.828,,
+2024-02-06 18:22:41,Temperature:27.501, Humidity:36.258, Pressure:98838.164,,
+2024-02-06 18:28:31,Temperature:27.428, Humidity:36.364, Pressure:98505.453,,
+2024-02-06 18:34:21,Temperature:27.368, Humidity:36.494, Pressure:98525.766,,
+2024-02-06 18:39:21,Temperature:27.337, Humidity:36.465, Pressure:98455.109,,
+2024-02-06 18:45:11,Temperature:27.332, Humidity:36.458, Pressure:98553.383,,
+2024-02-06 18:51:01,Temperature:27.319, Humidity:36.38, Pressure:98498.789,,
+2024-02-14 15:02:25.460016,demo2
+2024-02-14 15:02:52.067348,demo4
+2024-02-14 15:06:50,Temperature:28.346, Humidity:39.215, Pressure:97867.062,,
+2024-02-14 15:44:24,Temperature:29.115, Humidity:40.355, Pressure:97947.367,,
+2024-02-14 15:49:24,Temperature:29.126, Humidity:40.273, Pressure:97972.031,,
+2024-02-14 15:54:04.090081,demo4
+2024-02-14 15:56:44.427381,demo4
+2024-02-14 15:58:07.328069,demo4
+2024-02-14 15:58:34,Temperature:29.317, Humidity:40.68, Pressure:98102.562,,
+2024-02-14 16:01:25.386157,demo4
+2024-02-14 16:03:34,Temperature:29.413, Humidity:40.739, Pressure:98417.062,,
+2024-02-14 16:03:36.796171,demo4
+2024-02-14 16:06:37.738037,demo4
+2024-02-14 16:08:10.748600,demo4
+2024-02-14 16:09:24,Temperature:29.486, Humidity:40.824, Pressure:98415.633,,
+2024-02-14 16:10:02.773037,demo4
+2024-02-14 16:14:24,Temperature:29.544, Humidity:40.719, Pressure:98318.398,,
+2024-02-14 16:14:37.570558,demo4
+2024-02-14 16:14:53.694933,demo4
+2024-02-14 16:19:24,Temperature:29.587, Humidity:40.614, Pressure:98250.203,,
+2024-02-14 16:25:14,Temperature:29.6, Humidity:40.394, Pressure:98106.492,,
+2024-02-14 16:31:04,Temperature:29.698, Humidity:40.058, Pressure:98291.312,,
+2024-02-14 16:31:18.337755,demo4
+2024-02-14 16:36:06.364647,demo4
+2024-02-14 16:38:20.372794,demo4
+2024-02-14 16:40:29.552929,demo4
+2024-02-14 16:41:04,Temperature:29.824, Humidity:39.48, Pressure:98460.633,,
+2024-02-14 16:59:15.633004,demo4
+2024-02-14 17:00:48,Temperature:30.256, Humidity:38.463, Pressure:98594.617,,
+2024-02-14 17:03:59.811032,demo4
+2024-02-14 17:05:48,Temperature:30.533, Humidity:38.03, Pressure:98897.32,,
+2024-02-14 17:08:21.301940,demo4
+2024-02-14 17:10:48,Temperature:30.677, Humidity:37.694, Pressure:98693.07,,
+2024-02-14 17:15:04.532802,demo2
+2024-02-14 17:15:48,Temperature:30.748, Humidity:37.316, Pressure:98652.328,,
+2024-02-15 16:57:09,Temperature:31.074, Humidity:32.329, Pressure:98962.422,,
+2024-02-15 17:02:09,Temperature:31.0, Humidity:32.4, Pressure:98770.992,,
+2024-02-15 17:07:09,Temperature:30.99, Humidity:32.631, Pressure:99083.578,,
+2024-02-15 17:12:09,Temperature:30.932, Humidity:32.697, Pressure:98633.117,,
+2024-02-15 17:17:59,Temperature:30.944, Humidity:32.474, Pressure:98835.688,,
+2024-02-16 12:24:35,Temperature:26.739, Humidity:42.379, Pressure:97854.656,,
+2024-02-16 12:29:35,Temperature:27.261, Humidity:41.424, Pressure:97979.25,,
+2024-02-16 12:34:35,Temperature:27.667, Humidity:40.54, Pressure:98016.805,,
+2024-02-16 12:39:35,Temperature:27.999, Humidity:39.759, Pressure:98033.789,,
+2024-02-16 12:44:36,Temperature:28.231, Humidity:39.094, Pressure:97996.18,,
+2024-02-16 12:49:36,Temperature:28.47, Humidity:38.481, Pressure:98045.594,,
+2024-02-16 12:52:05.673924,demo2
+2024-02-16 12:53:34.191590,exitdemo
+2024-02-16 12:55:36,Temperature:28.693, Humidity:37.959, Pressure:98122.383,,
+2024-02-16 12:55:44.129890,demo2
+2024-02-16 12:56:04.651116,exitdemo
+2024-02-16 13:07:36,Temperature:29.188, Humidity:36.722, Pressure:98194.648,,
+2024-02-16 13:12:36,Temperature:29.209, Humidity:36.396, Pressure:97970.945,,
+2024-02-16 13:17:36,Temperature:29.342, Humidity:36.044, Pressure:98104.117,,
+2024-02-16 13:22:36,Temperature:29.419, Humidity:35.539, Pressure:98065.344,,
+2024-02-16 13:27:37,Temperature:29.464, Humidity:35.118, Pressure:97989.32,,
+2024-02-16 13:32:37,Temperature:29.532, Humidity:34.801, Pressure:98000.594,,
+2024-02-16 13:35:13.221674,demo4
+2024-02-16 13:35:17.786729,demo2
+2024-02-16 13:35:26.972702,demo3
+2024-02-16 13:35:38.254437,demo3
+2024-02-16 13:37:37,Temperature:29.64, Humidity:34.427, Pressure:98036.625,,
+2024-02-16 13:42:37,Temperature:29.664, Humidity:34.094, Pressure:97916.336,,
+2024-02-16 13:47:37,Temperature:29.741, Humidity:33.733, Pressure:97953.562,,
+2024-02-16 13:52:37,Temperature:29.786, Humidity:33.548, Pressure:97895.562,,
+2024-02-16 13:57:37,Temperature:29.804, Humidity:33.333, Pressure:97804.664,,
+2024-02-16 14:02:38,Temperature:29.855, Humidity:33.165, Pressure:97787.0,,
+2024-02-16 14:07:38,Temperature:29.882, Humidity:32.875, Pressure:97744.398,,
+2024-02-16 14:13:09,Temperature:29.903, Humidity:32.63, Pressure:97686.266,,
+2024-02-16 14:18:09,Temperature:29.971, Humidity:32.495, Pressure:97647.969,,
+2024-02-16 14:23:09,Temperature:30.039, Humidity:32.241, Pressure:97757.797,,
+2024-02-16 14:28:09,Temperature:30.034, Humidity:32.261, Pressure:97699.922,,
+2024-02-16 14:33:59,Temperature:30.102, Humidity:32.014, Pressure:97673.773,,
+2024-02-16 14:38:59,Temperature:30.188, Humidity:31.966, Pressure:97825.641,,
+2024-02-16 14:44:49,Temperature:30.195, Humidity:32.058, Pressure:97567.359,,
+2024-02-16 14:49:49,Temperature:30.208, Humidity:32.118, Pressure:97578.508,,
+2024-02-16 14:54:49,Temperature:30.215, Humidity:32.281, Pressure:97597.43,,
+2024-02-16 14:59:49,Temperature:30.281, Humidity:32.3, Pressure:97673.789,,
+2024-02-16 15:04:49,Temperature:30.294, Humidity:32.199, Pressure:97570.016,,
+2024-02-16 15:09:50,Temperature:30.289, Humidity:32.109, Pressure:97466.305,,
+2024-02-19 17:20:25.392330,hello
+2024-02-19 17:27:00.617375,goto
+2024-02-19 17:29:00.747737,goto
+2024-02-19 17:36:01.271999,startmap
+2024-02-19 17:36:04.481025,endmap
+2024-02-19 17:37:19,Temperature:28.019, Humidity:47.375, Pressure:97486.414,,
+2024-02-19 17:42:19,Temperature:28.389, Humidity:46.776, Pressure:97610.727,,
+2024-02-19 17:43:32.644284,startmap
+2024-02-19 17:43:34.529265,endmap
+2024-02-19 17:47:19,Temperature:28.472, Humidity:46.141, Pressure:97381.859,,
+2024-02-22 13:24:21,Temperature:30.142, Humidity:31.595, Pressure:96577.93,,
+2024-02-22 17:32:00.832893,goto
+2024-02-22 18:28:55,Temperature:29.575, Humidity:31.799, Pressure:96279.797,,
+2024-02-22 18:33:55,Temperature:29.464, Humidity:31.987, Pressure:96072.156,,
+2024-02-22 18:38:55,Temperature:29.616, Humidity:31.889, Pressure:96535.664,,
+2024-02-23 12:33:18,Temperature:27.952, Humidity:31.798, Pressure:96933.117,,
+2024-02-23 12:39:08,Temperature:28.217, Humidity:31.352, Pressure:96863.078,,
+2024-02-23 12:40:48.463445,demo4
+2024-02-23 12:43:13.893388,demo4
+2024-02-23 12:44:08,Temperature:28.435, Humidity:30.877, Pressure:96917.922,,
+2024-02-23 12:49:08,Temperature:28.699, Humidity:30.764, Pressure:97091.43,,
+2024-02-23 14:02:07.868581,demo4
+2024-02-23 15:39:58,Temperature:30.107, Humidity:25.253, Pressure:96070.289,,
+2024-02-23 15:44:58,Temperature:30.108, Humidity:25.321, Pressure:96078.156,,
+2024-02-23 15:49:58,Temperature:30.13, Humidity:25.272, Pressure:96179.922,,
+2024-02-23 15:54:58,Temperature:30.19, Humidity:25.286, Pressure:96341.867,,
+2024-02-23 15:59:58,Temperature:30.097, Humidity:25.036, Pressure:95908.805,,
+2024-02-23 16:05:48,Temperature:30.034, Humidity:24.935, Pressure:95983.664,,
+2024-02-23 16:10:48,Temperature:30.019, Humidity:24.855, Pressure:95812.664,,
+2024-02-23 16:15:48,Temperature:30.021, Humidity:24.732, Pressure:95941.812,,
+2024-02-23 16:20:48,Temperature:30.052, Humidity:24.628, Pressure:95970.867,,
+2024-02-23 16:25:48,Temperature:30.145, Humidity:24.49, Pressure:96034.203,,
+2024-02-23 16:31:38,Temperature:30.059, Humidity:24.551, Pressure:95960.266,,
+2024-02-23 16:36:38,Temperature:30.079, Humidity:24.519, Pressure:96027.281,,
+2024-02-23 17:11:25,Temperature:28.689, Humidity:26.422, Pressure:96191.852,,
+2024-02-23 17:16:25,Temperature:29.062, Humidity:26.133, Pressure:96269.875,,
+2024-02-23 17:21:25,Temperature:29.388, Humidity:25.808, Pressure:96331.078,,
+2024-02-23 17:23:00.020127,goto
+2024-02-23 17:25:00.136039,goto
+2024-02-23 17:26:25,Temperature:29.592, Humidity:25.604, Pressure:96420.008,,
+2024-02-23 17:27:00.247215,goto
+2024-02-23 17:29:00.354896,goto
+2024-02-23 17:31:25,Temperature:29.711, Humidity:25.522, Pressure:96187.414,,
+2024-02-23 17:32:00.516829,goto
+2024-02-23 17:36:25,Temperature:29.744, Humidity:25.53, Pressure:96252.836,,
+2024-02-23 17:41:25,Temperature:29.802, Humidity:25.234, Pressure:96133.445,,
+2024-02-23 17:47:09,Temperature:29.58, Humidity:25.224, Pressure:95389.625,,
+2024-02-23 17:52:09,Temperature:29.741, Humidity:24.988, Pressure:95902.078,,
+2024-02-23 17:57:59,Temperature:29.767, Humidity:24.926, Pressure:96038.859,,
+2024-02-26 10:19:49.889579,startmap
+2024-02-26 10:19:51.585731,endmap
+2024-02-26 10:19:59.735996,goto
+2024-02-26 10:20:02.383001,goto
+2024-02-26 10:20:04.450786,goto
+2024-02-26 10:20:06.674652,goto
+2024-02-26 10:20:09.050100,goto
+2024-02-26 10:20:11.126719,goto
+2024-02-26 10:21:11.192543,goto
+2024-02-26 10:21:11.955352,goto
+2024-02-26 10:21:12.397312,goto
+2024-02-26 10:22:24,Temperature:26.129, Humidity:36.666, Pressure:97429.797,,
+2024-02-26 11:40:14,Temperature:28.354, Humidity:30.813, Pressure:97449.992,,
+2024-02-26 11:46:04,Temperature:28.362, Humidity:30.712, Pressure:97322.727,,
+2024-02-26 11:55:27.862868,Navigation failed
+2024-02-26 11:55:47.265725,Navigation successful
+2024-02-26 11:58:34,Temperature:28.516, Humidity:30.649, Pressure:97663.055,,
+2024-02-26 12:04:24,Temperature:28.876, Humidity:30.252, Pressure:97693.336,,
+2024-02-26 12:09:24,Temperature:28.886, Humidity:30.144, Pressure:96079.016,,
+2024-02-26 12:09:26.284375,Navigation failed
+2024-02-26 12:11:05.284893,Navigation successful
+2024-02-26 12:28:42.744512,demo4
+2024-02-26 12:31:38.999947,demo2
+2024-02-26 12:32:26.192486,demo2
+2024-02-26 12:34:07.812197,demo2
+2024-02-26 12:34:23,Temperature:29.342, Humidity:29.51, Pressure:97170.664,,
+2024-02-26 12:39:24,Temperature:28.931, Humidity:29.189, Pressure:96894.617,,
+2024-02-26 12:41:00.690239,goto
+2024-02-26 12:42:00.784906,goto
+2024-02-26 12:44:00.926733,goto
+2024-02-26 12:45:14,Temperature:28.77, Humidity:29.056, Pressure:96726.172,,
+2024-02-26 12:46:00.048465,goto
+2024-02-26 12:48:00.201262,goto
+2024-02-26 12:51:04,Temperature:28.806, Humidity:28.998, Pressure:96710.516,,
+2024-02-26 12:56:04,Temperature:28.858, Humidity:28.952, Pressure:96746.062,,
+2024-02-26 14:13:59.392213,Navigation successful
+2024-02-26 14:16:54,Temperature:28.639, Humidity:28.145, Pressure:96652.883,,
+2024-02-26 15:54:27.548991,Navigation failed
+2024-02-26 15:54:45.549250,Navigation successful
+2024-02-26 15:57:44,Temperature:28.155, Humidity:27.422, Pressure:95105.641,,
+2024-02-26 15:57:53.262491,Navigation failed
+2024-02-26 15:58:08.062943,Navigation successful
+2024-02-26 15:58:54.005478,Navigation failed
+2024-02-26 15:59:06.605776,Navigation successful
+2024-02-26 16:00:14.260240,Navigation failed
+2024-02-26 16:00:32.060488,Navigation successful
+2024-02-26 16:02:44,Temperature:28.571, Humidity:27.599, Pressure:96396.359,,
+2024-02-26 16:19:32.601130,hello
+2024-02-26 16:30:57.874199,Navigation successful
+2024-02-26 16:31:54,Temperature:28.465, Humidity:27.221, Pressure:95416.828,,
+2024-02-26 16:34:23.950748,Navigation failed
+2024-02-26 16:34:34.952099,Navigation successful
+2024-02-26 16:36:56,Temperature:28.467, Humidity:27.488, Pressure:95795.562,,
+2024-02-26 16:42:44,Temperature:28.429, Humidity:27.263, Pressure:95926.062,,
+2024-02-26 16:42:48.040941,dock
+2024-02-26 16:43:45.277533,dock
+2024-02-26 16:45:34.611836,Navigation failed
+2024-02-26 16:46:04.812644,Navigation successful
+2024-02-26 16:47:44,Temperature:28.493, Humidity:27.424, Pressure:95960.438,,
+2024-02-26 16:48:19.738146,Navigation failed
+2024-02-26 16:48:40.939637,Navigation successful
+2024-02-26 16:49:56.388009,hello
+2024-02-26 16:58:12.743703,hello
+2024-02-26 17:14:33.982790,Navigation failed
+2024-02-26 17:14:56.982744,Navigation successful
+2024-02-26 17:16:34.550148,Navigation failed
+2024-02-26 17:16:53.631879,dock
+2024-02-26 17:17:05.151375,Navigation successful
+2024-02-26 17:19:08.801048,dock
+2024-02-26 17:19:09.167777,Navigation failed
+2024-02-26 17:19:31.768241,Navigation successful
+2024-02-26 17:21:30.708546,dock
+2024-02-26 17:23:00.023540,goto
+2024-02-26 17:23:44,Temperature:28.556, Humidity:27.789, Pressure:96022.117,,
+2024-02-26 17:24:29.715544,dock
+2024-02-26 17:25:00.157124,goto
+2024-02-26 17:27:00.266909,goto
+2024-02-26 17:27:58.328769,dock
+2024-02-26 17:28:44,Temperature:28.601, Humidity:27.582, Pressure:95964.148,,
+2024-02-26 17:29:00.386709,goto
+2024-02-26 17:30:09.213948,dock
+2024-02-26 17:32:00.580335,goto
+2024-02-26 17:33:45,Temperature:28.644, Humidity:27.466, Pressure:96372.773,,
+2024-02-26 17:38:45,Temperature:28.823, Humidity:26.866, Pressure:96320.586,,
+2024-02-26 17:43:58,Temperature:28.932, Humidity:26.807, Pressure:96333.789,,
+2024-02-26 17:48:58,Temperature:29.118, Humidity:26.737, Pressure:96736.57,,
+2024-02-26 17:54:48,Temperature:29.025, Humidity:26.838, Pressure:96389.258,,
+2024-02-26 17:56:42.746701,Navigation failed
+2024-02-26 17:57:22.517416,Navigation successful
+2024-02-26 17:57:38.858417,Navigation failed
+2024-02-26 18:00:25.189964,Navigation successful
+2024-02-26 18:00:38,Temperature:28.755, Humidity:26.083, Pressure:96150.969,,
+2024-02-26 18:06:28,Temperature:28.604, Humidity:26.151, Pressure:95778.266,,
+2024-02-26 18:11:48.747123,Navigation failed
+2024-02-26 18:12:18,Temperature:28.419, Humidity:26.204, Pressure:94568.906,,
+2024-02-26 18:12:43.519778,Navigation successful
+2024-02-26 18:17:19,Temperature:28.742, Humidity:26.41, Pressure:96304.805,,
+2024-02-26 18:23:08,Temperature:28.737, Humidity:26.171, Pressure:96048.586,,
+2024-02-26 18:28:08,Temperature:28.813, Humidity:25.752, Pressure:96197.789,,
+2024-02-27 12:48:00.583528,goto
+2024-02-27 12:52:42,Temperature:23.427, Humidity:38.873, Pressure:95788.82,,
+2024-02-27 12:57:42,Temperature:23.999, Humidity:38.231, Pressure:96032.633,,
+2024-02-27 13:02:42,Temperature:24.361, Humidity:37.784, Pressure:96022.086,,
+2024-02-27 13:07:42,Temperature:24.633, Humidity:37.289, Pressure:96117.531,,
+2024-02-27 13:12:42,Temperature:24.802, Humidity:36.944, Pressure:96010.93,,
+2024-02-27 13:17:42,Temperature:24.929, Humidity:36.64, Pressure:95959.555,,
+2024-02-27 13:22:42,Temperature:25.021, Humidity:36.353, Pressure:95942.742,,
+2024-02-27 13:27:43,Temperature:25.127, Humidity:36.106, Pressure:95980.07,,
+2024-02-27 14:10:47,Temperature:24.734, Humidity:36.896, Pressure:96013.625,,
+2024-02-27 14:15:47,Temperature:24.968, Humidity:36.552, Pressure:95916.258,,
+2024-02-27 14:45:50.687265,Navigation failed
+2024-02-27 14:46:02.887971,Navigation successful
+2024-02-27 14:54:03.960778,Navigation failed
+2024-02-27 14:54:20.306260,Navigation successful
+2024-02-27 15:17:44.019254,Navigation failed
+2024-02-27 15:17:53.219767,Navigation successful
+2024-02-27 15:20:41.839951,Navigation failed
+2024-02-27 15:20:55.240198,Navigation successful
+2024-02-27 15:22:29.660597,Navigation failed
+2024-02-27 15:23:29.309804,Navigation successful
+2024-02-27 15:24:11.700077,Navigation failed
+2024-02-27 15:25:21.358681,Navigation successful
+2024-02-27 15:26:26.635255,Navigation failed
+2024-02-27 15:26:50.036286,Navigation successful
+2024-02-27 15:27:33.738264,Navigation failed
+2024-02-27 15:27:53.140924,Navigation successful
+2024-02-27 15:29:39.975681,Navigation failed
+2024-02-27 15:29:59.376469,Navigation successful
+2024-02-27 15:53:42.985417,moveheadup
+2024-02-27 15:53:46.870791,moveheadright
+2024-02-27 15:53:48.688959,moveheadup
+2024-02-27 15:53:51.429907,moveheadleft
+2024-02-27 15:53:52.858543,moveheaddown
+2024-02-27 15:54:00.230058,moveheadright
+2024-02-27 15:54:01.801041,moveheaddown
+2024-02-27 15:54:05.756578,moveheadleft
+2024-02-27 15:54:07.721648,moveheadup
+2024-02-27 15:56:32.752509,moveheadright
+2024-02-27 15:56:35.233325,moveheadup
+2024-02-27 15:56:38.857647,moveheadleft
+2024-02-27 15:56:40.771095,moveheaddown
+2024-02-27 15:56:43.276836,exitdemo
+2024-02-27 15:57:00.784324,demo1
+2024-02-27 15:57:08.548191,exitdemo
+2024-02-27 15:57:23.103216,demo1
+2024-02-27 15:57:29.588822,exitdemo
+2024-02-27 15:57:34.111862,demo1
+2024-02-27 15:57:41.058004,exitdemo
+2024-02-27 15:57:48.533356,demo1
+2024-02-27 15:57:54.609573,exitdemo
+2024-02-27 15:58:41.171629,exitdemo
+2024-02-27 15:59:09.764789,exitdemo
+2024-02-27 16:01:15.679342,demo2
+2024-02-27 16:01:26.804007,exitdemo
+2024-02-27 16:01:39.840890,demo2
+2024-02-27 16:02:01.253566,exitdemo
+2024-02-27 16:04:56.029139,Navigation successful
+2024-02-28 11:54:36,Temperature:26.0, Humidity:39.279, Pressure:100040.07,,
+2024-02-28 12:21:31,Temperature:26.01, Humidity:36.774, Pressure:96793.562,,
+2024-02-28 12:26:36,Temperature:26.205, Humidity:36.541, Pressure:96897.211,,
+2024-02-28 12:31:36,Temperature:26.442, Humidity:36.118, Pressure:97048.859,,
+2024-02-28 12:37:21,Temperature:27.466, Humidity:35.457, Pressure:100086.258,,
+2024-02-28 12:41:00.114798,goto
+2024-02-28 12:42:00.175171,goto
+2024-02-28 12:42:21,Temperature:27.594, Humidity:34.979, Pressure:99949.352,,
+2024-02-28 12:44:00.283784,goto
+2024-02-28 12:46:00.399883,goto
+2024-02-28 12:47:21,Temperature:27.709, Humidity:34.665, Pressure:99978.672,,
+2024-02-28 12:48:00.520417,goto
+2024-02-28 12:53:11,Temperature:27.847, Humidity:34.329, Pressure:99975.203,,
+2024-02-28 12:58:11,Temperature:27.905, Humidity:34.131, Pressure:99850.523,,
+2024-02-28 13:03:11,Temperature:27.869, Humidity:33.984, Pressure:99623.141,,
+2024-02-28 13:09:01,Temperature:27.877, Humidity:33.818, Pressure:99491.984,,
+2024-02-28 13:14:51,Temperature:27.905, Humidity:33.664, Pressure:99528.992,,
+2024-02-28 13:20:41,Temperature:27.93, Humidity:33.584, Pressure:99477.453,,
+2024-02-28 13:25:41,Temperature:27.97, Humidity:33.414, Pressure:99504.359,,
+2024-02-28 13:30:41,Temperature:28.018, Humidity:33.346, Pressure:99522.0,,
+2024-02-28 13:35:41,Temperature:28.039, Humidity:33.23, Pressure:99492.297,,
+2024-02-28 13:40:41,Temperature:28.074, Humidity:33.186, Pressure:99424.523,,
+2024-02-28 13:45:41,Temperature:28.081, Humidity:32.989, Pressure:99322.242,,
+2024-02-28 13:50:41,Temperature:28.127, Humidity:32.846, Pressure:99445.828,,
+2024-02-28 13:55:41,Temperature:28.172, Humidity:32.734, Pressure:99408.609,,
+2024-02-28 14:01:31,Temperature:28.182, Humidity:32.564, Pressure:99281.914,,
+2024-02-28 14:07:21,Temperature:28.212, Humidity:32.475, Pressure:99279.695,,
+2024-02-28 14:12:21,Temperature:28.187, Humidity:32.292, Pressure:99170.469,,
+2024-02-28 14:17:21,Temperature:28.215, Humidity:32.186, Pressure:99100.898,,
+2024-02-28 14:22:21,Temperature:28.278, Humidity:32.085, Pressure:99320.914,,
+2024-02-28 14:27:21,Temperature:28.278, Humidity:31.957, Pressure:99133.656,,
+2024-02-28 14:32:21,Temperature:28.293, Humidity:31.98, Pressure:99083.086,,
+2024-02-28 14:37:21,Temperature:28.336, Humidity:31.962, Pressure:99187.539,,
+2024-02-28 14:42:21,Temperature:28.351, Humidity:31.768, Pressure:99143.227,,
+2024-02-28 14:47:21,Temperature:28.43, Humidity:31.719, Pressure:99299.125,,
+2024-02-28 14:52:21,Temperature:28.475, Humidity:31.657, Pressure:99233.672,,
+2024-02-28 14:57:21,Temperature:28.608, Humidity:31.554, Pressure:99596.586,,
+2024-02-28 15:02:21,Temperature:28.705, Humidity:31.464, Pressure:99682.617,,
+2024-02-28 15:07:21,Temperature:28.808, Humidity:31.306, Pressure:99703.977,,
+2024-02-28 15:12:21,Temperature:28.879, Humidity:31.202, Pressure:99713.75,,
+2024-02-28 15:18:11,Temperature:28.936, Humidity:31.082, Pressure:99647.25,,
+2024-02-28 15:23:11,Temperature:28.954, Humidity:31.007, Pressure:99553.109,,
+2024-02-28 15:28:11,Temperature:29.02, Humidity:30.972, Pressure:99643.875,,
+2024-02-28 15:39:51,Temperature:28.793, Humidity:31.003, Pressure:99192.305,,
+2024-02-28 15:44:51,Temperature:28.841, Humidity:31.102, Pressure:99305.875,,
+2024-02-28 15:49:51,Temperature:28.924, Humidity:31.028, Pressure:99467.391,,
+2024-02-28 15:54:51,Temperature:29.042, Humidity:31.029, Pressure:99638.641,,
+2024-02-28 15:59:51,Temperature:28.941, Humidity:31.01, Pressure:98920.969,,
+2024-03-04 14:38:15,Temperature:26.572, Humidity:29.546, Pressure:96265.477,,
+2024-03-04 14:43:15,Temperature:26.588, Humidity:29.492, Pressure:96242.977,,
+2024-03-04 14:48:15,Temperature:26.593, Humidity:29.391, Pressure:96156.594,,
+2024-03-04 14:53:15,Temperature:26.565, Humidity:29.352, Pressure:96013.117,,
+2024-03-04 14:58:15,Temperature:26.487, Humidity:29.256, Pressure:95857.594,,
+2024-03-04 15:03:15,Temperature:26.817, Humidity:29.126, Pressure:96676.352,,
+2024-03-04 15:15:37,Temperature:26.535, Humidity:29.019, Pressure:95550.195,,
+2024-03-04 15:20:37,Temperature:26.308, Humidity:29.145, Pressure:95453.164,,
+2024-03-04 15:25:37,Temperature:26.376, Humidity:29.228, Pressure:95649.297,,
+2024-03-04 15:30:37,Temperature:26.459, Humidity:29.35, Pressure:95949.086,,
+2024-03-04 17:32:00.713656,goto
+2024-03-04 17:35:38,Temperature:27.294, Humidity:28.448, Pressure:95334.305,,
+2024-03-06 12:08:20.789168,exitdemo
+2024-03-06 12:08:35.004817,exitdemo
+2024-03-06 12:08:35.085587,exitdemo
+2024-03-06 12:10:02,Temperature:26.035, Humidity:30.999, Pressure:96043.734,,
+2024-03-06 12:15:02,Temperature:26.071, Humidity:30.957, Pressure:95924.734,,
+2024-03-06 12:20:02,Temperature:25.98, Humidity:30.785, Pressure:95791.508,,
+2024-03-06 12:25:52,Temperature:26.151, Humidity:30.709, Pressure:96044.125,,
+2024-03-06 12:30:52,Temperature:26.396, Humidity:30.493, Pressure:96373.922,,
+2024-03-06 12:35:18.901760,moveheadup
+2024-03-06 12:35:19.141114,moveheadup
+2024-03-06 12:35:19.457049,moveheadup
+2024-03-06 12:35:19.626323,moveheadup
+2024-03-06 12:35:46.458563,exitdemo
+2024-03-06 12:35:51.171665,exitdemo
+2024-03-06 12:35:53,Temperature:26.52, Humidity:30.278, Pressure:96300.656,,
+2024-03-06 12:36:03.350991,exitdemo
+2024-03-06 12:36:07.170921,exitdemo
+2024-03-06 12:41:00.302791,goto
+2024-03-06 12:41:42,Temperature:26.509, Humidity:30.002, Pressure:96250.867,,
+2024-03-06 12:42:00.368609,goto
+2024-03-06 12:44:00.493305,goto
+2024-03-06 12:46:00.618620,goto
+2024-03-06 12:47:32,Temperature:26.714, Humidity:29.81, Pressure:96291.398,,
+2024-03-06 12:48:00.756381,goto
+2024-03-06 12:53:22,Temperature:26.553, Humidity:29.754, Pressure:95843.938,,
+2024-03-06 12:55:24.893008,moveheadup
+2024-03-06 12:55:28.328402,moveheadup
+2024-03-06 12:55:28.621545,moveheadup
+2024-03-06 12:55:28.856047,moveheadup
+2024-03-06 12:55:29.101207,moveheadup
+2024-03-06 12:55:29.456424,moveheadup
+2024-03-06 12:55:30.391405,moveheaddown
+2024-03-06 12:55:30.677476,moveheaddown
+2024-03-06 12:55:32.646128,moveheaddown
+2024-03-06 12:55:33.295924,moveheadleft
+2024-03-06 12:55:33.615901,moveheadleft
+2024-03-06 12:55:34.478342,moveheadright
+2024-03-06 12:55:34.845307,moveheadright
+2024-03-06 12:55:35.122601,moveheadright
+2024-03-06 12:55:39.278370,goto
+2024-03-06 12:55:40.849483,goto
+2024-03-06 12:55:41.407852,goto
+2024-03-06 12:55:41.879111,goto
+2024-03-06 12:55:42.344512,goto
+2024-03-06 12:55:42.768184,goto
+2024-03-06 12:58:22,Temperature:26.609, Humidity:29.77, Pressure:96078.055,,
+2024-03-06 12:59:50.489898,startmap
+2024-03-06 13:00:03.636191,saveloc
+2024-03-06 13:00:14.363089,saveloc
+2024-03-06 13:00:14.378326,saveloc
+2024-03-06 13:00:14.389528,saveloc
+2024-03-06 13:00:14.396227,saveloc
+2024-03-06 13:00:14.408730,saveloc
+2024-03-06 13:00:14.417313,saveloc
+2024-03-06 13:00:14.434141,saveloc
+2024-03-06 13:00:14.467222,saveloc
+2024-03-06 13:00:14.481592,saveloc
+2024-03-06 13:00:14.501019,saveloc
+2024-03-06 13:00:14.516534,saveloc
+2024-03-06 13:00:14.532817,saveloc
+2024-03-06 13:00:14.547088,saveloc
+2024-03-06 13:00:14.562306,saveloc
+2024-03-06 13:00:14.579690,saveloc
+2024-03-06 13:00:14.593011,saveloc
+2024-03-06 13:00:14.601628,saveloc
+2024-03-06 13:00:14.611952,saveloc
+2024-03-06 13:09:12,Temperature:26.603, Humidity:29.486, Pressure:95736.977,,
+2024-03-06 13:14:12,Temperature:26.542, Humidity:29.424, Pressure:95676.586,,
+2024-03-06 13:20:02,Temperature:26.499, Humidity:29.328, Pressure:95643.328,,
+2024-03-06 13:25:02,Temperature:26.479, Humidity:29.251, Pressure:95553.734,,
+2024-03-06 13:30:02,Temperature:26.456, Humidity:29.126, Pressure:95434.219,,
+2024-03-06 13:35:02,Temperature:26.782, Humidity:29.008, Pressure:96200.398,,
+2024-03-06 14:50:54,Temperature:26.363, Humidity:30.53, Pressure:95948.703,,
+2024-03-06 14:55:54,Temperature:26.517, Humidity:30.172, Pressure:95942.93,,
+2024-03-06 15:00:54,Temperature:26.615, Humidity:29.847, Pressure:95946.188,,
+2024-03-06 15:05:55,Temperature:26.724, Humidity:29.557, Pressure:95999.602,,
+2024-03-07 16:43:49.509755,Navigation successful
+2024-03-07 16:43:56,Temperature:27.037, Humidity:33.408, Pressure:95709.555,,
+2024-03-07 16:48:56,Temperature:26.827, Humidity:33.705, Pressure:95309.734,,
+2024-03-07 16:54:46,Temperature:27.165, Humidity:33.608, Pressure:96307.18,,
+2024-03-07 17:00:36,Temperature:26.971, Humidity:33.714, Pressure:95082.273,,
+2024-03-07 17:06:26,Temperature:27.069, Humidity:33.742, Pressure:96137.305,,
+2024-03-07 17:11:26,Temperature:27.38, Humidity:33.596, Pressure:96467.398,,
+2024-03-07 17:19:47.320535,Navigation successful
+2024-03-07 17:20:25.541065,Navigation failed
+2024-03-07 17:20:33,Temperature:26.941, Humidity:33.649, Pressure:95579.867,,
+2024-03-07 17:21:52.568313,Navigation successful
+2024-03-07 17:23:00.806141,goto
+2024-03-07 17:25:00.956942,goto
+2024-03-07 17:25:33,Temperature:26.936, Humidity:33.777, Pressure:95738.531,,
+2024-03-07 17:27:00.120504,goto
+2024-03-07 17:27:01.252558,Navigation failed
+2024-03-07 17:29:00.241274,goto
+2024-03-07 17:29:27.215986,Navigation successful
+2024-03-07 17:30:34,Temperature:27.13, Humidity:33.783, Pressure:96263.32,,
+2024-03-07 17:32:00.429583,goto
+2024-03-07 17:35:34,Temperature:27.405, Humidity:33.606, Pressure:96512.906,,
+2024-03-07 17:35:35.256682,Navigation failed
+2024-03-07 17:36:02.104526,Navigation successful
+2024-03-07 17:40:34,Temperature:27.037, Humidity:33.593, Pressure:95825.781,,
+2024-03-07 17:42:28.195911,Navigation failed
+2024-03-07 17:44:51.055961,Navigation successful
+2024-03-07 17:45:23.960482,Navigation failed
+2024-03-07 17:45:34,Temperature:26.984, Humidity:33.764, Pressure:95973.891,,
+2024-03-07 17:48:05.186615,Navigation successful
+2024-03-07 17:50:49,Temperature:27.062, Humidity:33.976, Pressure:95609.227,,
+2024-03-07 17:53:54.318189,Navigation failed
+2024-03-07 17:54:57.220242,Navigation successful
+2024-03-07 17:55:49,Temperature:26.805, Humidity:34.149, Pressure:95327.891,,
+2024-03-07 18:00:49,Temperature:27.082, Humidity:34.061, Pressure:96233.828,,
+2024-03-07 18:59:42.167646,Navigation successful
+2024-03-07 19:00:31,Temperature:28.275, Humidity:32.772, Pressure:98339.516,,
+2024-03-07 19:05:32,Temperature:28.232, Humidity:32.811, Pressure:98934.211,,
+2024-03-07 19:09:02.943497,Navigation failed
+2024-03-07 19:10:21.331749,Navigation successful
+2024-03-07 19:10:32,Temperature:28.015, Humidity:32.814, Pressure:98569.836,,
+2024-03-07 19:15:32,Temperature:27.925, Humidity:33.013, Pressure:98278.133,,
+2024-03-07 19:20:32.104301,Navigation failed
+2024-03-07 19:20:32,Temperature:27.961, Humidity:32.967, Pressure:98678.242,,
+2024-03-07 19:20:55.731253,Navigation successful
+2024-03-07 19:25:32,Temperature:28.109, Humidity:32.994, Pressure:99278.578,,
+2024-03-07 19:30:32,Temperature:27.996, Humidity:33.022, Pressure:98338.234,,
+2024-03-07 19:35:32,Temperature:28.177, Humidity:32.956, Pressure:99459.414,,
+2024-03-07 19:40:32,Temperature:28.311, Humidity:32.841, Pressure:99542.805,,
+2024-03-08 15:58:44,Temperature:27.276, Humidity:36.119, Pressure:99878.516,,
+2024-03-08 16:57:37.843880,Navigation successful
+2024-03-08 17:16:35.315124,Navigation failed
+2024-03-08 17:16:52.715306,Navigation successful
+2024-03-08 17:20:49.099607,dock
+2024-03-08 17:20:49.788798,Navigation failed
+2024-03-08 17:21:55.904800,Navigation successful
+2024-03-08 17:21:57.794865,dock
+2024-03-08 17:21:58.239543,Navigation failed
+2024-03-08 17:22:15.840830,Navigation successful
+2024-03-08 17:23:00.910421,goto
+2024-03-08 17:25:00.058885,goto
+2024-03-08 17:27:00.187733,goto
+2024-03-08 17:29:00.332158,goto
+2024-03-08 17:32:00.520006,goto
+2024-03-08 17:51:06.811959,Navigation failed
+2024-03-08 17:51:34.360757,Navigation successful
+2024-03-08 18:18:35.632908,Navigation successful
+2024-03-08 18:26:54.037998,Navigation failed
+2024-03-08 18:27:50.638971,Navigation successful
+2024-03-08 18:39:05.123536,Navigation failed
+2024-03-08 18:39:09.923714,Navigation successful
+2024-03-08 18:39:46.448287,Navigation failed
+2024-03-08 18:39:56.048488,Navigation successful
+2024-03-08 18:53:27.847978,Navigation successful
+2024-03-08 18:55:01,Temperature:26.7, Humidity:34.32, Pressure:95483.992,,
+2024-03-08 18:56:23.627881,dock
+2024-03-08 18:57:02.464774,Navigation failed
+2024-03-08 18:57:07.613110,dock
+2024-03-08 18:59:05.776902,Navigation successful
+2024-03-08 18:59:17.601998,dock
+2024-03-08 18:59:56.299048,Navigation failed
+2024-03-08 19:00:01,Temperature:26.883, Humidity:34.399, Pressure:96273.492,,
+2024-03-09 16:54:16.710044,Navigation successful
+2024-03-09 16:58:02,Temperature:23.442, Humidity:41.187, Pressure:96322.266,,
+2024-03-09 17:03:52,Temperature:24.313, Humidity:40.103, Pressure:96473.805,,
+2024-03-09 17:25:00.227952,goto
+2024-03-09 17:27:00.347120,goto
+2024-03-09 17:29:00.464760,goto
+2024-03-09 17:29:27,Temperature:25.682, Humidity:37.644, Pressure:96269.453,,
+2024-03-09 17:29:41.760684,Navigation successful
+2024-03-09 17:32:00.687023,goto
+2024-03-09 17:34:32,Temperature:26.03, Humidity:37.319, Pressure:96875.695,,
+2024-03-09 17:39:33,Temperature:26.283, Humidity:37.245, Pressure:96507.789,,
+2024-03-09 17:41:37.778566,Navigation failed
+2024-03-09 17:44:47,Temperature:26.828, Humidity:36.865, Pressure:97382.289,,
+2024-03-09 17:49:48,Temperature:27.329, Humidity:36.685, Pressure:97506.836,,
+2024-03-09 17:52:09.232026,Navigation successful
+2024-03-09 17:53:12.289893,Navigation failed
+2024-03-09 19:20:58,Temperature:25.385, Humidity:39.017, Pressure:96562.148,,
+2024-03-09 19:25:58,Temperature:25.9, Humidity:38.557, Pressure:96754.547,,
+2024-03-09 19:29:51.045271,Navigation successful
+2024-03-09 19:30:58,Temperature:26.139, Humidity:38.038, Pressure:96616.523,,
+2024-03-09 19:31:04.071757,Navigation failed
+2024-03-09 19:35:18.835591,Navigation successful
+2024-03-09 19:36:03,Temperature:26.578, Humidity:37.583, Pressure:96956.203,,
+2024-03-13 13:07:32.454787,Navigation successful
+2024-03-13 13:31:20.921594,Navigation successful
+2024-03-13 13:35:28.432310,Navigation successful
+2024-03-20 14:54:35.519139,Navigation successful
+2024-03-20 15:15:53.911813,Navigation failed
+2024-03-20 15:16:14.312405,Navigation successful
+2024-03-20 15:19:18.506006,Navigation failed
+2024-03-20 15:19:38.907023,Navigation successful
+2024-03-20 15:25:16.903243,Navigation failed
+2024-03-20 15:25:35.504334,Navigation successful
+2024-03-21 12:05:55.483517,Navigation successful
+2024-03-21 15:14:13.055762,Navigation failed
+2024-03-21 15:14:17.871230,Navigation successful
+2024-03-21 15:14:26.470848,Navigation failed
+2024-03-21 15:14:56.274176,Navigation successful
+2024-03-21 16:26:30.847946,Navigation successful
+2024-03-21 16:30:41.258842,Navigation failed
+2024-03-21 16:30:53.860004,Navigation successful
+2024-03-21 16:31:04.113275,Navigation failed
+2024-03-21 16:31:13.114692,Navigation successful
+2024-03-21 16:32:13.320048,Navigation failed
+2024-03-21 16:32:28.718232,Navigation successful
+2024-03-21 16:36:25.855318,Navigation failed
+2024-03-21 16:36:35.659791,Navigation successful
+2024-03-21 16:36:45.928966,Navigation failed
+2024-03-21 16:37:25.930802,Navigation successful
+2024-03-21 16:37:36.197660,Navigation failed
+2024-03-21 16:37:55.797699,Navigation successful
+2024-03-21 16:38:06.275297,Navigation failed
+2024-03-21 16:38:15.070080,Navigation successful
+2024-03-21 16:41:25.823201,Navigation failed
+2024-03-25 11:37:50.576033,Navigation failed
+2024-03-25 12:44:41,Temperature:33.458, Humidity:44.175, Pressure:102312.25,,
+2024-03-25 12:53:26,Temperature:33.089, Humidity:43.434, Pressure:102158.711,,
+2024-03-25 12:58:26,Temperature:33.097, Humidity:42.796, Pressure:102186.555,,
+2024-03-25 13:03:26,Temperature:33.17, Humidity:41.931, Pressure:102111.344,,
+2024-03-25 13:08:26,Temperature:32.973, Humidity:41.35, Pressure:101735.469,,
+2024-03-25 13:33:42,Temperature:32.345, Humidity:40.311, Pressure:102042.727,,
+2024-03-25 13:38:42,Temperature:32.592, Humidity:39.408, Pressure:102002.234,,
+2024-03-25 13:43:42,Temperature:32.731, Humidity:38.98, Pressure:96580.859,,
+2024-03-25 13:48:42,Temperature:32.759, Humidity:39.039, Pressure:97628.242,,
+2024-03-25 13:53:42,Temperature:33.021, Humidity:37.62, Pressure:101955.602,,
+2024-03-25 13:58:42,Temperature:33.099, Humidity:37.203, Pressure:101937.992,,
+2024-03-25 14:03:42,Temperature:33.137, Humidity:36.946, Pressure:101899.062,,
+2024-03-25 14:19:57,Temperature:33.104, Humidity:37.986, Pressure:101434.703,,
+2024-03-25 14:29:45,Temperature:-47.86, Humidity:100.0, Pressure:83631.375,,
+2024-03-25 14:35:35,Temperature:-47.235, Humidity:100.0, Pressure:89759.133,,
+2024-03-25 14:40:35,Temperature:-47.706, Humidity:100.0, Pressure:89281.719,,
+2024-03-25 14:47:15,Temperature:-47.701, Humidity:100.0, Pressure:88938.469,,
+2024-03-25 14:53:55,Temperature:-47.648, Humidity:100.0, Pressure:89865.367,,
+2024-03-25 14:59:45,Temperature:-47.502, Humidity:100.0, Pressure:82972.102,,
+2024-03-25 15:04:45,Temperature:-47.56, Humidity:100.0, Pressure:83621.078,,
+2024-03-25 15:10:35,Temperature:-47.406, Humidity:100.0, Pressure:89725.531,,
+2024-03-25 15:16:25,Temperature:-47.331, Humidity:100.0, Pressure:89178.07,,
+2024-03-25 15:22:15,Temperature:-47.354, Humidity:100.0, Pressure:89145.18,,
+2024-03-25 15:28:55,Temperature:-47.462, Humidity:100.0, Pressure:90391.789,,
+2024-03-25 15:34:45,Temperature:-47.192, Humidity:100.0, Pressure:82993.305,,
+2024-03-25 15:39:45,Temperature:-47.291, Humidity:100.0, Pressure:83615.398,,
+2024-03-25 15:45:35,Temperature:-47.071, Humidity:100.0, Pressure:89707.477,,
+2024-03-25 15:50:35,Temperature:-47.23, Humidity:100.0, Pressure:89201.508,,
+2024-03-25 15:56:25,Temperature:-47.059, Humidity:100.0, Pressure:82849.352,,
+2024-03-25 16:01:25,Temperature:-47.101, Humidity:100.0, Pressure:82863.406,,
+2024-03-25 16:07:15,Temperature:-47.001, Humidity:100.0, Pressure:84766.32,,
+2024-03-25 16:13:05,Temperature:-46.922, Humidity:100.0, Pressure:89128.625,,
+2024-03-25 16:18:05,Temperature:-46.9, Humidity:100.0, Pressure:89154.383,,
+2024-03-25 16:18:25.305409,Navigation failed
+2024-03-25 16:18:33.305705,Navigation successful
+2024-03-25 16:19:02.585653,Navigation failed
+2024-03-25 16:19:44.186575,Navigation successful
+2024-03-25 16:23:05,Temperature:-46.91, Humidity:100.0, Pressure:88343.0,,
+2024-03-25 16:28:55,Temperature:-46.933, Humidity:100.0, Pressure:89105.797,,
+2024-03-25 16:33:35.970924,Navigation failed
+2024-03-25 16:34:45,Temperature:-46.88, Humidity:100.0, Pressure:89104.711,,
+2024-03-25 16:36:52.280374,Navigation successful
+2024-03-25 16:46:49.530768,Navigation failed
+2024-03-25 16:47:51.636039,Navigation successful
+2024-03-25 16:48:05,Temperature:-46.875, Humidity:100.0, Pressure:88946.859,,
+2024-03-25 16:51:57.113878,Navigation failed
+2024-03-25 16:52:35.192323,Navigation successful
+2024-03-25 16:55:35,Temperature:-47.023, Humidity:100.0, Pressure:89015.375,,
+2024-03-25 16:57:21.323313,Navigation failed
+2024-03-25 16:57:29.521879,Navigation successful
+2024-03-25 17:01:25,Temperature:-47.018, Humidity:100.0, Pressure:89086.188,,
+2024-03-25 17:02:13.219910,Navigation failed
+2024-03-25 17:03:00.861239,Navigation successful
+2024-03-25 17:03:35.532598,Navigation failed
+2024-03-25 17:03:55.923330,Navigation successful
+2024-03-25 17:07:15,Temperature:-47.018, Humidity:100.0, Pressure:89126.477,,
+2024-03-25 17:09:55.258358,Navigation failed
+2024-03-25 17:10:31.658786,Navigation successful
+2024-03-25 17:10:36.991981,Navigation failed
+2024-03-25 17:10:37.195090,Navigation successful
+2024-03-25 17:10:42.293255,Navigation failed
+2024-03-25 17:12:14.790732,Navigation successful
+2024-03-25 17:13:55,Temperature:-47.185, Humidity:100.0, Pressure:89844.461,,
+2024-03-25 17:13:56.669914,Navigation failed
+2024-03-25 17:14:26.670275,Navigation successful
+2024-03-25 17:14:58.964012,Navigation failed
+2024-03-25 17:15:34.565111,Navigation successful
+2024-03-25 17:15:42.009043,Navigation failed
+2024-03-25 17:15:54.408774,Navigation successful
+2024-03-25 17:16:04.696019,Navigation failed
+2024-03-25 17:16:47.504080,Navigation successful
+2024-03-25 17:16:58.106495,Navigation failed
+2024-03-25 17:16:58.312878,Navigation successful
+2024-03-25 17:17:03.568886,Navigation failed
+2024-03-25 17:17:33.165934,Navigation successful
+2024-03-25 17:17:57.124729,Navigation failed
+2024-03-25 17:18:31.125292,Navigation successful
+2024-03-25 17:18:36.168309,Navigation failed
+2024-03-25 17:18:36.568702,Navigation successful
+2024-03-25 17:18:41.830962,Navigation failed
+2024-03-25 17:19:21.830876,Navigation successful
+2024-03-25 17:19:45,Temperature:-47.142, Humidity:100.0, Pressure:82774.609,,
+2024-03-25 17:23:00.248548,goto
+2024-03-25 17:25:00.374306,goto
+2024-03-25 17:25:35,Temperature:-47.041, Humidity:100.0, Pressure:89092.0,,
+2024-03-25 17:27:00.484775,goto
+2024-03-25 17:29:00.605155,goto
+2024-03-25 17:31:25,Temperature:-47.003, Humidity:100.0, Pressure:89098.711,,
+2024-03-25 17:32:00.775021,goto
+2024-03-25 17:38:05,Temperature:-47.001, Humidity:100.0, Pressure:91738.992,,
+2024-03-25 17:43:55,Temperature:-46.764, Humidity:100.0, Pressure:82659.93,,
+2024-03-25 17:48:55,Temperature:-46.847, Humidity:100.0, Pressure:90354.852,,
+2024-03-25 17:54:45,Temperature:-46.928, Humidity:100.0, Pressure:82787.695,,
+2024-03-25 18:00:35,Temperature:-46.88, Humidity:100.0, Pressure:89066.961,,
+2024-03-25 19:20:35,Temperature:-47.061, Humidity:100.0, Pressure:89741.164,,
+2024-03-25 19:26:25,Temperature:-47.011, Humidity:100.0, Pressure:82632.883,,
+2024-03-25 19:31:25,Temperature:-46.965, Humidity:100.0, Pressure:82780.797,,
+2024-03-25 19:37:15,Temperature:-46.865, Humidity:100.0, Pressure:84534.039,,
+2024-03-25 19:50:57.857458,Navigation failed
+2024-03-25 19:51:02.058503,Navigation successful
+2024-03-25 19:51:36.439817,Navigation failed
+2024-03-25 19:55:35,Temperature:-47.069, Humidity:100.0, Pressure:89151.875,,
+2024-03-25 19:57:24.437606,Navigation successful
+2024-03-25 19:59:15.479846,Navigation failed
+2024-03-25 19:59:47.489503,Navigation successful
+2024-03-25 19:59:52.555073,Navigation failed
+2024-03-25 20:00:41.355924,Navigation successful
+2024-03-25 20:01:25,Temperature:-47.205, Humidity:100.0, Pressure:82360.062,,
+2024-03-25 20:08:55,Temperature:-47.394, Humidity:100.0, Pressure:90660.102,,
+2024-03-25 20:13:02.712938,Navigation successful
+2024-03-25 20:14:45,Temperature:-47.49, Humidity:100.0, Pressure:82535.609,,
+2024-03-25 20:20:35,Temperature:-47.081, Humidity:100.0, Pressure:89221.297,,
+2024-03-25 20:25:35,Temperature:-47.338, Humidity:100.0, Pressure:90276.445,,
+2024-03-25 20:30:35,Temperature:-47.583, Humidity:100.0, Pressure:89225.156,,
+2024-03-25 20:36:25,Temperature:-47.533, Humidity:100.0, Pressure:82425.055,,
+2024-03-25 20:41:25,Temperature:-47.696, Humidity:100.0, Pressure:82664.172,,
+2024-03-25 20:47:15,Temperature:-47.369, Humidity:100.0, Pressure:84478.508,,
+2024-03-25 21:06:09.417553,Navigation failed
+2024-03-25 21:07:42.613677,Navigation successful
+2024-03-25 21:08:05.712073,Navigation failed
+2024-03-25 21:08:05,Temperature:-47.094, Humidity:100.0, Pressure:91950.367,,
+2024-03-25 21:08:47.512688,Navigation successful
+2024-03-25 21:13:55,Temperature:-47.616, Humidity:100.0, Pressure:82215.844,,
+2024-03-25 21:19:45,Temperature:-47.802, Humidity:100.0, Pressure:89162.055,,
+2024-03-25 21:24:45,Temperature:-47.948, Humidity:100.0, Pressure:82402.289,,
+2024-03-25 21:35:35,Temperature:-47.636, Humidity:100.0, Pressure:90368.0,,
+2024-03-25 21:40:35,Temperature:-47.654, Humidity:100.0, Pressure:89304.586,,
+2024-03-25 21:42:13.345144,Navigation successful
+2024-03-25 21:46:25,Temperature:-47.57, Humidity:100.0, Pressure:82439.586,,
+2024-03-25 21:52:15,Temperature:-47.389, Humidity:100.0, Pressure:89230.648,,
+2024-03-26 11:49:16,Temperature:31.886, Humidity:48.92, Pressure:101930.875,,
+2024-03-26 11:54:17,Temperature:32.143, Humidity:47.811, Pressure:101907.812,,
+2024-03-26 11:59:17,Temperature:32.342, Humidity:46.929, Pressure:101842.398,,
+2024-03-26 12:04:21,Temperature:32.484, Humidity:46.33, Pressure:98303.148,,
+2024-03-26 12:09:48,Temperature:32.708, Humidity:45.609, Pressure:102200.758,,
+2024-03-26 12:15:03,Temperature:32.812, Humidity:44.946, Pressure:96792.195,,
+2024-03-26 12:20:03,Temperature:32.814, Humidity:44.954, Pressure:101805.156,,
+2024-03-26 12:25:11,Temperature:33.004, Humidity:43.881, Pressure:103985.117,,
+2024-03-26 12:30:18,Temperature:33.233, Humidity:43.302, Pressure:101776.391,,
+2024-03-26 12:35:18,Temperature:33.42, Humidity:42.732, Pressure:101745.18,,
+2024-03-26 12:38:29.511435,Navigation successful
+2024-03-26 12:40:18,Temperature:33.311, Humidity:42.342, Pressure:101712.633,,
+2024-03-26 12:45:18,Temperature:33.21, Humidity:42.042, Pressure:101630.148,,
+2024-03-26 12:45:36.866427,dock
+2024-03-26 12:45:37.432469,Navigation failed
+2024-03-26 13:17:45.551617,Navigation successful
+2024-03-26 13:23:46.572721,dock
+2024-03-26 15:51:42,Temperature:33.256, Humidity:37.789, Pressure:96724.852,,
+2024-03-26 15:51:53.448942,Navigation successful
+2024-03-26 15:54:12.709844,dock
+2024-03-26 15:56:42,Temperature:33.243, Humidity:36.693, Pressure:101358.188,,
+2024-03-26 16:01:42,Temperature:33.506, Humidity:36.749, Pressure:101392.32,,
+2024-03-26 16:06:42,Temperature:33.453, Humidity:36.675, Pressure:101423.922,,
+2024-03-26 16:11:42,Temperature:33.478, Humidity:36.669, Pressure:101392.453,,
+2024-03-26 16:16:42,Temperature:33.455, Humidity:36.615, Pressure:101456.727,,
+2024-03-26 16:21:57,Temperature:33.294, Humidity:36.732, Pressure:101801.008,,
+2024-03-26 17:12:44,Temperature:33.609, Humidity:36.575, Pressure:102439.805,,
+2024-03-26 17:15:35.767290,Navigation successful
+2024-03-26 17:17:59,Temperature:33.344, Humidity:36.829, Pressure:96407.078,,
+2024-03-26 17:22:59,Temperature:33.465, Humidity:36.325, Pressure:101422.57,,
+2024-03-26 17:23:00.359297,goto
+2024-03-26 17:25:00.520059,goto
+2024-03-26 17:26:31.950764,dock
+2024-03-26 17:27:00.713350,goto
+2024-03-26 17:27:30.623294,dock
+2024-03-26 17:28:14,Temperature:32.905, Humidity:36.502, Pressure:100564.445,,
+2024-03-26 17:29:00.884185,goto
+2024-03-26 17:32:00.103118,goto
+2024-03-26 17:33:29,Temperature:33.243, Humidity:36.707, Pressure:101452.57,,
+2024-03-26 17:38:29,Temperature:33.443, Humidity:36.635, Pressure:101405.625,,
+2024-03-26 17:43:29,Temperature:33.43, Humidity:36.539, Pressure:101403.008,,
+2024-03-26 17:56:40,Temperature:-47.988, Humidity:36.753, Pressure:319959.062,,
+2024-03-26 18:02:30,Temperature:-47.643, Humidity:37.607, Pressure:310714.688,,
+2024-03-26 18:08:20,Temperature:-47.8, Humidity:36.95, Pressure:311618.406,,
+2024-03-26 18:09:33.861505,Navigation successful
+2024-03-26 18:11:28.883323,dock
+2024-03-26 18:14:10,Temperature:-47.922, Humidity:36.986, Pressure:311681.625,,
+2024-03-26 18:18:39.137887,dock
+2024-03-26 18:19:10,Temperature:-48.091, Humidity:36.922, Pressure:311667.5,,
+2024-03-26 18:24:10,Temperature:-48.236, Humidity:37.166, Pressure:294932.469,,
+2024-03-26 18:29:10,Temperature:-48.163, Humidity:37.154, Pressure:297752.062,,
+2024-03-26 18:35:00,Temperature:-48.414, Humidity:36.641, Pressure:314511.719,,
+2024-03-26 18:40:50,Temperature:-48.439, Humidity:36.194, Pressure:311483.281,,
+2024-03-26 18:56:41,Temperature:-48.477, Humidity:36.189, Pressure:294502.344,,
+2024-03-26 19:04:16,Temperature:33.43, Humidity:35.708, Pressure:101438.453,,
+2024-03-26 19:06:04.040772,Navigation successful
+2024-03-26 19:09:22,Temperature:33.291, Humidity:35.734, Pressure:101432.078,,
+2024-03-26 19:10:00.232919,dock
+2024-03-26 19:12:37.549862,dock
+2024-03-26 19:14:37,Temperature:33.359, Humidity:36.074, Pressure:101163.727,,
+2024-03-26 19:19:37,Temperature:33.326, Humidity:36.55, Pressure:96229.961,,
+2024-03-27 12:46:38.621091,Navigation successful
+2024-03-27 12:48:04.665807,dock
+2024-03-27 12:49:00.898127,dock
+2024-03-27 13:02:48.443351,Navigation successful
+2024-03-27 13:05:21.566554,dock
+2024-03-27 13:36:32,Temperature:32.431, Humidity:38.398, Pressure:101669.719,,
+2024-03-27 13:47:45,Temperature:31.785, Humidity:36.636, Pressure:101703.398,,
+2024-03-27 13:52:45,Temperature:31.449, Humidity:36.552, Pressure:102294.516,,
+2024-03-27 13:54:05.481899,Navigation successful
+2024-03-27 13:57:07.882489,dock
+2024-03-27 13:57:50,Temperature:31.487, Humidity:36.971, Pressure:96240.188,,
+2024-03-27 13:58:53.751543,Navigation failed
+2024-03-27 14:02:51,Temperature:31.702, Humidity:37.325, Pressure:97384.57,,
+2024-03-27 14:05:36.171805,Navigation successful
+2024-03-27 14:07:51,Temperature:31.795, Humidity:36.212, Pressure:101561.984,,
+2024-03-27 14:10:47.004879,dock
+2024-03-27 14:12:51,Temperature:31.661, Humidity:36.252, Pressure:102778.57,,
+2024-03-27 14:18:06,Temperature:31.81, Humidity:35.763, Pressure:101797.078,,
+2024-03-27 14:20:14.175578,Navigation failed
+2024-03-27 14:21:12.190322,Navigation successful
+2024-03-27 14:22:01.382691,Navigation failed
+2024-03-27 14:22:10.781315,Navigation successful
+2024-03-27 14:23:06,Temperature:31.75, Humidity:35.39, Pressure:101805.273,,
+2024-03-27 14:23:28.262745,dock
+2024-03-27 14:28:21,Temperature:32.186, Humidity:35.885, Pressure:101694.648,,
+2024-03-27 14:56:18.943238,Navigation successful
+2024-03-27 15:16:05.394528,Navigation failed
+2024-03-27 15:17:32.863748,Navigation successful
+2024-03-27 15:19:32.333272,dock
+2024-03-27 15:42:29.523345,Navigation failed
+2024-03-27 15:43:24.527577,Navigation successful
+2024-03-27 16:03:13.048438,dock
+2024-03-27 16:18:36.851320,Navigation successful
+2024-03-27 16:27:44,Temperature:31.485, Humidity:34.291, Pressure:102132.43,,
+2024-03-27 16:32:44,Temperature:31.538, Humidity:34.28, Pressure:105343.812,,
+2024-03-27 16:44:59,Temperature:31.825, Humidity:34.247, Pressure:102018.289,,
+2024-03-27 16:47:05.395832,Navigation successful
+2024-03-27 16:50:00,Temperature:31.808, Humidity:34.776, Pressure:101871.719,,
+2024-03-27 16:50:53.168639,dock
+2024-03-27 16:55:00,Temperature:31.934, Humidity:35.747, Pressure:102684.609,,
+2024-03-27 17:00:15,Temperature:32.057, Humidity:36.354, Pressure:95931.383,,
+2024-03-27 17:05:15,Temperature:31.929, Humidity:37.068, Pressure:102483.984,,
+2024-03-27 17:06:57.835375,dock
+2024-03-27 17:10:15,Temperature:32.067, Humidity:36.481, Pressure:101799.969,,
+2024-03-27 17:15:15,Temperature:32.244, Humidity:36.271, Pressure:101763.266,,
+2024-03-27 17:27:00.260862,goto
+2024-03-27 17:29:00.387951,goto
+2024-03-27 17:52:35.103876,Navigation successful
+2024-03-27 18:19:16,Temperature:31.888, Humidity:37.055, Pressure:101789.992,,
+2024-03-27 19:13:47,Temperature:32.224, Humidity:38.28, Pressure:101708.836,,
+2024-03-27 19:14:55.357396,Navigation successful
+2024-03-27 19:16:12.069888,Navigation failed
+2024-03-27 19:16:49.068981,Navigation successful
+2024-03-27 19:18:33.197523,Navigation failed
+2024-03-27 19:42:12,Temperature:31.739, Humidity:37.674, Pressure:101849.797,,
+2024-03-27 19:42:28.285293,Navigation successful
+2024-03-27 19:47:15.742492,dock
+2024-03-27 19:47:27,Temperature:31.734, Humidity:37.948, Pressure:101938.281,,
+2024-03-27 19:52:40,Temperature:32.098, Humidity:37.602, Pressure:101977.188,,
+2024-03-27 19:57:43,Temperature:32.38, Humidity:36.835, Pressure:101917.469,,
+2024-03-27 20:32:13,Temperature:-46.006, Humidity:38.962, Pressure:298641.031,,
+2024-03-27 20:33:00.229258,Navigation successful
+2024-03-27 20:34:38.991540,dock
+2024-03-27 20:56:21,Temperature:32.592, Humidity:38.425, Pressure:101905.406,,
+2024-03-27 21:01:21,Temperature:32.517, Humidity:38.6, Pressure:101552.812,,
+2024-03-27 21:06:14.045561,Navigation successful
+2024-03-27 21:06:36,Temperature:32.456, Humidity:38.921, Pressure:102498.82,,
+2024-03-27 21:11:20.529634,Navigation failed
+2024-03-27 21:11:37,Temperature:32.131, Humidity:40.008, Pressure:101613.102,,
+2024-03-27 21:16:50,Temperature:32.469, Humidity:38.824, Pressure:105244.852,,
+2024-03-27 21:19:41.867214,Navigation successful
+2024-03-27 21:27:06,Temperature:32.736, Humidity:38.968, Pressure:101952.867,,
+2024-03-27 21:33:07,Temperature:32.413, Humidity:40.324, Pressure:98561.109,,
+2024-03-27 21:34:54.497352,Navigation successful
+2024-03-27 21:37:24.792051,Navigation failed
+2024-03-27 21:38:07,Temperature:32.663, Humidity:38.916, Pressure:101957.742,,
+2024-03-27 21:39:15.419438,dock
+2024-03-27 21:39:24.440510,Navigation successful
+2024-03-27 21:41:27.144130,Navigation failed
+2024-03-27 21:41:41.143992,Navigation successful
+2024-03-27 21:57:51.529284,Navigation successful
+2024-03-27 21:58:30,Temperature:32.388, Humidity:40.734, Pressure:97160.586,,
+2024-03-27 22:01:33.126189,dock
+2024-03-28 13:41:13.405411,Navigation successful
+2024-03-28 13:41:21,Temperature:31.914, Humidity:40.412, Pressure:101623.992,,
+2024-03-28 13:44:09.737694,dock
+2024-03-28 13:56:15,Temperature:32.229, Humidity:40.376, Pressure:101597.914,,
+2024-03-28 13:59:14.702031,Navigation successful
+2024-03-28 14:01:15,Temperature:31.944, Humidity:41.044, Pressure:102371.531,,
+2024-03-28 14:06:15,Temperature:32.158, Humidity:40.337, Pressure:102893.797,,
+2024-03-28 14:25:21.757920,Navigation successful
+2024-03-28 14:27:24,Temperature:32.59, Humidity:39.4, Pressure:101550.195,,
+2024-03-28 14:32:38,Temperature:32.582, Humidity:39.401, Pressure:101585.969,,
+2024-03-28 14:34:40.750949,Navigation failed
+2024-03-28 14:35:04.886655,Navigation successful
+2024-03-28 14:37:38,Temperature:32.607, Humidity:39.373, Pressure:97785.867,,
+2024-03-28 14:38:51.304831,dock
+2024-03-28 16:47:41.780817,Navigation successful
+2024-03-28 16:50:23,Temperature:32.123, Humidity:40.099, Pressure:100687.531,,
+2024-03-28 16:55:24,Temperature:32.055, Humidity:39.66, Pressure:104578.531,,
+2024-03-28 17:00:24,Temperature:31.911, Humidity:39.986, Pressure:101491.844,,
+2024-03-28 17:04:04.024696,dock
+2024-03-28 17:05:39,Temperature:31.694, Humidity:40.251, Pressure:101402.125,,
+2024-03-28 17:10:54,Temperature:31.994, Humidity:40.281, Pressure:101596.898,,
+2024-03-28 17:11:05.193090,dock
+2024-03-28 17:16:09,Temperature:32.151, Humidity:40.171, Pressure:101495.297,,
+2024-03-28 17:20:29.274263,dock
+2024-03-28 17:21:09,Temperature:32.348, Humidity:40.029, Pressure:101538.773,,
+2024-03-28 17:23:00.440338,goto
+2024-03-28 17:25:00.566772,goto
+2024-03-28 17:26:24,Temperature:32.479, Humidity:39.892, Pressure:101549.391,,
+2024-03-28 17:26:43.616107,dock
+2024-03-28 17:27:00.710018,goto
+2024-03-28 17:29:00.828388,goto
+2024-03-28 17:31:29,Temperature:32.335, Humidity:39.768, Pressure:101469.875,,
+2024-03-28 17:31:52.095639,dock
+2024-03-28 17:32:00.041998,goto
+2024-03-28 17:43:58,Temperature:31.543, Humidity:41.235, Pressure:96558.828,,
+2024-04-01 10:41:05,Temperature:31.628, Humidity:52.466, Pressure:102643.648,,
+2024-04-01 10:46:05,Temperature:31.941, Humidity:50.91, Pressure:102566.414,,
+2024-04-01 10:51:06,Temperature:32.284, Humidity:49.644, Pressure:102519.945,,
+2024-04-01 10:52:39.157344,Navigation failed
+2024-04-01 10:53:12.957594,Navigation successful
+2024-04-01 10:56:06,Temperature:32.443, Humidity:48.967, Pressure:102900.461,,
+2024-04-01 11:01:06,Temperature:32.431, Humidity:48.878, Pressure:101901.766,,
+2024-04-01 11:06:06,Temperature:31.709, Humidity:47.552, Pressure:102178.031,,
+2024-04-01 11:11:06,Temperature:31.52, Humidity:47.884, Pressure:102039.094,,
+2024-04-01 11:15:18.073771,Navigation failed
+2024-04-01 11:16:21,Temperature:31.724, Humidity:47.903, Pressure:102195.156,,
+2024-04-01 11:21:36,Temperature:32.537, Humidity:47.251, Pressure:102265.305,,
+2024-04-01 11:26:51,Temperature:32.655, Humidity:46.688, Pressure:102205.125,,
+2024-04-01 11:33:18.705784,dock
+2024-04-01 11:33:28.160331,Navigation successful
+2024-04-01 11:33:36,Temperature:32.332, Humidity:46.714, Pressure:102632.102,,
+2024-04-01 11:38:38,Temperature:32.731, Humidity:45.894, Pressure:102979.578,,
+2024-04-01 11:43:52,Temperature:32.918, Humidity:45.495, Pressure:102138.227,,
+2024-04-01 11:55:41,Temperature:-48.218, Humidity:100.0, Pressure:83805.898,,
+2024-04-01 11:56:58.073796,Navigation successful
+2024-04-01 12:01:27.531828,dock
+2024-04-01 12:01:32,Temperature:-48.256, Humidity:100.0, Pressure:89679.953,,
+2024-04-01 12:07:22,Temperature:-48.261, Humidity:100.0, Pressure:89268.109,,
+2024-04-01 12:13:12,Temperature:-48.213, Humidity:100.0, Pressure:89296.367,,
+2024-04-01 12:15:58.375307,dock
+2024-04-01 12:18:12,Temperature:-48.548, Humidity:100.0, Pressure:89189.016,,
+2024-04-01 12:24:02,Temperature:-48.435, Humidity:100.0, Pressure:89246.359,,
+2024-04-01 12:30:42,Temperature:-48.901, Humidity:100.0, Pressure:83372.391,,
+2024-04-01 12:31:03.435433,dock
+2024-04-01 12:36:32,Temperature:-48.904, Humidity:100.0, Pressure:90540.547,,
+2024-04-01 12:42:22,Temperature:-48.959, Humidity:100.0, Pressure:89343.578,,
+2024-04-01 12:47:22,Temperature:-49.012, Humidity:100.0, Pressure:82398.836,,
+2024-04-01 12:48:08.363435,dock
+2024-04-01 12:56:23.792991,Navigation successful
+2024-04-01 12:57:18.602048,Navigation failed
+2024-04-01 13:07:12.225982,Navigation successful
+2024-04-01 13:09:52.463740,dock
+2024-04-01 13:14:58.764013,dock
+2024-04-01 15:32:52,Temperature:31.621, Humidity:34.247, Pressure:101460.57,,
+2024-04-23 18:48:38.539889,Navigation successful
+2024-04-23 18:50:16.743490,Navigation failed
+2024-04-23 18:50:23.944071,Navigation successful
+2024-04-23 18:58:06.086516,Navigation failed
+2024-04-24 12:21:35.911978,Navigation failed
+2024-04-24 12:27:38.839138,Navigation successful
+2024-04-24 12:55:49.823212,Navigation successful
+2024-04-24 12:57:26.098963,Navigation failed
+2024-04-24 12:57:58.885926,Navigation successful
+2024-04-24 14:56:28.906027,Navigation successful
+2024-04-24 14:57:39.990965,Navigation failed
+2024-04-24 14:58:29.176431,Navigation successful
+2024-04-24 15:00:54.210051,Navigation failed
+2024-04-24 15:00:59.410046,Navigation successful
+2024-04-24 15:01:25.149259,Navigation failed
+2024-04-24 15:03:28.149475,Navigation successful
+2024-04-24 15:15:17.094360,Navigation failed
+2024-04-24 15:16:30.295002,Navigation successful
+2024-04-29 14:29:10.707241,Navigation successful
+2024-04-29 14:32:06.492666,Navigation failed
+2024-04-29 14:32:40.892853,Navigation successful
+2024-04-29 15:26:00.752360,goto
+2024-04-29 15:28:20.142255,goto
+2024-04-29 15:41:03.163729,goto
+2024-04-29 15:43:34.802669,goto
+2024-04-29 15:44:40.138422,goto
+2024-04-29 15:45:52.921508,goto
+2024-04-29 15:46:06.633806,goto
+2024-04-29 15:47:51.834609,goto
+2024-04-29 15:52:04.455307,goto
+2024-04-29 16:00:00.697667,goto
+2024-04-29 16:01:00.754557,goto
+2024-04-29 16:12:31.398891,goto
+2024-04-29 16:32:31.533905,goto
+2024-04-29 16:32:46.116337,goto
+2024-04-29 16:35:00.633227,goto
+2024-04-29 16:36:00.696930,goto
+2024-04-29 16:39:39.242754,goto
+2024-04-29 17:01:06.556950,saveloc
+2024-04-29 17:01:07.165317,saveloc
+2024-04-29 17:01:07.393226,saveloc
+2024-04-29 17:01:07.682024,saveloc
+2024-04-29 17:01:28.352428,saveloc
+2024-04-29 17:01:29.166180,saveloc
+2024-04-29 17:01:50.010921,saveloc
+2024-04-29 17:01:52.064119,saveloc
+2024-04-29 17:01:52.653146,saveloc
+2024-04-29 17:01:53.259761,saveloc
+2024-04-29 17:01:53.568210,saveloc
+2024-04-29 17:05:30.485468,saveloc
+2024-04-29 17:05:43.895804,saveloc
+2024-04-29 17:05:44.840526,saveloc
+2024-04-29 17:05:45.516660,saveloc
+2024-04-29 17:06:11.497168,goto
+2024-04-29 17:07:30.610039,saveloc
+2024-04-29 17:08:09.148390,saveloc
+2024-04-29 17:08:10.272136,saveloc
+2024-04-29 17:08:10.968577,goto
+2024-04-29 17:08:34.382246,goto
+2024-04-29 17:08:45.045461,goto
+2024-04-29 17:09:06.233725,Navigation failed
+2024-04-29 17:09:13.834212,Navigation successful
+2024-04-29 17:09:44.214515,saveloc
+2024-04-29 17:09:44.931048,saveloc
+2024-04-29 17:09:45.461612,saveloc
+2024-04-29 17:10:15.423880,saveloc
+2024-04-29 17:13:17.637888,saveloc
+2024-04-29 17:13:44.818678,Navigation failed
+2024-04-29 17:14:07.219330,Navigation successful
+2024-04-29 17:14:26.486111,saveloc
+2024-04-29 17:15:11.970699,saveloc
+2024-04-29 17:16:42.204016,saveloc
+2024-04-29 17:17:52.593808,saveloc
+2024-04-29 17:18:15.301687,Navigation failed
+2024-04-29 17:18:57.102253,Navigation successful
+2024-04-29 17:19:25.900913,saveloc
+2024-04-29 17:23:00.897880,goto
+2024-04-29 17:25:00.016005,goto
+2024-04-29 17:25:50.193090,Navigation failed
+2024-04-29 17:27:00.142792,goto
+2024-04-29 17:29:00.260826,goto
+2024-04-29 17:32:00.434604,goto
+2024-04-29 17:53:18.195785,Navigation successful
+2024-04-29 18:05:15.048651,goto
+2024-04-29 18:06:42.376508,goto
+2024-04-30 11:11:28.996093,goto
+2024-04-30 11:11:36.335373,goto
+2024-04-30 11:14:03.451584,goto
+2024-04-30 11:14:14.264277,Navigation successful
+2024-04-30 11:14:24.225298,goto
+2024-04-30 11:22:00.784197,goto
+2024-04-30 11:24:00.881210,goto
+2024-04-30 11:26:00.987586,goto
+2024-04-30 11:30:00.201852,goto
+2024-04-30 11:31:35.997438,Navigation failed
+2024-04-30 11:32:00.311758,goto
+2024-04-30 11:32:44.871139,Navigation successful
+2024-04-30 11:33:24.731509,goto
+2024-04-30 11:35:43.393677,Navigation failed
+2024-04-30 11:36:40.994112,Navigation successful
+2024-04-30 12:46:34.871601,Navigation failed
+2024-04-30 12:46:43.592223,Navigation successful
+2024-04-30 12:48:00.067760,goto
+2024-04-30 12:50:00.175141,goto
+2024-04-30 12:52:00.282983,goto
+2024-04-30 13:02:00.577659,goto
+2024-04-30 13:07:00.644173,goto
+2024-04-30 13:09:00.765060,goto
+2024-04-30 13:11:00.868490,goto
+2024-04-30 13:13:00.986200,goto
+                                              2024-04-30 15:07:38.411866,saveloc
+2024-04-30 15:08:03.186179,saveloc
+2024-04-30 15:08:20.036764,goto
+2024-04-30 15:08:28.991026,goto
+2024-04-30 15:08:40.750826,goto
+2024-04-30 15:09:23.002329,saveloc
+2024-04-30 15:09:37.743166,saveloc
+2024-05-02 12:13:41.387400,Navigation failed
+2024-05-02 12:38:00.032909,goto
+2024-05-02 12:38:19.468569,Navigation successful
+2024-05-02 12:40:00.151007,goto
+2024-05-02 12:42:00.267575,goto
+2024-05-02 12:45:16.493120,Navigation failed
+2024-05-02 12:45:42.694231,Navigation successful
+2024-05-02 12:46:00.513293,goto
+2024-05-02 12:48:00.540555,goto
+2024-05-02 12:50:00.655963,goto
+2024-05-02 12:52:00.765012,goto
+2024-05-02 12:57:52.793004,Navigation failed
+2024-05-02 12:58:15.992775,Navigation successful
+2024-05-02 13:05:00.982137,Navigation successful
+2024-05-02 13:10:00.252006,goto
+2024-05-02 13:16:00.610020,goto
+2024-05-02 13:17:28.424372,saveloc
+2024-05-02 13:18:46.819650,saveloc
+2024-05-02 13:23:30.509351,saveloc
+2024-05-02 13:24:02.929403,goto
+2024-05-02 13:24:13.019610,Navigation successful
+2024-05-02 13:26:16.201324,saveloc
+2024-05-02 13:26:31.560542,goto
+2024-05-02 13:27:42.384004,saveloc
+2024-05-02 13:28:26.627668,saveloc
+2024-05-02 13:28:28.536297,goto
+2024-05-02 13:29:07.003161,Navigation failed
+2024-05-02 13:30:52.794875,saveloc
+2024-05-02 13:31:07.759763,goto
+2024-05-02 13:31:22.181837,Navigation successful
+2024-05-02 13:32:00.059685,Navigation failed
+2024-05-02 14:14:18.904526,saveloc
+2024-05-02 14:14:30.694844,goto
+2024-05-02 14:15:01.914136,Navigation successful
+2024-05-02 14:16:00.015633,goto
+2024-05-02 14:18:00.136704,goto
+2024-05-02 14:22:00.379036,goto
+2024-05-02 14:25:37.065963,goto
+2024-05-02 14:25:47.205204,saveloc
+2024-05-02 14:25:50.693166,goto
+2024-05-02 14:25:56.710697,Navigation failed
+2024-05-02 14:26:03.087716,goto
+2024-05-02 14:26:22.096911,Navigation successful
+2024-05-02 14:26:27.902918,goto
+2024-05-02 15:21:55.032203,moveheadup
+2024-05-02 15:22:18.292002,saveloc
+2024-05-02 15:23:00.395709,saveloc
+2024-05-02 15:23:19.521288,saveloc
+2024-05-02 15:24:24.577016,saveloc
+2024-05-02 15:24:46.849781,goto
+2024-05-02 15:31:44.724796,saveloc
+2024-05-02 15:40:08.602667,saveloc
+2024-05-02 15:40:24.194899,saveloc
+2024-05-02 15:40:55.768953,saveloc
+2024-05-02 15:41:25.691054,saveloc
+2024-05-02 15:41:44.981926,goto
+2024-05-02 15:42:41.047906,Navigation successful
+2024-05-02 15:42:59.638284,saveloc
+2024-05-02 15:43:56.065804,saveloc
+2024-05-02 15:44:57.735340,saveloc
+2024-05-02 15:47:03.089114,saveloc
+2024-05-02 15:47:14.026084,goto
+2024-05-02 15:48:55.506333,saveloc
+2024-05-02 15:49:47.037613,saveloc
+2024-05-02 15:50:13.678725,saveloc
+2024-05-02 15:50:48.371101,goto
+2024-05-02 15:50:48.447520,Navigation failed
+2024-05-02 15:51:28.847780,Navigation successful
+2024-05-02 15:51:35.630672,saveloc
+2024-05-02 16:01:09.174967,goto
+2024-05-02 16:16:10.454013,Navigation successful
+2024-05-02 16:26:00.394216,goto
+2024-05-02 16:28:00.511815,goto
+2024-05-02 16:30:00.631835,goto
+2024-05-02 16:32:00.752270,goto
+2024-05-02 16:36:00.985331,goto
+2024-05-02 16:39:08.557728,saveloc
+2024-05-02 17:07:53.379884,Navigation successful
+2024-05-02 17:10:00.515121,goto
+2024-05-02 17:10:00.938522,goto
+2024-05-02 17:10:01.129123,Navigation failed
+2024-05-02 17:10:07.929765,Navigation successful
+2024-05-02 17:12:00.049576,goto
+2024-05-02 17:12:00.631381,goto
+2024-05-02 17:12:00.863516,Navigation failed
+2024-05-02 17:12:51.664358,Navigation successful
+2024-05-02 17:14:00.174311,goto
+2024-05-02 17:14:00.748367,goto
+2024-05-02 17:14:00.841980,Navigation failed
+2024-05-02 17:15:00.042752,Navigation successful
+2024-05-02 17:16:00.288293,goto
+2024-05-02 17:16:00.866069,goto
+2024-05-02 17:16:00.924251,Navigation failed
+2024-05-02 17:16:27.327772,Navigation successful
+2024-05-02 17:20:00.102856,goto
+2024-05-02 17:20:00.523215,goto
+2024-05-02 17:20:00.734751,Navigation failed
+2024-05-02 17:20:28.936687,Navigation successful
+2024-05-03 13:00:00.434267,goto
+2024-05-03 13:00:00.540653,goto
+2024-05-03 13:00:00.644937,Navigation failed
+2024-05-03 13:00:35.045325,Navigation successful
+2024-05-03 13:02:00.539364,goto
+2024-05-03 13:02:00.637729,goto
+2024-05-03 13:02:00.752931,Navigation failed
+2024-05-03 13:02:34.954312,Navigation successful
+2024-05-03 13:04:00.649088,goto
+2024-05-03 13:04:00.744787,goto
+2024-05-03 13:04:00.861158,Navigation failed
+2024-05-03 13:06:00.756812,goto
+2024-05-03 13:06:00.852652,goto
+2024-05-03 13:06:29.567366,Navigation successful
+2024-05-03 13:10:00.068829,goto
+2024-05-03 14:48:00.898596,goto
+2024-05-03 14:50:00.004674,goto
+2024-05-03 14:52:00.111948,goto
+2024-05-03 14:52:38.426002,Navigation failed
+2024-05-03 14:54:00.222598,goto
+2024-05-03 14:55:08.033965,Navigation successful
+2024-05-03 14:56:00.324197,goto
+2024-05-03 15:00:00.542044,goto
+2024-05-03 15:43:10.598040,Navigation failed
+2024-05-03 15:43:14.918591,Navigation successful
+2024-05-03 15:52:21.617090,Navigation successful
+2024-05-03 15:52:35.797320,Navigation failed
+2024-05-03 16:06:00.310733,goto
+2024-05-03 16:06:00.319581,goto
+2024-05-03 16:12:57.123954,Navigation successful
+2024-05-03 16:22:05.665954,goto
+2024-05-03 16:42:00.395896,goto
+2024-05-03 16:42:17.007415,Navigation successful
+2024-05-03 16:48:00.180575,goto
+2024-05-03 16:50:00.280927,goto
+2024-05-03 16:52:00.384269,goto
+2024-05-03 16:54:00.492644,goto
+2024-05-03 16:56:00.601138,goto
+2024-05-03 16:58:00.706218,goto
+2024-05-03 17:20:00.273390,goto
+2024-05-03 17:26:00.014685,goto
+2024-05-03 17:28:00.124972,goto
+2024-05-03 17:30:00.237494,goto
+2024-05-03 17:32:00.364433,goto
+2024-05-03 17:34:00.470259,goto
+2024-05-03 17:36:00.582492,goto
+2024-05-03 17:44:00.770461,goto
+2024-05-03 17:46:00.250950,goto
+2024-05-03 17:48:00.714467,goto
+2024-05-03 18:02:00.158882,goto
+2024-05-03 19:00:00.599534,goto
+2024-05-03 19:02:00.719256,goto
+2024-05-03 19:08:00.729072,goto
+2024-05-03 19:10:00.864753,goto
+2024-05-03 19:12:00.006874,goto
+2024-05-03 19:14:00.140386,goto
+2024-05-03 19:16:00.264292,goto
+2024-05-03 19:18:00.399947,goto
+2024-05-06 12:40:00.405173,goto
+2024-05-06 12:40:31.054754,Navigation successful
+2024-05-06 12:42:00.579409,goto
+2024-05-06 12:44:00.730815,goto
+2024-05-06 12:46:00.903587,goto
+2024-05-06 12:48:00.065225,goto
+2024-05-06 12:50:00.246803,goto
+2024-05-06 13:22:42.407382,goto
+2024-05-06 13:25:09.817423,goto
+2024-05-06 13:34:00.418578,goto
+2024-05-06 13:34:31.432656,Navigation successful
+2024-05-06 13:36:00.598223,goto
+2024-05-06 13:38:00.770700,goto
+2024-05-06 13:40:00.939657,goto
+2024-05-06 13:42:00.108335,goto
+2024-05-06 13:44:00.278582,goto
+2024-05-06 16:42:00.283869,goto
+2024-05-06 16:43:45.394276,Navigation successful
+2024-05-06 16:44:00.435995,goto
+2024-05-06 16:46:00.592883,goto
+2024-05-06 16:48:00.742621,goto
+2024-05-06 16:50:00.885764,goto
+2024-05-06 16:52:00.031130,goto
+2024-05-06 17:19:58.475436,Navigation failed
+2024-05-06 17:20:14.679938,Navigation successful
+2024-05-07 11:41:48.754913,Navigation failed
+2024-05-07 11:42:54.919791,Navigation successful
+2024-05-07 11:50:00.924233,goto
+2024-05-07 11:55:00.284969,goto
+2024-05-07 12:00:00.670581,goto
+2024-05-07 12:00:39.538905,Navigation failed
+2024-05-07 12:05:00.036482,goto
+2024-05-07 12:05:40.305465,Navigation successful
+2024-05-07 12:10:00.423486,goto
+2024-05-07 12:15:00.806440,goto
+2024-05-07 12:25:00.547016,goto
+2024-05-07 12:30:00.931876,goto
+2024-05-07 12:35:00.852449,goto
+2024-05-07 12:35:35.557085,Navigation failed
+2024-05-07 12:37:21.271221,Navigation successful
+2024-05-07 12:40:00.339096,goto
+2024-05-07 12:40:38.854656,Navigation failed
+2024-05-07 12:45:00.707918,goto
+2024-05-07 12:45:20.374184,Navigation successful
+2024-05-07 12:50:00.085397,goto
+2024-05-07 13:02:00.964472,goto
+2024-05-07 13:05:00.198926,goto
+2024-05-07 13:10:00.615151,goto
+2024-05-07 13:15:00.981489,goto
+2024-05-07 13:20:00.353756,goto
+2024-05-07 13:25:00.721057,goto
+2024-05-07 14:25:00.145774,goto
+2024-05-07 14:30:00.516527,goto
+2024-05-07 14:35:00.900604,goto
+2024-05-07 14:40:00.261078,goto
+2024-05-07 14:45:00.625567,goto
+2024-05-07 14:50:00.999748,goto
+2024-05-07 14:55:00.379573,goto
+2024-05-07 15:00:00.755853,goto
+2024-05-07 15:05:00.122648,goto
+2024-05-07 15:10:00.477931,goto
+2024-05-07 15:15:00.846232,goto
+2024-05-07 15:20:00.208493,goto
+2024-05-07 15:25:00.582308,goto
+2024-05-07 15:30:00.953634,goto
+2024-05-07 15:35:00.318457,goto
+2024-05-07 15:40:00.688469,goto
+2024-05-07 15:45:00.060387,goto
+2024-05-07 15:50:00.433157,goto
+2024-05-07 15:55:00.796199,goto
+2024-05-07 16:00:00.157178,goto
+2024-05-07 16:05:00.512983,goto
+2024-05-07 16:10:00.903093,goto
+2024-05-07 16:15:00.265695,goto
+2024-05-07 16:20:00.629730,goto
+2024-05-07 16:25:00.999125,goto
+2024-05-07 16:30:00.369498,goto
+2024-05-07 16:35:00.002007,goto
+2024-05-07 16:40:00.086121,goto
+2024-05-07 16:40:38.508846,Navigation failed
+2024-05-07 16:42:00.934527,goto
+2024-05-07 16:42:55.952089,Navigation successful
+2024-05-07 16:44:00.050162,goto
+2024-05-07 16:45:00.462301,goto
+2024-05-07 16:46:00.174884,goto
+2024-05-07 16:48:00.287597,goto
+2024-05-07 16:48:38.712560,Navigation failed
+2024-05-07 16:50:00.838198,goto
+2024-05-07 16:50:20.850715,Navigation successful
+2024-05-07 16:52:00.519521,goto
+2024-05-07 17:02:00.746661,goto
+2024-05-07 17:05:00.966725,goto
+2024-05-07 17:10:00.341878,goto
+2024-05-07 17:10:10.155059,Navigation failed
+2024-05-07 17:10:16.356119,Navigation successful
+2024-05-08 11:57:00.039590,goto
+2024-05-08 11:57:28.710539,Navigation successful
+2024-05-08 12:00:00.280794,goto
+2024-05-08 12:05:00.672710,goto
+2024-05-08 12:10:00.079072,goto
+2024-05-08 12:15:00.460629,goto
+2024-05-08 12:20:00.831976,goto
+2024-05-08 12:25:00.191287,goto
+2024-05-08 12:30:00.568254,goto
+2024-05-08 12:35:00.930615,goto

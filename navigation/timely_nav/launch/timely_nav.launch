@@ -1,0 +1,6 @@
+<launch>
+
+<rosparam file="$(find timely_nav)/params/time_config.yaml" command="load"/>
+   <node name="publish_goal_node" pkg="timely_nav" type="updated_code.py" output = "screen"/>
+
+</launch>

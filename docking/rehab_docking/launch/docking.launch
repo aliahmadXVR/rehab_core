@@ -1,0 +1,10 @@
+<launch> 
+<include file="$(find rehab_bringup)/launch/rehab_bringup.launch"/>
+
+<!-- Add camera launch file here -->
+<include file="$(find realsense2_camera)/launch/rs_rgbd.launch"/>
+
+<include file="$(find rehab_navigation)/launch/rehab_navigation.launch"/>
+
+<include file="$(find rehab_bringup)/launch/arouco_ros.launch"/>
+</launch>

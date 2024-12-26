@@ -1,0 +1,8 @@
+<launch>
+    <!-- Launch your Python script -->
+    <env name="DISPLAY" value=":0" />
+    <node name="rec_trigger_node" pkg="trigger" type="rec_trigger.py" output="screen" />
+
+  
+
+</launch>

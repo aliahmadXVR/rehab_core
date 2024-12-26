@@ -1,0 +1,5 @@
+# leds can be set green, red, off 
+
+led_1_set: "off"
+led_2_set: "off"
+led_3_set: "off"

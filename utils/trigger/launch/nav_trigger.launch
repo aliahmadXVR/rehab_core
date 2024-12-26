@@ -1,0 +1,4 @@
+<launch>
+    <!-- Launch your Python script -->
+    <node name="nav_trigger_node" pkg="trigger" type="nav_trigger.py" output="screen" />
+</launch>

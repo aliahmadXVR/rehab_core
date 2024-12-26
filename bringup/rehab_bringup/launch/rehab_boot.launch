@@ -1,0 +1,145 @@
+<launch> 
+  
+  <!-- Bringing up rplidar -->
+    <include file="$(find rplidar_ros)/launch/rplidar.launch"/>
+
+    <!-- base link to 2nd LIDAR new-->
+    <!-- <include file="$(find rplidar_ros)/launch/rplidar_front.launch"/>  -->
+
+  <!-- serial node settings -->
+      <node name="serial_node_stm32"        pkg="rosserial_python"      type="serial_node.py" output= "log">
+      <param name="port"              type="string"               value="/dev/ttyRos"/>
+      <param name="~baud" value="115200" />
+      </node>
+
+      <param name="start_navigation"         type="bool"                 value="false"/>
+
+    <!-- ESP-32 ros serial -->
+    <node pkg="rosserial_python" type="serial_node.py" name="serial_node_esp32" output="screen" respawn="true" respawn_delay="10.0">
+      <param name="port" value="tcp"/>
+      <param name="baud" value="11411"/>
+    </node>
+
+
+  <!-- upload urdf to parameter service -->
+      <arg name="urdf_file" default="$(find xacro)/xacro $(find rehab_robot)/urdf/rehab_robot.urdf.xacro" />
+      <param name="robot_description" command="$(arg urdf_file)" />
+
+  <!-- Rehab hardware interface -->
+      <node name="rehab_base" pkg="rehab_base" type="rehab_base"  output="screen"/>
+
+
+  <!-- Rehab controller configuration -->
+      <rosparam command="load" 
+                file="$(find rehab_control)/config/rehab.yaml"/>
+
+  <!-- Spawn rehab diff-drive controller -->
+      <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+          output="screen" args="joint_state_controller
+                                              mobile_base_controller" />
+
+  <!-- joint state and robot state publisher -->
+      <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"/>
+      <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher"> 
+      <rosparam param="source_list">[/joint_states , /measured_joint_states]</rosparam>
+      </node>
+
+  <!-- Launch Joystick Teleop & HeadNeck via Screen-->
+      <include file="$(find rehab_teleop)/launch/joy_teleop.launch"/> 
+      <!-- Launch the Screen control for head neck -->
+      <node name="screen_control" pkg="rehab_teleop" type="screen_head_control.py" output="screen" />
+  
+  <!-- Add camera launch file here -->
+  <!-- <include file="$(find realsense2_camera)/launch/rs_rgbd.launch"/> -->
+
+  <!-- Add bumper/cliff point cloud publisher here -->
+      <!-- <include file="$(find rehab_bumper2cloud)/launch/standalone.launch"/> -->
+      
+  <!-- Add head/neck here -->
+      <include file="$(find rehab_head_neck_intg)/launch/pan_tilt.launch"/>
+
+  <!-- Add AR tag tracking here -->
+  <include file="$(find rehab_bringup)/launch/arouco_ros.launch"/>
+
+  <!-- Add docking here -->
+    <node pkg="rehab_docking" name="undock_dock" type="limit_switch_docking.py" output="screen"/>
+
+  <!-- LEDs -->
+  <include file="$(find rehab_leds)/launch/rehab_leds.launch"/>
+
+  <!-- static tf between real amera frame and camera frame in urdf -->
+  <node pkg="tf" type="static_transform_publisher" name="azure_to_camera_base" args=" 0 0 0 0 0 0 azure_link camera_base  20" /> 
+      <!-- <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.21129 0 0.12672 0 -0.0523599 0 base_link camera_link  20" /> -->
+  <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.21129 0 0.12672 0 0 0 base_link camera_link  20" />
+  
+      <!-- base link to 2nd LIDAR new-->
+  <!-- <node pkg="tf" type="static_transform_publisher" name="base_link_to_front_lidar" args=" 0.24129 0 0.04 0 0 0 base_link front_lidar  20" /> -->
+
+  <node pkg="rehab_slam" name = "mapping_node" type = "mapping.py" output = "screen"/>
+  <node pkg="rehab_navigation" name = "autonav_node" type = "auto_nav.py" output = "screen"/>
+
+  <!-- these node control head and neck based on leg detection and joy stick-->
+  <!-- <node name="head_on_Leg" pkg="rehab_demos" type="head_motion_on_leg_detection.py" output = "screen"/> -->
+
+  <!-- Technical Demo Main Node-->
+  <node name="Tech_demo" pkg="rehab_demos" type="robot_demo.py" output = "screen"/>
+  
+  <param name="led_1_set"                          
+         value="green"/>
+  <param name="led_2_set"                          
+         value="green"/>
+
+  <!-- ****Launch the rehab_logging.launch file (which includes all the relatives nodes)**** -->
+  <include file="$(find rehab_logging)/launch/rehab_logging.launch"/>
+  
+  <!-- Launch the rehab_logging_node for location & time saving -->
+  <!-- <node name="loc_save_node" pkg="rehab_logging" type="loc_save.py" output = "screen"/>
+  <node name="time_save_node" pkg="rehab_logging" type="time_save.py" output = "screen"/> -->
+
+  <!-- Battery Display Node -->
+  <!-- <node name="battery_monitoring_node" pkg="rehab_logging" type="battery_monitoring.py" output = "screen"/> -->
+
+  <!-- Navigation/Goal Status Node -->
+  <!-- <node name="rehab_navigation_status" pkg="rehab_logging" type="navigation_status.py" output = "screen"/> -->
+  
+  <!-- ************************************************************************************ -->
+  
+
+  <!-- **** Launch the rehab_behavior node**** -->
+
+  <!-- Launch the rehab_behavior.launch file -->
+  <include file="$(find rehab_behavior)/launch/rehab_behavior.launch"/>
+  <!-- <rosparam file="$(find rehab_behavior)/params/location.yaml" command="load"/>
+  <node name="rehab_behavior_node" pkg="rehab_behavior" type="behavior_node.py" output = "screen"/> -->
+  <!-- *************************************** -->
+  
+  <!-- ****Launch the relevant trigger nodes from the trigger package**** -->
+
+  <!-- Launch the Trigger node for gait analysis -->
+  <!-- <include file="$(find trigger)/launch/trigger.launch"/> -->
+
+    <!-- Launch the Trigger node for demo mode -->
+  <include file="$(find trigger)/launch/demo_control.launch"/>
+  
+  <!-- Launch the Navigation -->
+  <include file="$(find trigger)/launch/nav_trigger.launch"/>
+
+  <!-- Launch Time Schedule & time based navgiation launch file -->
+  <include file="$(find trigger)/launch/timelynav_trigger.launch"/>
+
+  <!-- Launch the Recording -->
+  <include file="$(find trigger)/launch/rec_trigger.launch"/>
+
+  <!-- Launch the Pause & Cancel Goal Node -->
+  <include file="$(find rehab_navigation)/launch/pause_cancel_goal.launch"/>
+
+  <!-- ****************************************************************** -->
+
+  <!-- ****Localization (Location Saving) Node**** -->
+  <!-- Uncomment the following line if you want to use auto localization of robot after reboot. Also comment arguments lines from rehab_navigation_camera.launch file -->
+  <!-- <include file="$(find rehab_localize)/launch/rehab_autolocalize_on_reboot.launch"/> -->
+  <!-- ******************************************* -->
+  
+</launch>
+
+

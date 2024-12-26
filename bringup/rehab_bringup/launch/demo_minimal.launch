@@ -1,0 +1,53 @@
+<launch> 
+  <!-- serial node settings -->
+  <node name="serial_node_stm32"        pkg="rosserial_python"      type="serial_node.py" output= "log">
+    <param name="port"              type="string"               value="/dev/ttyRos"/>
+    <param name="~baud" value="115200" />
+  </node>
+
+  <param name="start_navigation"         type="bool"                 value="false"/>
+
+   <!-- ESP-32 ros serial -->
+  <node pkg="rosserial_python" type="serial_node.py" name="serial_node_esp32" output="screen">
+    <param name="port" value="tcp"/>
+    <param name="baud" value="11411"/>
+  </node>
+
+  <!-- upload urdf to parameter service -->
+  <arg name="urdf_file" default="$(find xacro)/xacro $(find rehab_robot)/urdf/rehab_robot.urdf.xacro" />
+  <param name="robot_description" command="$(arg urdf_file)" />
+
+  <!-- Rehab hardware interface -->
+  <node name="rehab_base" pkg="rehab_base" type="rehab_base"  output="screen"/>
+
+  <!-- Rehab controller configuration -->
+  <rosparam command="load" 
+            file="$(find rehab_control)/config/rehab.yaml"/>
+
+  <!-- Spawn rehab diff-drive controller -->
+  <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+      output="screen" args="joint_state_controller
+                                          mobile_base_controller" />
+
+  <!-- joint state and robot state publisher -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"/>
+  <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher"> 
+    <rosparam param="source_list">[/joint_states , /measured_joint_states]</rosparam>
+  </node>
+
+  <!-- Teleop -->
+  <include file="$(find rehab_teleop)/launch/keyboard_teleop.launch"/>
+
+  <node pkg="tf" type="static_transform_publisher" name="azure_to_camera_base" args=" 0 0 0 0 0 0 azure_link camera_base  20" /> 
+  <!-- <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.206 0 0.083 0 0 0 base_link camera_link  20" />  -->
+  <node pkg="tf" type="static_transform_publisher" name="d435_to0_base_link" args=" 0.21129 0 0.12672 0 -0.0523599 0 base_link camera_link  20" />
+
+  <!-- Launch the Trigger node.--> 
+  <env name="DISPLAY" value=":0" />
+  <env name="LD_PRELOAD" value="libgomp.so.1" />
+  <node name="demo_trigger_node" pkg="trigger" type="demo_trigger.py" output="screen" />
+  <!-- <node name="demo_trigger_node" pkg="trigger" type="demo_trigger.py" output="log" cwd="ROS_HOME"/> -->
+
+</launch>
+
+

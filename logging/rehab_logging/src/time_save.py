@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 ################# To Update Schedule Immediately ##################
 import rospy
 from std_msgs.msg import String
@@ -26,7 +26,7 @@ class RoutineListener:
             'goal_time_10': "00:00"
         }
         # self.yaml_file_path = '/home/orin2/test_ws/src/Rehabbot-EETeam/timely_nav/params/time_config.yaml'
-        self.yaml_file_path = f'/home/{username}/test_ws/src/Rehabbot-EETeam/timely_nav/params/time_config.yaml'
+        self.yaml_file_path = f'/home/{username}/rehab_ws/src/rehab_core/navigation/timely_nav/params/time_config.yaml'
         # Load existing data if the file exists
         if os.path.exists(self.yaml_file_path):
             with open(self.yaml_file_path, 'r') as yaml_file:

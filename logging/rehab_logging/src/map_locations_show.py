@@ -25,7 +25,7 @@ class RobotLocationVisualizer:
         
         self.bridge = CvBridge()
         self.map_info = None
-        self.locations = self.load_locations('/home/orin1/test_ws/src/Rehabbot-EETeam/rehab_behavior/params/location.yaml')
+        self.locations = self.load_locations('/home/orin3/rehab_ws/src/rehab_core/behavior/rehab_behavior/params/location.yaml')
 
         rospy.Timer(rospy.Duration(0.5), self.update_image)  # Update image every 0.5 seconds
 

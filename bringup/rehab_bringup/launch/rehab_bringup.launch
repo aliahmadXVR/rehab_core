@@ -1,4 +1,7 @@
 <launch> 
+  <!-- Define an argument to select the robot_model as US or china -->
+    <arg name="robot_model" default="US" />
+
 <!-- serial node settings -->
     <node name="serial_node_wheels"        pkg="rosserial_python"      type="serial_node.py" output= "screen">
     <param name="port"              type="string"               value="/dev/ttyRos"/>
@@ -12,7 +15,7 @@
   </node>
 
 <!-- upload urdf to parameter service -->
-    <arg name="urdf_file" default="$(find xacro)/xacro $(find rehab_robot)/urdf/rehab_robot.urdf.xacro" />
+    <arg name="urdf_file" default="$(find xacro)/xacro $(find rehab_robot)/urdf/rehab_robot_$(arg robot_model).urdf.xacro" />
     <param name="robot_description" command="$(arg urdf_file)" />
 
 <!-- Rehab hardware interface -->

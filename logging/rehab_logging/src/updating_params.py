@@ -18,7 +18,7 @@ class ParamUpdaterNode:
 
         # Path to your YAML file
         # self.yaml_file_path = rospy.get_param("~yaml_file_path", "/home/orin2/test_ws/src/Rehabbot-EETeam/timely_nav/params/time_config.yaml")
-        self.yaml_file_path = rospy.get_param("~yaml_file_path", f"/home/{username}/test_ws/src/Rehabbot-EETeam/timely_nav/params/time_config.yaml")
+        self.yaml_file_path = rospy.get_param("~yaml_file_path", f"/home/{username}/rehab_ws/src/rehab_core/navigation/timely_nav/params/time_config.yaml")
 
         # Initialize last_modified_time
         self.last_modified_time = 0

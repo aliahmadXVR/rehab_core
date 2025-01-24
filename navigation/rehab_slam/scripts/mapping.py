@@ -22,7 +22,7 @@ class GMappingNode:
             rospy.loginfo("Stopping GMapping node...")
             # save map
             rospy.loginfo("Saving map...")
-            subprocess.call(["rosrun", "map_server", "map_saver", "-f", "/home/orin2/test_ws/src/Rehabbot-EETeam/rehab_navigation/maps/online_map"])
+            subprocess.call(["rosrun", "map_server", "map_saver", "-f", "/home/orin3/rehab_ws/src/rehab_core/navigation/rehab_navigation/maps/online_map"])
             self.process.terminate()
             self.process.wait()
             self.process = None

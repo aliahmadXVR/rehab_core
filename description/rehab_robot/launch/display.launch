@@ -1,0 +1,16 @@
+<launch>
+<!-- Define an argument to select the robot_model as US or china -->
+<arg name="robot_model" default="china" />
+
+  <arg name="urdf_file" default="$(find rehab_robot)/urdf/rehab_robot_$(arg robot_model).urdf.xacro"/>
+  <arg name="gui" default="false" />
+  <arg name="rvizconfig" default="$(find rehab_robot)/rviz_config/urdf.rviz" />
+
+  <param name="robot_description" command="$(find xacro)/xacro $(arg urdf_file)" />
+
+  <node if="$(arg gui)" name="joint_state_publisher" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" />
+  <node unless="$(arg gui)" name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)" required="true" />
+
+</launch>

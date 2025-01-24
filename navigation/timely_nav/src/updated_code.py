@@ -63,12 +63,7 @@ def load_parameters():
     global location_times, last_reload_time
 
     # Read parameters from .yaml file
-<<<<<<< HEAD
-    
-    # with open("/home/orin2/test_ws/src/Rehabbot-EETeam/timely_nav/params/time_config.yaml", 'r') as stream:
-=======
->>>>>>> b947dcb3a9c044eb442b5f5f6d7845029d34de73
-    with open(f"/home/{username}/test_ws/src/Rehabbot-EETeam/timely_nav/params/time_config.yaml", 'r') as stream:
+    with open(f"/home/{username}/rehab_ws/src/rehab_core/navigation/timely_nav/params/time_config.yaml", 'r') as stream:
         try:
             parameters = yaml.safe_load(stream)
         except yaml.YAMLError as exc:

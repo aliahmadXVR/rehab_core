@@ -20,7 +20,7 @@ class PositionChecker:
         rospy.init_node('position_checker', anonymous=True)
 
         # file_path = '/home/orin2/test_ws/src/Rehabbot-EETeam/rehab_behavior/params/location.yaml'
-        file_path = f'/home/{username}/test_ws/src/Rehabbot-EETeam/rehab_behavior/params/location.yaml'
+        file_path = f'/home/{username}/rehab_ws/src/rehab_core/behavior/rehab_behavior/params/location.yaml'
         print("The Yaml File Path: ", file_path)
 
         # Load the locations from the yaml file

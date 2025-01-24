@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ############ For Multiple Locations with Orientation #################
 import rospy
@@ -38,7 +38,8 @@ class GoToLocation:
         rospy.loginfo("move_base action server found")
         
         ##########################################################################     
-        with open(f'/home/{username}/test_ws/src/Rehabbot-EETeam/rehab_behavior/params/location.yaml', 'r') as file:
+        # with open(f'/home/{username}/test_ws/src/Rehabbot-EETeam/rehab_behavior/params/location.yaml', 'r') as file:
+        with open(f'/home/{username}/rehab_ws/src/rehab_core/behavior/rehab_behavior/params/location.yaml', 'r') as file:
             data = yaml.safe_load(file)
 
         total_locations = 11 ## For 10 locations (For I locations write i+1)

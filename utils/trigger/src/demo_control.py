@@ -40,7 +40,7 @@ class DemoTriggerNode:
             rospy.loginfo("Starting demo.sh script...")
             # Replace with the actual path to your .sh script
             # script_path = f"/home/{username}/demo_models.sh"
-            script_path = f"/home/{username}/test_ws/src/Rehabbot-EETeam/trigger/scripts/demo_models.sh"
+            script_path = f"/home/{username}/rehab_ws/src/rehab_core/utils/trigger/scripts/demo_models.sh"
             self.demo_process = Popen([script_path])
         else:
             rospy.logwarn("demo.sh script is already running.")

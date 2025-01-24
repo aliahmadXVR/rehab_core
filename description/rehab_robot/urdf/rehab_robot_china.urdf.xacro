@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+
+     <!-- rehab_robot/meshes/design2/ -->
+<robot
+  name="rehab_robot" xmlns:xacro="http://ros.org/wiki/xacro">
+
+  <!-- <xacro:include filename="$(find rehab_robot)/urdf/rehab_robot_china/rehab_robot_china.gazebo" /> -->
+  
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="0.0702630088280591 0.000115861625620772 0.205958961216521"
+        rpy="0 0 0" />
+      <mass
+        value="7.59387976539046" />
+      <inertia
+        ixx="0.17484454328246"
+        ixy="0.000572059528964052"
+        ixz="0.00550283820105147"
+        iyy="0.14360255974954"
+        iyz="-0.000110351435669258"
+        izz="0.179235844327639" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.0392156862745098 0.490196078431373 0.709803921568627 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <link
+    name="Caster_FL_L1">
+    <inertial>
+      <origin
+        xyz="-0.00426051414314726 -0.00514507323436744 0.000285980088503113"
+        rpy="0 0 0" />
+      <mass
+        value="0.0204130717793958" />
+      <inertia
+        ixx="3.81584984536867E-06"
+        ixy="-2.35998718633677E-07"
+        ixz="-5.89253698887494E-07"
+        iyy="3.72642320954305E-06"
+        iyz="-7.1147947774586E-07"
+        izz="4.04727563245288E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FL_L1.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.63921568627451 0.666666666666667 0.67843137254902 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FL_L1.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j1"
+    type="continuous">
+    <origin
+      xyz="0.18987 0.12807 -0.012476"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Caster_FL_L1" />
+    <axis
+      xyz="0 0 -1" />
+  </joint>
+  <link
+    name="Caster_FL_L2">
+    <inertial>
+      <origin
+        xyz="-1.31793775892675E-09 1.09135064874089E-09 -5.55111512312578E-17"
+        rpy="0 0 0" />
+      <mass
+        value="0.0134506502942727" />
+      <inertia
+        ixx="1.95237654972356E-06"
+        ixy="-4.67694927245687E-07"
+        ixz="-1.35918348448442E-22"
+        iyy="1.77486468924396E-06"
+        iyz="3.13426020633683E-22"
+        izz="1.38757843634861E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FL_L2.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FL_L2.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j2"
+    type="continuous">
+    <origin
+      xyz="-0.012047 -0.014548 -0.01904"
+      rpy="0 0 0" />
+    <parent
+      link="Caster_FL_L1" />
+    <child
+      link="Caster_FL_L2" />
+    <axis
+      xyz="-0.77021 0.63779 0" />
+  </joint>
+  <link
+    name="Caster_FR_L1">
+    <inertial>
+      <origin
+        xyz="-0.00408434892746257 0.00528600534250101 0.000285980134777541"
+        rpy="0 0 0" />
+      <mass
+        value="0.0204130719148159" />
+      <inertia
+        ixx="3.83181263459485E-06"
+        ixy="2.3240745051316E-07"
+        ixz="-5.64778992962365E-07"
+        iyy="3.71046035024521E-06"
+        iyz="7.31059449754526E-07"
+        izz="4.04727531580469E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FR_L1.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.63921568627451 0.666666666666667 0.67843137254902 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FR_L1.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j3"
+    type="continuous">
+    <origin
+      xyz="0.189892265177 -0.128050616368598 -0.0124758540710125"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Caster_FR_L1" />
+    <axis
+      xyz="0 0 -1" />
+  </joint>
+  <link
+    name="Caster_FR_L2">
+    <inertial>
+      <origin
+        xyz="1.35403566137171E-09 1.04622815966238E-09 5.55111512312578E-17"
+        rpy="0 0 0" />
+      <mass
+        value="0.0134506502942728" />
+      <inertia
+        ixx="1.98373964957458E-06"
+        ixy="4.60638229779207E-07"
+        ixz="-2.83322318341381E-22"
+        iyy="1.74350158939294E-06"
+        iyz="2.65898364516044E-22"
+        izz="1.38757843634861E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FR_L2.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_FR_L2.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j4"
+    type="continuous">
+    <origin
+      xyz="-0.0115489964038243 0.0149467863940641 -0.0190401514018516"
+      rpy="0 0 0" />
+    <parent
+      link="Caster_FR_L1" />
+    <child
+      link="Caster_FR_L2" />
+    <axis
+      xyz="0.791305422131266 0.611421073324807 0" />
+  </joint>
+  <link
+    name="Caster_BL_L1">
+    <inertial>
+      <origin
+        xyz="0.00408434892746241 -0.0052860053425009 0.000285980134777264"
+        rpy="0 0 0" />
+      <mass
+        value="0.0204130719148165" />
+      <inertia
+        ixx="3.83181263459496E-06"
+        ixy="2.32407450513188E-07"
+        ixz="5.6477899296236E-07"
+        iyy="3.71046035024532E-06"
+        iyz="-7.31059449754512E-07"
+        izz="4.0472753158048E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BL_L1.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.63921568627451 0.666666666666667 0.67843137254902 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BL_L1.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j5"
+    type="continuous">
+    <origin
+      xyz="-0.0857089002783838 0.1280506163686 -0.0124758540710126"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Caster_BL_L1" />
+    <axis
+      xyz="0 0 -1" />
+  </joint>
+  <link
+    name="Caster_BL_L2">
+    <inertial>
+      <origin
+        xyz="-1.35403570994397E-09 -1.04622810415123E-09 -5.55111512312578E-17"
+        rpy="0 0 0" />
+      <mass
+        value="0.0134506502942728" />
+      <inertia
+        ixx="1.98373964957458E-06"
+        ixy="4.60638229779209E-07"
+        ixz="-4.24073382682958E-22"
+        iyy="1.74350158939295E-06"
+        iyz="-3.82922656339889E-22"
+        izz="1.38757843634862E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BL_L2.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BL_L2.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j6"
+    type="continuous">
+    <origin
+      xyz="0.0115489964038244 -0.0149467863940641 -0.0190401514018516"
+      rpy="0 0 0" />
+    <parent
+      link="Caster_BL_L1" />
+    <child
+      link="Caster_BL_L2" />
+    <axis
+      xyz="-0.791305422131268 -0.611421073324805 0" />
+  </joint>
+  <link
+    name="Caster_BR_L1">
+    <inertial>
+      <origin
+        xyz="0.00426051414314736 0.00514507323436747 0.000285980088502835"
+        rpy="0 0 0" />
+      <mass
+        value="0.0204130717793964" />
+      <inertia
+        ixx="3.81584984536879E-06"
+        ixy="-2.35998718633712E-07"
+        ixz="5.89253698887477E-07"
+        iyy="3.72642320954317E-06"
+        iyz="7.11479477745865E-07"
+        izz="4.04727563245301E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BR_L1.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.63921568627451 0.666666666666667 0.67843137254902 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BR_L1.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j7"
+    type="continuous">
+    <origin
+      xyz="-0.0856837923092223 -0.128070702743929 -0.0124758540710126"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Caster_BR_L1" />
+    <axis
+      xyz="0 0 -1" />
+  </joint>
+  <link
+    name="Caster_BR_L2">
+    <inertial>
+      <origin
+        xyz="1.3179376964767E-09 -1.09135056547416E-09 -5.55111512312578E-17"
+        rpy="0 0 0" />
+      <mass
+        value="0.0134506502942728" />
+      <inertia
+        ixx="1.95237654972357E-06"
+        ixy="-4.67694927245687E-07"
+        ixz="-5.47064792866746E-23"
+        iyy="1.77486468924397E-06"
+        iyz="2.05813171252089E-22"
+        izz="1.38757843634862E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BR_L2.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Caster_BR_L2.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j8"
+    type="continuous">
+    <origin
+      xyz="0.012047 0.014548 -0.01904"
+      rpy="0 0 0" />
+    <parent
+      link="Caster_BR_L1" />
+    <child
+      link="Caster_BR_L2" />
+    <axis
+      xyz="0.77021 -0.63779 0" />
+  </joint>
+  <link
+    name="Drive_Left">
+    <inertial>
+      <origin
+        xyz="0 -0.000196595786188664 2.77555756156289E-17"
+        rpy="0 0 0" />
+      <mass
+        value="1.11580065519004" />
+      <inertia
+        ixx="0.0019615863343386"
+        ixy="1.42383305653788E-19"
+        ixz="0"
+        iyy="0.00332666140467991"
+        iyz="3.80640925427205E-20"
+        izz="0.0019615863343386" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Drive_Left.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Drive_Left.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j9"
+    type="continuous">
+    <origin
+      xyz="0.052092 0.2015 0.033"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Drive_Left" />
+    <axis
+      xyz="0 1 0" />
+  </joint>
+  <link
+    name="Drive_Right">
+    <inertial>
+      <origin
+        xyz="0 0.000196595786188691 0"
+        rpy="0 0 0" />
+      <mass
+        value="1.11580065519004" />
+      <inertia
+        ixx="0.0019615863343386"
+        ixy="-1.42383305653788E-19"
+        ixz="1.54074395550979E-33"
+        iyy="0.00332666140467991"
+        iyz="3.97581584372463E-20"
+        izz="0.0019615863343386" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Drive_Right.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Drive_Right.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j10"
+    type="continuous">
+    <origin
+      xyz="0.052092 -0.2015 0.033"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Drive_Right" />
+    <axis
+      xyz="0 1 0" />
+  </joint>
+  <link
+    name="Bumper_front">
+    <inertial>
+      <origin
+        xyz="-0.0165839535825394 -2.27715617590052E-06 -0.00293626948130543"
+        rpy="0 0 0" />
+      <mass
+        value="0.104295942444736" />
+      <inertia
+        ixx="0.00211421092731407"
+        ixy="4.04585165817181E-10"
+        ixz="3.44922719447169E-08"
+        iyy="6.63953135754331E-05"
+        iyz="-2.00107077443604E-08"
+        izz="0.00216427771578302" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Bumper_front.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Bumper_front.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j11"
+    type="fixed">
+    <origin
+      xyz="0.30537 0 0.080455"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Bumper_front" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="Bumper_left">
+    <inertial>
+      <origin
+        xyz="0.00526123527892375 -2.17749152042757E-11 -0.00802571082863124"
+        rpy="0 0 0" />
+      <mass
+        value="0.0390054903985016" />
+      <inertia
+        ixx="0.00026187860056928"
+        ixy="-1.00127827244727E-09"
+        ixz="2.49682907483928E-10"
+        iyy="2.14935044442164E-06"
+        iyz="-2.05652337398701E-07"
+        izz="0.000261929879505457" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Bumper_left.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Bumper_left.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j12"
+    type="fixed">
+    <origin
+      xyz="-0.20585 0 0.086458"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Bumper_left" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="Depth_Camera">
+    <inertial>
+      <origin
+        xyz="-0.0128139973570796 -3.17495927576461E-06 -0.00984505701146712"
+        rpy="0 0 0" />
+      <mass
+        value="0.0480750905328199" />
+      <inertia
+        ixx="2.73264668598113E-05"
+        ixy="-4.2752268585597E-07"
+        ixz="7.54350428431492E-09"
+        iyy="3.34503536347043E-06"
+        iyz="2.13007714426405E-09"
+        izz="2.65817764463825E-05" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Depth_Camera.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.776470588235294 0.756862745098039 0.737254901960784 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Depth_Camera.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j13"
+    type="fixed">
+    <origin
+      xyz="0.2588 9.3276E-05 0.18683"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Depth_Camera" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="Lidar_Link">
+    <inertial>
+      <origin
+        xyz="-0.000230501707678632 -1.11416695119937E-05 -0.00608142264794227"
+        rpy="0 0 0" />
+      <mass
+        value="0.162441348075653" />
+      <inertia
+        ixx="7.451729111796E-05"
+        ixy="2.86446915091305E-08"
+        ixz="4.83445829771046E-07"
+        iyy="7.39261784111909E-05"
+        iyz="2.33702146509965E-08"
+        izz="0.000105565753140478" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Lidar_Link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.117647058823529 0.27843137254902 0.517647058823529 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Lidar_Link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j14"
+    type="fixed">
+    <origin
+      xyz="0.19869 -0.0020879 0.26528"
+      rpy="0 0 3.141" />
+    <parent
+      link="base_link" />
+    <child
+      link="Lidar_Link" />
+    <axis
+      xyz="0 0 1" />
+  </joint>
+  <link
+    name="Cliff_FL">
+    <inertial>
+      <origin
+        xyz="-0.00632955530042678 0.00247464158059507 0.00341036007271434"
+        rpy="0 0 0" />
+      <mass
+        value="0.00226175885578477" />
+      <inertia
+        ixx="1.2935154227033E-07"
+        ixy="3.71298621061242E-10"
+        ixz="-3.34343620521264E-10"
+        iyy="3.86375392136421E-08"
+        iyz="-3.94674227803329E-09"
+        izz="1.28952377731619E-07" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_FL.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.250980392156863 0.250980392156863 0.250980392156863 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_FL.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="J15"
+    type="fixed">
+    <origin
+      xyz="0.26835 0.1719 0.040903"
+      rpy="0 1.2217 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Cliff_FL" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="Cliff_FR">
+    <inertial>
+      <origin
+        xyz="-0.00532956572218052 -0.00237464565108125 0.00310153131969215"
+        rpy="0 0 0" />
+      <mass
+        value="0.00226175209734622" />
+      <inertia
+        ixx="1.29351430678026E-07"
+        ixy="-3.71264294134214E-10"
+        ixz="3.34317931439992E-10"
+        iyy="3.86374509550347E-08"
+        iyz="-3.94672945687012E-09"
+        izz="1.28952170576261E-07" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_FR.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.250980392156863 0.250980392156863 0.250980392156863 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_FR.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j16"
+    type="fixed">
+    <origin
+      xyz="0.26586 -0.172 0.04106"
+      rpy="0 1.2217 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Cliff_FR" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="Cliff_BR">
+    <inertial>
+      <origin
+        xyz="-0.00632956572218049 0.00247464565108113 0.00341035804269613"
+        rpy="0 0 0" />
+      <mass
+        value="0.00226175209734623" />
+      <inertia
+        ixx="1.29351430678026E-07"
+        ixy="3.71264294134193E-10"
+        ixz="-3.34317931439847E-10"
+        iyy="3.86374509550348E-08"
+        iyz="-3.94672945687023E-09"
+        izz="1.28952170576261E-07" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_BR.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.250980392156863 0.250980392156863 0.250980392156863 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_BR.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="17"
+    type="fixed">
+    <origin
+      xyz="-0.17637 -0.1696 0.050667"
+      rpy="3.1416 1.2217 3.1416" />
+    <parent
+      link="base_link" />
+    <child
+      link="Cliff_BR" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="Cliff_BL">
+    <inertial>
+      <origin
+        xyz="-0.00532955530042678 -0.00372760721482324 0.00331036007271424"
+        rpy="0 0 0" />
+      <mass
+        value="0.00226175885578476" />
+      <inertia
+        ixx="1.2935154227033E-07"
+        ixy="3.71298621060903E-10"
+        ixz="-3.34343620521489E-10"
+        iyy="3.86375392136419E-08"
+        iyz="-3.94674227803325E-09"
+        izz="1.28952377731619E-07" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_BL.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.250980392156863 0.250980392156863 0.250980392156863 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Cliff_BL.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="18"
+    type="fixed">
+    <origin
+      xyz="-0.17216 0.1634 0.050196"
+      rpy="0 1.2217 3.1416" />
+    <parent
+      link="base_link" />
+    <child
+      link="Cliff_BL" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="Pan_Link">
+    <inertial>
+      <origin
+        xyz="3.19890055041766E-05 -0.000487319332622527 0.122011996869727"
+        rpy="0 0 0" />
+      <mass
+        value="1.08800979627178" />
+      <inertia
+        ixx="0.038019815738641"
+        ixy="-0.000573998440137357"
+        ixz="-3.18684224772804E-05"
+        iyy="0.00930044941994644"
+        iyz="0.000171447033906349"
+        izz="0.0293386219816032" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Pan_Link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Pan_Link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j19"
+    type="fixed">
+    <origin
+      xyz="-0.011406 0 0.74812"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="Pan_Link" />
+    <axis
+      xyz="0 0 1" />
+  </joint>
+  <link
+    name="Tilt_Link">
+    <inertial>
+      <origin
+        xyz="0.016680730512737 0.00339089984999758 -0.0159654801421206"
+        rpy="0 0 0" />
+      <mass
+        value="1.49813618492455" />
+      <inertia
+        ixx="0.0250402645509468"
+        ixy="1.98862841839733E-05"
+        ixz="0.00105229752887832"
+        iyy="0.00904510179907581"
+        iyz="-8.95214263170586E-05"
+        izz="0.0191570615982136" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Tilt_Link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Tilt_Link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j20"
+    type="fixed">
+    <origin
+      xyz="-0.010705 -0.00076808 0.28983"
+      rpy="0 0 0" />
+    <parent
+      link="Pan_Link" />
+    <child
+      link="Tilt_Link" />
+    <axis
+      xyz="0 -1 0" />
+  </joint>
+  <link
+    name="Azure_Link">
+    <inertial>
+      <origin
+        xyz="-0.0556652165435779 -2.85545560679834E-06 -0.0224261787650866"
+        rpy="0 0 0" />
+      <mass
+        value="2.43875456249443" />
+      <inertia
+        ixx="0.00205613161528832"
+        ixy="4.1340860071639E-07"
+        ixz="-0.000216031980388282"
+        iyy="0.00366777685200406"
+        iyz="3.65667206163588E-08"
+        izz="0.00535086867088923" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Azure_Link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.941176470588235 0.941176470588235 0.941176470588235 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://rehab_robot/meshes/rehab_robot_china/Azure_Link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="j21"
+    type="fixed">
+    <origin
+      xyz="0.058051 0.002302 0.068063"
+      rpy="0 0 0" />
+    <parent
+      link="Tilt_Link" />
+    <child
+      link="Azure_Link" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+</robot>

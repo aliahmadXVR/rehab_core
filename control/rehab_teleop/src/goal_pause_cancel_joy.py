@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # ####### For publishing the Goal Cancel Message and Pausing the goal for specific time ########
 import rospy

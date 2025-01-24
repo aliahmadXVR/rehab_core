@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ############### Auto Updating the Parameters #########################
 # Import necessary libraries
@@ -10,7 +10,6 @@ import os
 import getpass
 
 # Get the current username
-<<<<<<< HEAD
 import os
 import getpass
 username = getpass.getuser()
@@ -18,7 +17,7 @@ print("USERNAME:", username)
 
 # Initialize goal times
 t1 = t2 = t3 = t4 = t5 = t6 = 0
-=======
+
 username = getpass.getuser()
 print("USERNAME:", username)
 
@@ -26,7 +25,7 @@ print("USERNAME:", username)
 total_locations = 10
 location_times = [0] * total_locations  # Initialize a list to store goal times
 time_flags = [0] * total_locations  # Flags to track if a goal has been published
->>>>>>> b947dcb3a9c044eb442b5f5f6d7845029d34de73
+
 
 print("\n\nTimely Navigation Node Started!!!!")
 

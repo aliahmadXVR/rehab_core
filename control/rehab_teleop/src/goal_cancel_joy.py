@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ####### For publishing the Goal Cancel Message only once on the button click ########
 import rospy

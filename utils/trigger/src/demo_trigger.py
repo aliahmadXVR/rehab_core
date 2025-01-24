@@ -68,15 +68,8 @@ class GenericNode:
     ## Start & Stop risky behavior model (main.py)
     def start_main_ros(self):
         if self.main_ros_process is None:
-<<<<<<< HEAD
-            rospy.loginfo("\nStarting ros_master_node.py...")
-            # main_ros_path = "/home/orin2/risky_behaviors/main.py"  # Replace with the actual path of main.py
-            main_ros_path = f"/home/{username}/risky_behaviors/main.py"  # Replace with the actual path of main.py
-            
-=======
             rospy.loginfo("\nStarting ros_master_node.py for risky behaviors...")
             main_ros_path = f"/home/{username}/risky_behaviors/main.py"  # Path to risky behavior model
->>>>>>> b947dcb3a9c044eb442b5f5f6d7845029d34de73
             self.main_ros_process = Popen(["python3", main_ros_path])
             
     def stop_main_ros(self):

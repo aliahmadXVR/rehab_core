@@ -48,20 +48,12 @@ class GenericNode:
 
     def start_main_ros(self):
         if self.main_ros_process is None:
-<<<<<<< HEAD
             rospy.loginfo("\nStarting main_ros.py...")
             main_ros_path = f"/home/{username}/trt_pose_gait/main_ros.py" #Replace with the actual path of ros_master_node.py
             
             # rospy.loginfo("\nStarting ros_master_node.py...")
             # main_ros_path = f"/home/{username}/trt_pose_gait/ros_master_node.py" #Replace with the actual path of ros_master_node.py
             
-=======
-            # rospy.loginfo("\nStarting main_ros.py...")
-            # main_ros_path = "/home/orin2/gait_analysis/main_ros.py"  # Replace with the actual path of main_ros.py
-            rospy.loginfo("\nStarting ros_master_node.py...")
-            # main_ros_path = "/home/orin2/master_node/ros_master_node.py" #Replace with the actual path of ros_master_node.py
-            main_ros_path = f"/home/{username}/master_node/ros_master_node.py" #Replace with the actual path of ros_master_node.py
->>>>>>> b947dcb3a9c044eb442b5f5f6d7845029d34de73
             self.main_ros_process = Popen(["python3", main_ros_path])
 
     def stop_main_ros(self):
